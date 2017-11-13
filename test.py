@@ -3,8 +3,8 @@ import numpy as np
 
 data = pd.read_csv("segmentation_test.csv")
 
-data_shape = pd.concat([data.iloc[:, 0:9], data.iloc[:, 19]], axis=1)
-data_color = data.iloc[:, 9:20]
+data_shape = pd.concat([data.iloc[:, 0:9], data.iloc[:, 19]], axis=1).set_index('LABEL')
+data_color = data.iloc[:, 9:20].set_index('LABEL')
 
 test = data
 
