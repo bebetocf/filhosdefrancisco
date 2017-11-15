@@ -82,8 +82,14 @@ for it in range(0, 1):
     D.append(calculate_dissimilarity(data, shape_ini, shape_end, G))
     D.append(calculate_dissimilarity(data, color_ini, color_end, G))
     choose_cluster(data, G, D, lambda_)
-    best_weight(data, G, D, lambda_)
     t = 0
+
+    best_G = np.copy(G)
+    best_cluster = (data.iloc[:,19:21]).copy()
+    best_lambda = np.copy(lambda_)
+    best_J = float("inf")
+    # TODO: Remove after implementing function to calculate CR index
+    # CR = calculate_CR()
 
     stop_calculate = False
     while not stop_calculate:
@@ -101,3 +107,14 @@ for it in range(0, 1):
 
         # Choose new cluster for the objects
         stop_calculate = choose_cluster(data, G, D, lambda_)
+
+    # TODO: Remove comment after implementing function to calculate J
+    # J = calculate_J()
+    # if(J < best_J):
+    #     best_G = np.copy(G)
+    #     best_cluster = (data.iloc[:,19:21]).copy()
+    #     best_lambda = np.copy(lambda_)
+    #     best_J = J
+
+# TODO: Remove after implementing function to calculate CR index
+# CR = calculate_CR()
