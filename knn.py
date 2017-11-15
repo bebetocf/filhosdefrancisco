@@ -1,39 +1,40 @@
 import pandas as pd
 import math
 
-data = pd.read_csv("segmentation_test.csv")
 
-data_shape = pd.concat([data.iloc[:, 0:9], data.iloc[:, 19]], axis=1)
-data_color = data.iloc[:, 9:20]
-
-test = data
-
-
-df = data.set_index('LABEL')
- 
-d = len(df.columns)
 
 def knn(train, x, y, k):
-    
+    #print(train.index.name)
     neigbords = (train - x).apply(abs).sum(axis = 1).nsmallest(k, 'last').groupby('LABEL').count()
     
-    maxx = 0    
+    maxx = 0
     for i in neigbords.index:
         if(neigbords[i] > maxx):
             label = i   
             maxx = neigbords[i]
     return label == y 
     
+def knn_label(train, x, k):
     
-test_data = data.set_index('LABEL')
-train_data = data.set_index('LABEL')
+    neigbords = (train - x).apply(abs).sum(axis = 1).nsmallest(k, 'last').groupby('LABEL').count()
+    
+    maxx = 0
+    for i in neigbords.index:
+        if(neigbords[i] > maxx):
+            label = i   
+            maxx = neigbords[i]
+    return label 
 
+def knn_lables(test, train, k):
+    v = []
+    for i in range(len(test)):
+        v += [knn_label(test.iloc[i], test, k)]
+    
+    return v
 
 def knn_dataframes(test, train, k):
     correct = 0
     for i in range(len(test)):
         if knn(train, test.iloc[i], test.index[i], k):
-            correct +=1
+            correct += 1
     return correct
-
-print(knn_dataframes(train_data,test_data,5)) 
