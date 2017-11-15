@@ -15,11 +15,10 @@ shape_end = 9
 color_ini = 9
 color_end = 19
 
-d_total = [];
+# d_total = [];
 
 K = 7
 q = 3
-t = 0
 p = 2
 D = []
 
@@ -40,17 +39,21 @@ def calculate_dissimilarity(data, min_index, max_index, G):
     return D
 
 def choose_cluster(data, G, D, lambda_):
-    global d_total
+    # global d_total
     D[0] = D[0] * lambda_[0];
     D[1] = D[1] * lambda_[1];
     d_total = D[0] + D[1]
     data['CLUSTER'] = d_total.argmin(axis = 1)
+
+def best_prototypes(data, G, D, lambda_):
+
 
 
 # G = np.zeros((K, q), dtype=np.int)
 # D = calculate_dissimilarity(data, shape_ini, shape_end, G)
 
 for it in range(0, 100):
+    # Initializaiton
     # print it
     lambda_ = np.ones(p)
     G = random_prototypes(data.index.values, K, q)
@@ -58,3 +61,8 @@ for it in range(0, 100):
     D.append(calculate_dissimilarity(data, shape_ini, shape_end, G))
     D.append(calculate_dissimilarity(data, color_ini, color_end, G))
     choose_cluster(data, G, D, lambda_)
+    t = 0
+
+    stop_calculate = false
+    while not stop_calculate:
+        t = t + 1
