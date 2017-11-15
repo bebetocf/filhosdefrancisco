@@ -54,6 +54,21 @@ def choose_cluster(data, G, D, lambda_):
 # def best_prototypes(data, G, D, lambda_):
 #     d_total = add_dissimilarity(D, lambda_)
 
+def best_weight(data, G, D, lambda_):
+    K = G.shape[0]
+    q = G.shape[1]
+    p = len(D)
+    denom = []
+
+    for h in range(0, p):
+        data_cluster = 0
+        for k in range(0, K):
+            data_cluster += (D[h][data['CLUSTER'] == k][:,k]).sum(axis = 0)
+        denom.append(data_cluster)
+
+    num = reduce(lambda x, y: x*y, denom)
+    for j in range(0, p):
+        lambda_[j] = num/denom[j]
 
 # G = np.zeros((K, q), dtype=np.int)
 # D = calculate_dissimilarity(data, shape_ini, shape_end, G)
@@ -67,15 +82,22 @@ for it in range(0, 1):
     D.append(calculate_dissimilarity(data, shape_ini, shape_end, G))
     D.append(calculate_dissimilarity(data, color_ini, color_end, G))
     choose_cluster(data, G, D, lambda_)
+    best_weight(data, G, D, lambda_)
     t = 0
 
     stop_calculate = False
     while not stop_calculate:
         t = t + 1
-        
+        # print t
+        # TODO: Calculate best prototypes
+
+        # Recalculate dissimilarity matrix
+        D[:] = []
+        D.append(calculate_dissimilarity(data, shape_ini, shape_end, G))
+        D.append(calculate_dissimilarity(data, color_ini, color_end, G))
+
+        # Recalculating weight vector
+        best_weight(data, G, D, lambda_)
+
+        # Choose new cluster for the objects
         stop_calculate = choose_cluster(data, G, D, lambda_)
-        #print t
-        
-        
-        
-        
