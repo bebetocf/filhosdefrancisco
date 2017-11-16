@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import math
 from sklearn.metrics.cluster import adjusted_rand_score
 from sklearn import preprocessing
 
@@ -108,7 +109,7 @@ def best_weight(data, G, D, lambda_):
         denom.append(data_cluster)
 
     num = reduce(lambda x, y: x*y, denom)
-    num = num ** (1/p)
+    num = math.sqrt(num)
     for j in range(0, p):
         lambda_[j] = num/denom[j]
 
