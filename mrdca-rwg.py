@@ -39,25 +39,32 @@ def random_prototypes(v, k, q):
     v = v.reshape(10, len(v)/10)
     return v[:k,:q]
 
-def calculate_dissimilarity(data, min_index, max_index, G):
-    k = G.shape[0]
-    q = G.shape[1]
-    D = np.zeros((data.shape[0], k))
-    for i in range(0, k):
-        for j in range(0, q):
-            diff = (data.iloc[:, min_index:max_index] - data.iloc[G[i][j], min_index:max_index])
-            diff = (diff.apply(np.square).sum(axis = 1).apply(np.sqrt)).values
-            D[:,i] += diff
+def calculate_dissimilarity(data, min_index, max_index):
+    n = data.shape[0]
+    D = np.zeros((n, n))
+    for i in range(0, n):
+        diff = (data.iloc[:, min_index:max_index] - data.iloc[i, min_index:max_index])
+        diff = (diff.apply(np.square).sum(axis = 1).apply(np.sqrt)).values
+        D[:,i] += diff
     return D
 
 def add_dissimilarity(D, lambda_):
-    D[0] = D[0] * lambda_[0];
-    D[1] = D[1] * lambda_[1];
-    return D[0] + D[1]
+    ret = []
+    ret.append(D[0] * lambda_[0])
+    ret.append(D[1] * lambda_[1])
+    return ret[0] + ret[1]
 
 def choose_cluster(data, G, D, lambda_):
     d_total = add_dissimilarity(D, lambda_)
-    newClusters = d_total.argmin(axis = 1)
+    n = data.shape[0]
+    K = G.shape[0]
+    q = G.shape[1]
+    d_cluster = np.zeros((n, K))
+    for i in range(0,K):
+        for j in range(0,q):
+            d_cluster[:, i] += (d_total[:,G[i][j]])
+
+    newClusters = d_cluster.argmin(axis = 1)
     if(np.array_equal(data['CLUSTER'],newClusters)):
         return True
     else:
@@ -66,21 +73,35 @@ def choose_cluster(data, G, D, lambda_):
 
 
 # def best_prototypes(data, G, D, lambda_):
+#     K = G.shape[0]
 #     d_total = add_dissimilarity(D, lambda_)
+#     for k in range(0, K):
+
 
 def best_weight(data, G, D, lambda_):
+    n = data.shape[0]
     K = G.shape[0]
     q = G.shape[1]
     p = len(D)
     denom = []
 
+    d_cluster = []
+    for h in range(0,p):
+        use = D[h]
+        temp = np.zeros((n, K))
+        for i in range(0,K):
+            for j in range(0,q):
+                temp[:, i] += (use[:,G[i][j]])
+        d_cluster.append(temp)
+
     for h in range(0, p):
         data_cluster = 0
         for k in range(0, K):
-            data_cluster += (D[h][data['CLUSTER'] == k][:,k]).sum(axis = 0)
+            data_cluster += (d_cluster[h][data['CLUSTER'] == k][:,k]).sum(axis = 0)
         denom.append(data_cluster)
 
     num = reduce(lambda x, y: x*y, denom)
+    num = num ** (1/p)
     for j in range(0, p):
         lambda_[j] = num/denom[j]
 
@@ -91,14 +112,15 @@ def calculate_J(D, lambda_):
             ret += lambda_[h] * (D[h][data['CLUSTER'] == k][:,k]).sum(axis = 0)
     return ret
 
-for it in range(0, 1):
+D[:] = []
+D.append(calculate_dissimilarity(data, shape_ini, shape_end))
+D.append(calculate_dissimilarity(data, color_ini, color_end))
+
+for it in range(0, 2):
     # Initializaiton
-    # print it
+    print "Repeticao: " + str(it)
     lambda_ = np.ones(p)
     G = random_prototypes(data.index.values, K, q)
-    D[:] = []
-    D.append(calculate_dissimilarity(data, shape_ini, shape_end, G))
-    D.append(calculate_dissimilarity(data, color_ini, color_end, G))
     choose_cluster(data, G, D, lambda_)
     t = 0
 
@@ -110,13 +132,8 @@ for it in range(0, 1):
     stop_calculate = False
     while not stop_calculate:
         t = t + 1
-        # print t
+        print "Iteracao: " + str(t)
         # TODO: Calculate best prototypes
-
-        # Recalculate dissimilarity matrix
-        D[:] = []
-        D.append(calculate_dissimilarity(data, shape_ini, shape_end, G))
-        D.append(calculate_dissimilarity(data, color_ini, color_end, G))
 
         # Recalculating weight vector
         best_weight(data, G, D, lambda_)
