@@ -1,8 +1,19 @@
 import pandas as pd
 import numpy as np
 from sklearn.metrics.cluster import adjusted_rand_score
+from sklearn import preprocessing
+
+def normalizeDataframe(df):
+    min_max_scaler = preprocessing.MinMaxScaler()
+    data_scaled = pd.DataFrame(min_max_scaler.fit_transform(data.loc[:, data.columns != 'LABEL']))
+    data_scaled['LABEL'] = data['LABEL'] 
+    data_scaled.columns = data.columns
+    return data_scaled
 
 data = pd.read_csv("segmentation_test.csv")
+
+# Nomarlize Features 
+data = normalizeDataframe(data)
 
 data['CLUSTER'] = -1 * np.ones((data.shape[0], 1))
 data['LABEL'] = data['LABEL'].astype('category')
@@ -109,11 +120,11 @@ for it in range(0, 1):
 
         # Recalculating weight vector
         best_weight(data, G, D, lambda_)
-
+        
         # Choose new cluster for the objects
         stop_calculate = choose_cluster(data, G, D, lambda_)
 
-        print calculate_J(D, lambda_)
+        print ("J: " + str(calculate_J(D, lambda_)))
 
     J = calculate_J(D, lambda_)
     if(J < best_J):
