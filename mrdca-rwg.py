@@ -6,13 +6,13 @@ from sklearn import preprocessing
 def normalizeDataframe(df):
     min_max_scaler = preprocessing.MinMaxScaler()
     data_scaled = pd.DataFrame(min_max_scaler.fit_transform(data.loc[:, data.columns != 'LABEL']))
-    data_scaled['LABEL'] = data['LABEL'] 
+    data_scaled['LABEL'] = data['LABEL']
     data_scaled.columns = data.columns
     return data_scaled
 
 data = pd.read_csv("segmentation_test.csv")
 
-# Nomarlize Features 
+# Nomarlize Features
 data = normalizeDataframe(data)
 
 data['CLUSTER'] = -1 * np.ones((data.shape[0], 1))
@@ -72,11 +72,18 @@ def choose_cluster(data, G, D, lambda_):
         return False
 
 
-# def best_prototypes(data, G, D, lambda_):
-#     K = G.shape[0]
-#     d_total = add_dissimilarity(D, lambda_)
-#     for k in range(0, K):
+def best_prototypes(data, G, D, lambda_):
+    n = data.shape[0]
+    K = G.shape[0]
+    d_total = add_dissimilarity(D, lambda_)
 
+    for k in range(0, K):
+        d_prototype = np.zeros(n)
+        for i in range(0, n):
+            temp = d_total[data['CLUSTER'] == k]
+            d_prototype[i] = (temp[:,i].sum())
+        d_prototype = np.argsort(d_prototype)
+        G[k,:] = d_prototype[0:3]
 
 def best_weight(data, G, D, lambda_):
     n = data.shape[0]
@@ -133,11 +140,12 @@ for it in range(0, 2):
     while not stop_calculate:
         t = t + 1
         print "Iteracao: " + str(t)
-        # TODO: Calculate best prototypes
+        # Calculate best prototypes
+        best_prototypes(data, G, D, lambda_)
 
         # Recalculating weight vector
         best_weight(data, G, D, lambda_)
-        
+
         # Choose new cluster for the objects
         stop_calculate = choose_cluster(data, G, D, lambda_)
 
@@ -149,6 +157,8 @@ for it in range(0, 2):
         best_cluster = (data.iloc[:,19:21]).copy()
         best_lambda = np.copy(lambda_)
         best_J = J
+
+    print "\n\n"
 
 CR = adjusted_rand_score(best_cluster['LABEL'], best_cluster['CLUSTER'])
 print CR
