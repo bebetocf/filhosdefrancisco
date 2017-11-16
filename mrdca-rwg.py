@@ -112,18 +112,27 @@ def best_weight(data, G, D, lambda_):
     for j in range(0, p):
         lambda_[j] = num/denom[j]
 
-def calculate_J(D, lambda_):
+def calculate_J(D, lambda_, G):
+    n = D[0].shape[0]
+    K = G.shape[0]
+    q = G.shape[1]
     ret = 0
+    d_total = add_dissimilarity(D, lambda_)
+
+    temp = np.zeros((n, K))
+    for i in range(0,K):
+        for j in range(0,q):
+            temp[:, i] += (d_total[:,G[i][j]])
+
     for k in range(0, K):
-        for h in range(0, p):
-            ret += lambda_[h] * (D[h][data['CLUSTER'] == k][:,k]).sum(axis = 0)
+        ret += (temp[data['CLUSTER'] == k][:,k]).sum(axis = 0)
     return ret
 
 D[:] = []
 D.append(calculate_dissimilarity(data, shape_ini, shape_end))
 D.append(calculate_dissimilarity(data, color_ini, color_end))
 
-for it in range(0, 2):
+for it in range(0, 1):
     # Initializaiton
     print "Repeticao: " + str(it)
     lambda_ = np.ones(p)
@@ -136,22 +145,26 @@ for it in range(0, 2):
     best_lambda = np.copy(lambda_)
     best_J = float("inf")
 
+    print ("J (init): " + str(calculate_J(D, lambda_, G)))
+
     stop_calculate = False
     while not stop_calculate:
         t = t + 1
         print "Iteracao: " + str(t)
         # Calculate best prototypes
         best_prototypes(data, G, D, lambda_)
+        print ("J (prototypes): " + str(calculate_J(D, lambda_, G)))
 
         # Recalculating weight vector
         best_weight(data, G, D, lambda_)
+        print ("J (weight): " + str(calculate_J(D, lambda_, G)))
 
         # Choose new cluster for the objects
         stop_calculate = choose_cluster(data, G, D, lambda_)
+        print ("J (organize): " + str(calculate_J(D, lambda_, G)))
 
-        print ("J: " + str(calculate_J(D, lambda_)))
 
-    J = calculate_J(D, lambda_)
+    J = calculate_J(D, lambda_, G)
     if(J < best_J):
         best_G = np.copy(G)
         best_cluster = (data.iloc[:,19:21]).copy()
