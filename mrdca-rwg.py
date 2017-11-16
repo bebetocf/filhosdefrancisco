@@ -1,9 +1,12 @@
 import pandas as pd
 import numpy as np
+from sklearn.metrics.cluster import adjusted_rand_score
 
 data = pd.read_csv("segmentation_test.csv")
 
 data['CLUSTER'] = -1 * np.ones((data.shape[0], 1))
+data['LABEL'] = data['LABEL'].astype('category')
+data['LABEL'] = data['LABEL'].astype('category').cat.codes
 
 # data_shape = data.iloc[:, 0:9]
 # data_color = data.iloc[:, 9:19]
@@ -92,8 +95,6 @@ for it in range(0, 1):
     best_cluster = (data.iloc[:,19:21]).copy()
     best_lambda = np.copy(lambda_)
     best_J = float("inf")
-    # TODO: Remove after implementing function to calculate CR index
-    # CR = calculate_CR()
 
     stop_calculate = False
     while not stop_calculate:
@@ -121,5 +122,5 @@ for it in range(0, 1):
         best_lambda = np.copy(lambda_)
         best_J = J
 
-# TODO: Remove after implementing function to calculate CR index
-# CR = calculate_CR()
+CR = adjusted_rand_score(best_cluster['LABEL'], best_cluster['CLUSTER'])
+print CR
