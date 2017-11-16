@@ -1,15 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
-
-import pandas as pd
 import numpy as np
-import scipy.stats as stats
-
-#from scipy import stats
+from scipy import stats
 from itertools import combinations
 from statsmodels.stats.multitest import multipletests
 from statsmodels.stats.libqsturng import psturng
@@ -144,18 +134,3 @@ def kw_nemenyi(groups, to_compare=None, alpha=0.05, method='tukey'):
     reject = p_corrected <= alpha
 
     return H, p_omnibus, p_corrected, reject
-
-
-
-
-
-
-data = pd.read_csv("out.csv")
-data.drop(['Unnamed: 0'], axis=1, inplace=True)
-
-data_ranked = data.rank(axis=1)
-data_ranked = data.as_matrix()
-print stats.friedmanchisquare(*[data_ranked[x, :] for x in np.arange(data_ranked.shape[0])])
-
-data = data.as_matrix()
-x = kw_nemenyi(data)
