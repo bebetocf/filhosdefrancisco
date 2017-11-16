@@ -70,8 +70,12 @@ def best_weight(data, G, D, lambda_):
     for j in range(0, p):
         lambda_[j] = num/denom[j]
 
-# G = np.zeros((K, q), dtype=np.int)
-# D = calculate_dissimilarity(data, shape_ini, shape_end, G)
+def calculate_J(D, lambda_):
+    ret = 0
+    for k in range(0, K):
+        for h in range(0, p):
+            ret += lambda_[h] * (D[h][data['CLUSTER'] == k][:,k]).sum(axis = 0)
+    return ret
 
 for it in range(0, 1):
     # Initializaiton
@@ -108,13 +112,14 @@ for it in range(0, 1):
         # Choose new cluster for the objects
         stop_calculate = choose_cluster(data, G, D, lambda_)
 
-    # TODO: Remove comment after implementing function to calculate J
-    # J = calculate_J()
-    # if(J < best_J):
-    #     best_G = np.copy(G)
-    #     best_cluster = (data.iloc[:,19:21]).copy()
-    #     best_lambda = np.copy(lambda_)
-    #     best_J = J
+        print calculate_J(D, lambda_)
+
+    J = calculate_J(D, lambda_)
+    if(J < best_J):
+        best_G = np.copy(G)
+        best_cluster = (data.iloc[:,19:21]).copy()
+        best_lambda = np.copy(lambda_)
+        best_J = J
 
 # TODO: Remove after implementing function to calculate CR index
 # CR = calculate_CR()
