@@ -96,8 +96,7 @@ def test(df):
             
             result.loc[index] = [knn_shape_correct, knn_color_correct, baysian_shape_correct, baysian_color_correct, majority_correct]
             index += 1;
-        out_str = "out_"+str(t)+".csv"
-        result.to_csv(out_str)
+        result.to_csv("part_2_results.csv")
         df = df.sample(frac=1)
 
 test(df)
