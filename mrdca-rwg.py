@@ -142,7 +142,7 @@ best_G = np.copy((K, q))
 best_cluster = (data.iloc[:,19:21]).copy()
 best_lambda = np.copy(np.ones(p))
 
-for it in tqdm(range(0, 100)):
+for it in tqdm(range(0, 200)):
     file = open(file_name, "a")
 
     # Initializaiton
@@ -211,6 +211,18 @@ CR = adjusted_rand_score(best_cluster['LABEL'], best_cluster['CLUSTER'])
 file.write("Best result:\n")
 file.write("\tCR: " + str(CR) + "\n")
 file.write("\tShape weight: " + str(best_lambda[0]) + "\n")
-file.write("\tColor weight: " + str(best_lambda[1]))
+file.write("\tColor weight: " + str(best_lambda[1]) + "\n")
+file.write("\tClusters prototypes:\n\t")
+for j in range(0, q):
+    file.write("\t\t" + str(j) + "\t")
+file.write("\n")
+
+for i in range(0, K):
+    file.write("\t\t" + str(i+1))
+    for j in range(0, q):
+        file.write("\t" + str(best_G[i][j]) + "\t")
+    file.write("\n")
+
+
 # print("Best CR: " + str(CR))
 file.close()

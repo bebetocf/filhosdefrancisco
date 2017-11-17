@@ -1,0 +1,7853 @@
+Repeticao: 0
+	J (init): 6937.05055898
+	Iteracao: 1
+		J (prototypes): 4790.44360937
+		J (weight): 4780.25484742
+		J (organize): 4182.92725376
+	Iteracao: 2
+		J (prototypes): 3997.69463396
+		J (weight): 3985.45070423
+		J (organize): 3472.16501096
+	Iteracao: 3
+		J (prototypes): 3343.2145538
+		J (weight): 3307.58449585
+		J (organize): 3254.64488885
+	Iteracao: 4
+		J (prototypes): 3242.94783057
+		J (weight): 3239.63801638
+		J (organize): 3227.98713445
+	Iteracao: 5
+		J (prototypes): 3223.65867404
+		J (weight): 3223.54516896
+		J (organize): 3215.44006435
+	Iteracao: 6
+		J (prototypes): 3214.22343121
+		J (weight): 3214.20570188
+		J (organize): 3212.08430927
+	Iteracao: 7
+		J (prototypes): 3212.08430927
+		J (weight): 3212.02925036
+		J (organize): 3212.02603074
+	Iteracao: 8
+		J (prototypes): 3212.02603074
+		J (weight): 3212.02185664
+		J (organize): 3212.02070527
+	Iteracao: 9
+		J (prototypes): 3212.02070527
+		J (weight): 3212.02045716
+		J (organize): 3212.02045716
+
+	CR: 0.499663889908
+
+
+Repeticao: 1
+	J (init): 6823.62993837
+	Iteracao: 1
+		J (prototypes): 4643.09364683
+		J (weight): 4620.62597028
+		J (organize): 3857.72582788
+	Iteracao: 2
+		J (prototypes): 3719.44822458
+		J (weight): 3634.92743377
+		J (organize): 3572.06963629
+	Iteracao: 3
+		J (prototypes): 3531.37892077
+		J (weight): 3519.21863347
+		J (organize): 3503.54420935
+	Iteracao: 4
+		J (prototypes): 3503.54420935
+		J (weight): 3502.75582973
+		J (organize): 3502.70854022
+	Iteracao: 5
+		J (prototypes): 3502.70854022
+		J (weight): 3502.70714551
+		J (organize): 3502.70714551
+
+	CR: 0.489973908366
+
+
+Repeticao: 2
+	J (init): 5885.01901407
+	Iteracao: 1
+		J (prototypes): 4851.11937886
+		J (weight): 4850.07475362
+		J (organize): 4044.58533507
+	Iteracao: 2
+		J (prototypes): 3717.35659995
+		J (weight): 3615.00876359
+		J (organize): 3541.66924564
+	Iteracao: 3
+		J (prototypes): 3524.26153842
+		J (weight): 3523.35474317
+		J (organize): 3521.60864444
+	Iteracao: 4
+		J (prototypes): 3521.54310968
+		J (weight): 3521.54177027
+		J (organize): 3521.49378156
+	Iteracao: 5
+		J (prototypes): 3521.49378156
+		J (weight): 3521.49378047
+		J (organize): 3521.49378047
+
+	CR: 0.461895182758
+
+
+Repeticao: 3
+	J (init): 7079.01521231
+	Iteracao: 1
+		J (prototypes): 4322.70538662
+		J (weight): 4322.68882468
+		J (organize): 4029.47168273
+	Iteracao: 2
+		J (prototypes): 3985.85295434
+		J (weight): 3985.42754259
+		J (organize): 3946.12595457
+	Iteracao: 3
+		J (prototypes): 3929.33147139
+		J (weight): 3929.29252448
+		J (organize): 3695.26717983
+	Iteracao: 4
+		J (prototypes): 3421.84803579
+		J (weight): 3359.41460267
+		J (organize): 3266.18882245
+	Iteracao: 5
+		J (prototypes): 3252.62962164
+		J (weight): 3250.43768126
+		J (organize): 3243.03790323
+	Iteracao: 6
+		J (prototypes): 3237.92934269
+		J (weight): 3237.89438151
+		J (organize): 3233.39162102
+	Iteracao: 7
+		J (prototypes): 3233.39162102
+		J (weight): 3233.37423599
+		J (organize): 3233.37423599
+
+	CR: 0.437037844869
+
+
+Repeticao: 4
+	J (init): 6406.86770254
+	Iteracao: 1
+		J (prototypes): 4598.88138886
+		J (weight): 4594.66296497
+		J (organize): 3590.68578035
+	Iteracao: 2
+		J (prototypes): 3487.91759994
+		J (weight): 3463.99120048
+		J (organize): 3405.18842725
+	Iteracao: 3
+		J (prototypes): 3377.14883752
+		J (weight): 3373.91877853
+		J (organize): 3308.55231132
+	Iteracao: 4
+		J (prototypes): 3279.86259453
+		J (weight): 3269.75630937
+		J (organize): 3250.06057497
+	Iteracao: 5
+		J (prototypes): 3244.80306421
+		J (weight): 3244.09094404
+		J (organize): 3238.57671263
+	Iteracao: 6
+		J (prototypes): 3235.46833198
+		J (weight): 3235.17308826
+		J (organize): 3233.2691258
+	Iteracao: 7
+		J (prototypes): 3232.57298961
+		J (weight): 3232.4014027
+		J (organize): 3232.09692631
+	Iteracao: 8
+		J (prototypes): 3232.0786241
+		J (weight): 3232.06920856
+		J (organize): 3229.55859074
+	Iteracao: 9
+		J (prototypes): 3227.79337638
+		J (weight): 3227.79037767
+		J (organize): 3227.15816464
+	Iteracao: 10
+		J (prototypes): 3227.05617504
+		J (weight): 3227.04391548
+		J (organize): 3225.95144293
+	Iteracao: 11
+		J (prototypes): 3225.26660867
+		J (weight): 3225.26317823
+		J (organize): 3223.7922878
+	Iteracao: 12
+		J (prototypes): 3223.7922878
+		J (weight): 3223.79038517
+		J (organize): 3223.79038517
+
+	CR: 0.450419730398
+
+
+Repeticao: 5
+	J (init): 6614.63404929
+	Iteracao: 1
+		J (prototypes): 3832.45913447
+		J (weight): 3829.05883877
+		J (organize): 3514.7325871
+	Iteracao: 2
+		J (prototypes): 3478.53129563
+		J (weight): 3473.04759306
+		J (organize): 3435.95353099
+	Iteracao: 3
+		J (prototypes): 3411.93010968
+		J (weight): 3408.18828309
+		J (organize): 3390.47611352
+	Iteracao: 4
+		J (prototypes): 3388.93664347
+		J (weight): 3388.30172921
+		J (organize): 3388.16001659
+	Iteracao: 5
+		J (prototypes): 3387.79041844
+		J (weight): 3387.79009335
+		J (organize): 3385.87724596
+	Iteracao: 6
+		J (prototypes): 3385.63963518
+		J (weight): 3385.62847281
+		J (organize): 3384.83690848
+	Iteracao: 7
+		J (prototypes): 3384.34343531
+		J (weight): 3384.33927767
+		J (organize): 3382.62647067
+	Iteracao: 8
+		J (prototypes): 3382.62647067
+		J (weight): 3382.61457431
+		J (organize): 3382.61324217
+	Iteracao: 9
+		J (prototypes): 3382.61324217
+		J (weight): 3382.61311382
+		J (organize): 3382.61311382
+
+	CR: 0.385772263666
+
+
+Repeticao: 6
+	J (init): 6810.36781193
+	Iteracao: 1
+		J (prototypes): 4637.65395278
+		J (weight): 4588.63808941
+		J (organize): 4220.58290283
+	Iteracao: 2
+		J (prototypes): 4097.27848062
+		J (weight): 4057.140439
+		J (organize): 3764.4800796
+	Iteracao: 3
+		J (prototypes): 3695.98352543
+		J (weight): 3688.23163155
+		J (organize): 3641.15669182
+	Iteracao: 4
+		J (prototypes): 3601.65164785
+		J (weight): 3601.58466263
+		J (organize): 3571.13626645
+	Iteracao: 5
+		J (prototypes): 3549.60779093
+		J (weight): 3549.44124688
+		J (organize): 3536.42109927
+	Iteracao: 6
+		J (prototypes): 3528.04360945
+		J (weight): 3527.90172567
+		J (organize): 3521.72560343
+	Iteracao: 7
+		J (prototypes): 3515.81347714
+		J (weight): 3515.67662456
+		J (organize): 3507.70339607
+	Iteracao: 8
+		J (prototypes): 3505.60206109
+		J (weight): 3505.49637303
+		J (organize): 3503.83613536
+	Iteracao: 9
+		J (prototypes): 3502.53352353
+		J (weight): 3502.52545461
+		J (organize): 3499.52685005
+	Iteracao: 10
+		J (prototypes): 3498.99262756
+		J (weight): 3498.97637125
+		J (organize): 3494.56602386
+	Iteracao: 11
+		J (prototypes): 3494.56602386
+		J (weight): 3494.44304489
+		J (organize): 3494.43819049
+	Iteracao: 12
+		J (prototypes): 3494.43819049
+		J (weight): 3494.43807473
+		J (organize): 3494.43807473
+
+	CR: 0.416430687243
+
+
+Repeticao: 7
+	J (init): 7176.41012036
+	Iteracao: 1
+		J (prototypes): 4154.99969492
+		J (weight): 4133.50800666
+		J (organize): 3658.46841683
+	Iteracao: 2
+		J (prototypes): 3564.75268411
+		J (weight): 3536.05061107
+		J (organize): 3532.06651108
+	Iteracao: 3
+		J (prototypes): 3529.13444353
+		J (weight): 3529.1304954
+		J (organize): 3526.64180463
+	Iteracao: 4
+		J (prototypes): 3526.24225996
+		J (weight): 3526.21757043
+		J (organize): 3525.96895202
+	Iteracao: 5
+		J (prototypes): 3525.73837273
+		J (weight): 3525.73834002
+		J (organize): 3523.80671305
+	Iteracao: 6
+		J (prototypes): 3523.13615662
+		J (weight): 3523.1361558
+		J (organize): 3522.8423462
+	Iteracao: 7
+		J (prototypes): 3522.8423462
+		J (weight): 3522.8420598
+		J (organize): 3522.8420598
+
+	CR: 0.478808972346
+
+
+Repeticao: 8
+	J (init): 7275.51654586
+	Iteracao: 1
+		J (prototypes): 4438.76262863
+		J (weight): 4416.22952934
+		J (organize): 3996.7614529
+	Iteracao: 2
+		J (prototypes): 3852.03572594
+		J (weight): 3812.86447474
+		J (organize): 3736.33340746
+	Iteracao: 3
+		J (prototypes): 3665.35250689
+		J (weight): 3646.48763061
+		J (organize): 3545.74724771
+	Iteracao: 4
+		J (prototypes): 3490.31300636
+		J (weight): 3476.83857409
+		J (organize): 3444.05739861
+	Iteracao: 5
+		J (prototypes): 3439.36749411
+		J (weight): 3439.20601053
+		J (organize): 3435.78398114
+	Iteracao: 6
+		J (prototypes): 3434.68943612
+		J (weight): 3434.64325923
+		J (organize): 3433.20080003
+	Iteracao: 7
+		J (prototypes): 3432.88647184
+		J (weight): 3432.88170085
+		J (organize): 3432.58851044
+	Iteracao: 8
+		J (prototypes): 3432.28019791
+		J (weight): 3432.27934902
+		J (organize): 3431.98683251
+	Iteracao: 9
+		J (prototypes): 3431.98683251
+		J (weight): 3431.98465413
+		J (organize): 3431.98465413
+
+	CR: 0.447932850837
+
+
+Repeticao: 9
+	J (init): 6766.37884054
+	Iteracao: 1
+		J (prototypes): 4477.57381461
+		J (weight): 4476.65657784
+		J (organize): 4281.48547328
+	Iteracao: 2
+		J (prototypes): 4215.08304223
+		J (weight): 4214.90443379
+		J (organize): 3483.38115916
+	Iteracao: 3
+		J (prototypes): 3379.7774647
+		J (weight): 3341.4897668
+		J (organize): 3305.97296444
+	Iteracao: 4
+		J (prototypes): 3303.55179727
+		J (weight): 3301.99213999
+		J (organize): 3300.07484147
+	Iteracao: 5
+		J (prototypes): 3299.78513872
+		J (weight): 3299.69294824
+		J (organize): 3299.68066114
+	Iteracao: 6
+		J (prototypes): 3299.68066114
+		J (weight): 3299.68010343
+		J (organize): 3299.68010343
+
+	CR: 0.497739945851
+
+
+Repeticao: 10
+	J (init): 6817.12739271
+	Iteracao: 1
+		J (prototypes): 4881.2274529
+		J (weight): 4852.04488806
+		J (organize): 4190.23064298
+	Iteracao: 2
+		J (prototypes): 4121.94022687
+		J (weight): 4052.25864036
+		J (organize): 3722.62294896
+	Iteracao: 3
+		J (prototypes): 3648.31627675
+		J (weight): 3630.46066799
+		J (organize): 3554.00109166
+	Iteracao: 4
+		J (prototypes): 3542.00371238
+		J (weight): 3539.25346448
+		J (organize): 3536.51815206
+	Iteracao: 5
+		J (prototypes): 3534.18719874
+		J (weight): 3534.129442
+		J (organize): 3532.67293576
+	Iteracao: 6
+		J (prototypes): 3531.82410752
+		J (weight): 3531.81887521
+		J (organize): 3530.45027567
+	Iteracao: 7
+		J (prototypes): 3529.77592836
+		J (weight): 3529.74631926
+		J (organize): 3526.98343191
+	Iteracao: 8
+		J (prototypes): 3526.7589116
+		J (weight): 3526.74354582
+		J (organize): 3526.14013212
+	Iteracao: 9
+		J (prototypes): 3526.14013212
+		J (weight): 3526.13982015
+		J (organize): 3526.13982015
+
+	CR: 0.485975417562
+
+
+Repeticao: 11
+	J (init): 6600.35515639
+	Iteracao: 1
+		J (prototypes): 4501.07091784
+		J (weight): 4476.88567879
+		J (organize): 3753.49834781
+	Iteracao: 2
+		J (prototypes): 3598.74968286
+		J (weight): 3539.63540969
+		J (organize): 3441.96836884
+	Iteracao: 3
+		J (prototypes): 3418.78712631
+		J (weight): 3418.10071805
+		J (organize): 3411.49152419
+	Iteracao: 4
+		J (prototypes): 3411.35796797
+		J (weight): 3411.16426381
+		J (organize): 3409.18223328
+	Iteracao: 5
+		J (prototypes): 3408.12896866
+		J (weight): 3408.05582066
+		J (organize): 3406.41187588
+	Iteracao: 6
+		J (prototypes): 3406.41187588
+		J (weight): 3406.39047699
+		J (organize): 3406.38961207
+	Iteracao: 7
+		J (prototypes): 3406.38961207
+		J (weight): 3406.38950438
+		J (organize): 3406.38950438
+
+	CR: 0.460260814595
+
+
+Repeticao: 12
+	J (init): 6480.19823426
+	Iteracao: 1
+		J (prototypes): 4032.54889341
+		J (weight): 4008.59018091
+		J (organize): 3723.77537094
+	Iteracao: 2
+		J (prototypes): 3585.40643239
+		J (weight): 3570.80424999
+		J (organize): 3520.31398192
+	Iteracao: 3
+		J (prototypes): 3497.10803664
+		J (weight): 3497.10444228
+		J (organize): 3483.37311722
+	Iteracao: 4
+		J (prototypes): 3472.42007932
+		J (weight): 3472.41626724
+		J (organize): 3453.40468445
+	Iteracao: 5
+		J (prototypes): 3426.51659511
+		J (weight): 3426.29516955
+		J (organize): 3416.84995295
+	Iteracao: 6
+		J (prototypes): 3414.4390405
+		J (weight): 3414.35845763
+		J (organize): 3413.71392815
+	Iteracao: 7
+		J (prototypes): 3413.71392815
+		J (weight): 3413.71374357
+		J (organize): 3413.71374357
+
+	CR: 0.419605344812
+
+
+Repeticao: 13
+	J (init): 6528.22655639
+	Iteracao: 1
+		J (prototypes): 4517.08593426
+		J (weight): 4516.78244089
+		J (organize): 4100.97010414
+	Iteracao: 2
+		J (prototypes): 3854.99118881
+		J (weight): 3846.32926371
+		J (organize): 3598.50952045
+	Iteracao: 3
+		J (prototypes): 3539.17694539
+		J (weight): 3519.56275843
+		J (organize): 3506.89136758
+	Iteracao: 4
+		J (prototypes): 3500.50868938
+		J (weight): 3500.07559492
+		J (organize): 3491.90322436
+	Iteracao: 5
+		J (prototypes): 3485.27649973
+		J (weight): 3485.23702788
+		J (organize): 3469.13796907
+	Iteracao: 6
+		J (prototypes): 3446.48998201
+		J (weight): 3446.36095183
+		J (organize): 3436.88966384
+	Iteracao: 7
+		J (prototypes): 3434.87917673
+		J (weight): 3434.80809096
+		J (organize): 3434.23543984
+	Iteracao: 8
+		J (prototypes): 3434.23543984
+		J (weight): 3434.23538171
+		J (organize): 3434.23538171
+
+	CR: 0.408586455979
+
+
+Repeticao: 14
+	J (init): 6834.17128592
+	Iteracao: 1
+		J (prototypes): 4423.88507452
+		J (weight): 4405.27861767
+		J (organize): 3800.7597543
+	Iteracao: 2
+		J (prototypes): 3659.8449087
+		J (weight): 3641.01710643
+		J (organize): 3562.20177404
+	Iteracao: 3
+		J (prototypes): 3514.0216255
+		J (weight): 3486.22950105
+		J (organize): 3426.03361024
+	Iteracao: 4
+		J (prototypes): 3402.60792909
+		J (weight): 3394.70035037
+		J (organize): 3378.92907671
+	Iteracao: 5
+		J (prototypes): 3376.92686788
+		J (weight): 3376.63229843
+		J (organize): 3374.42443989
+	Iteracao: 6
+		J (prototypes): 3372.72784495
+		J (weight): 3372.69403284
+		J (organize): 3367.83170954
+	Iteracao: 7
+		J (prototypes): 3366.99015911
+		J (weight): 3366.88538839
+		J (organize): 3363.23075912
+	Iteracao: 8
+		J (prototypes): 3363.23075912
+		J (weight): 3363.22703502
+		J (organize): 3363.22703502
+
+	CR: 0.389385451614
+
+
+Repeticao: 15
+	J (init): 6296.34764279
+	Iteracao: 1
+		J (prototypes): 3949.42325114
+		J (weight): 3918.34231529
+		J (organize): 3655.96932942
+	Iteracao: 2
+		J (prototypes): 3605.86153361
+		J (weight): 3594.75806717
+		J (organize): 3493.30272878
+	Iteracao: 3
+		J (prototypes): 3458.54483379
+		J (weight): 3454.80177694
+		J (organize): 3422.8408255
+	Iteracao: 4
+		J (prototypes): 3409.74825401
+		J (weight): 3409.62099807
+		J (organize): 3400.39927898
+	Iteracao: 5
+		J (prototypes): 3393.35511878
+		J (weight): 3393.28420149
+		J (organize): 3386.04427154
+	Iteracao: 6
+		J (prototypes): 3382.12021331
+		J (weight): 3381.92209638
+		J (organize): 3378.63894612
+	Iteracao: 7
+		J (prototypes): 3373.94077132
+		J (weight): 3373.72082103
+		J (organize): 3365.91373165
+	Iteracao: 8
+		J (prototypes): 3363.64041213
+		J (weight): 3363.02190543
+		J (organize): 3361.48049697
+	Iteracao: 9
+		J (prototypes): 3359.20173817
+		J (weight): 3359.10231966
+		J (organize): 3353.36650332
+	Iteracao: 10
+		J (prototypes): 3353.36650332
+		J (weight): 3353.35842839
+		J (organize): 3353.35778726
+	Iteracao: 11
+		J (prototypes): 3353.34161131
+		J (weight): 3353.30472299
+		J (organize): 3351.74981451
+	Iteracao: 12
+		J (prototypes): 3347.02764581
+		J (weight): 3347.02094958
+		J (organize): 3326.80141317
+	Iteracao: 13
+		J (prototypes): 3321.81795266
+		J (weight): 3321.33551329
+		J (organize): 3318.3709004
+	Iteracao: 14
+		J (prototypes): 3318.3709004
+		J (weight): 3318.16174015
+		J (organize): 3318.14620692
+	Iteracao: 15
+		J (prototypes): 3318.14620692
+		J (weight): 3318.14255427
+		J (organize): 3318.14210413
+	Iteracao: 16
+		J (prototypes): 3318.14210413
+		J (weight): 3318.14185949
+		J (organize): 3318.14185949
+
+	CR: 0.50371737899
+
+
+Repeticao: 16
+	J (init): 6641.66261078
+	Iteracao: 1
+		J (prototypes): 4336.45674017
+		J (weight): 4288.18402537
+		J (organize): 4097.20652321
+	Iteracao: 2
+		J (prototypes): 4017.1669796
+		J (weight): 4013.21358924
+		J (organize): 3753.28851282
+	Iteracao: 3
+		J (prototypes): 3701.96013116
+		J (weight): 3647.77115977
+		J (organize): 3538.69383069
+	Iteracao: 4
+		J (prototypes): 3442.66696959
+		J (weight): 3418.66526239
+		J (organize): 3373.06812057
+	Iteracao: 5
+		J (prototypes): 3364.65186937
+		J (weight): 3364.56875789
+		J (organize): 3353.83774415
+	Iteracao: 6
+		J (prototypes): 3343.61345552
+		J (weight): 3343.55981473
+		J (organize): 3339.10458284
+	Iteracao: 7
+		J (prototypes): 3338.71321983
+		J (weight): 3338.61685742
+		J (organize): 3336.6005712
+	Iteracao: 8
+		J (prototypes): 3336.6005712
+		J (weight): 3336.59699724
+		J (organize): 3336.59699724
+
+	CR: 0.539051120715
+
+
+Repeticao: 17
+	J (init): 6141.56308669
+	Iteracao: 1
+		J (prototypes): 4468.99437899
+		J (weight): 4465.75156958
+		J (organize): 3848.47650794
+	Iteracao: 2
+		J (prototypes): 3749.76193651
+		J (weight): 3713.88861895
+		J (organize): 3658.45368712
+	Iteracao: 3
+		J (prototypes): 3599.22262971
+		J (weight): 3596.84675261
+		J (organize): 3541.02409662
+	Iteracao: 4
+		J (prototypes): 3518.42294838
+		J (weight): 3517.57171311
+		J (organize): 3457.30937081
+	Iteracao: 5
+		J (prototypes): 3415.40615229
+		J (weight): 3410.21188436
+		J (organize): 3374.74499646
+	Iteracao: 6
+		J (prototypes): 3369.27917662
+		J (weight): 3368.41300705
+		J (organize): 3362.90665785
+	Iteracao: 7
+		J (prototypes): 3360.53782796
+		J (weight): 3360.48346003
+		J (organize): 3359.04824618
+	Iteracao: 8
+		J (prototypes): 3359.04824618
+		J (weight): 3359.04456228
+		J (organize): 3359.04456228
+
+	CR: 0.460014966061
+
+
+Repeticao: 18
+	J (init): 6701.20621729
+	Iteracao: 1
+		J (prototypes): 4780.01965571
+		J (weight): 4776.92414342
+		J (organize): 4349.17809011
+	Iteracao: 2
+		J (prototypes): 3749.56674284
+		J (weight): 3725.68681231
+		J (organize): 3509.07582383
+	Iteracao: 3
+		J (prototypes): 3376.69088943
+		J (weight): 3361.20767373
+		J (organize): 3245.17123807
+	Iteracao: 4
+		J (prototypes): 3233.4925617
+		J (weight): 3232.11429073
+		J (organize): 3224.0555031
+	Iteracao: 5
+		J (prototypes): 3219.90471535
+		J (weight): 3219.85491757
+		J (organize): 3203.74079701
+	Iteracao: 6
+		J (prototypes): 3196.42289011
+		J (weight): 3196.35714879
+		J (organize): 3191.58674478
+	Iteracao: 7
+		J (prototypes): 3190.00187661
+		J (weight): 3189.99798233
+		J (organize): 3188.26816729
+	Iteracao: 8
+		J (prototypes): 3188.01567022
+		J (weight): 3187.99138109
+		J (organize): 3187.34290136
+	Iteracao: 9
+		J (prototypes): 3187.34290136
+		J (weight): 3187.32048003
+		J (organize): 3187.30835487
+	Iteracao: 10
+		J (prototypes): 3187.30835487
+		J (weight): 3187.30352962
+		J (organize): 3187.30338065
+	Iteracao: 11
+		J (prototypes): 3187.30338065
+		J (weight): 3187.30337467
+		J (organize): 3187.30337467
+
+	CR: 0.52888292273
+
+
+Repeticao: 19
+	J (init): 6441.94821802
+	Iteracao: 1
+		J (prototypes): 4398.57317187
+		J (weight): 4386.72231535
+		J (organize): 4138.78064935
+	Iteracao: 2
+		J (prototypes): 4119.00032077
+		J (weight): 4110.7433078
+		J (organize): 4100.31087364
+	Iteracao: 3
+		J (prototypes): 4086.22583042
+		J (weight): 4085.51814749
+		J (organize): 4067.6113851
+	Iteracao: 4
+		J (prototypes): 4067.43022435
+		J (weight): 4067.2158347
+		J (organize): 4067.03765806
+	Iteracao: 5
+		J (prototypes): 4067.03765806
+		J (weight): 4067.03077741
+		J (organize): 4067.03010723
+	Iteracao: 6
+		J (prototypes): 4067.03010723
+		J (weight): 4067.03007165
+		J (organize): 4067.03007165
+
+	CR: 0.260497624304
+
+
+Repeticao: 20
+	J (init): 6824.62365172
+	Iteracao: 1
+		J (prototypes): 4095.4426257
+		J (weight): 4066.84544509
+		J (organize): 3766.64189208
+	Iteracao: 2
+		J (prototypes): 3683.98963444
+		J (weight): 3673.75814638
+		J (organize): 3591.40609256
+	Iteracao: 3
+		J (prototypes): 3517.30879625
+		J (weight): 3514.88213398
+		J (organize): 3385.05274091
+	Iteracao: 4
+		J (prototypes): 3332.96493597
+		J (weight): 3329.55889995
+		J (organize): 3307.70540647
+	Iteracao: 5
+		J (prototypes): 3289.7546981
+		J (weight): 3289.66558746
+		J (organize): 3276.37053487
+	Iteracao: 6
+		J (prototypes): 3274.67736055
+		J (weight): 3274.6717018
+		J (organize): 3268.59054314
+	Iteracao: 7
+		J (prototypes): 3267.64323114
+		J (weight): 3267.64318625
+		J (organize): 3267.43226706
+	Iteracao: 8
+		J (prototypes): 3267.43226706
+		J (weight): 3267.4321313
+		J (organize): 3267.4321313
+
+	CR: 0.523848503947
+
+
+Repeticao: 21
+	J (init): 6151.43260728
+	Iteracao: 1
+		J (prototypes): 3702.8818589
+		J (weight): 3676.65228357
+		J (organize): 3408.10810076
+	Iteracao: 2
+		J (prototypes): 3372.617562
+		J (weight): 3368.3334846
+		J (organize): 3355.98696147
+	Iteracao: 3
+		J (prototypes): 3351.48675846
+		J (weight): 3351.15796268
+		J (organize): 3346.01354616
+	Iteracao: 4
+		J (prototypes): 3341.57301285
+		J (weight): 3341.55481472
+		J (organize): 3338.67175698
+	Iteracao: 5
+		J (prototypes): 3335.32489624
+		J (weight): 3335.20763656
+		J (organize): 3329.7023483
+	Iteracao: 6
+		J (prototypes): 3329.50419781
+		J (weight): 3329.36687692
+		J (organize): 3329.32114758
+	Iteracao: 7
+		J (prototypes): 3329.32114758
+		J (weight): 3329.31541425
+		J (organize): 3329.31464859
+	Iteracao: 8
+		J (prototypes): 3329.31464859
+		J (weight): 3329.31412537
+		J (organize): 3329.31412537
+
+	CR: 0.534584101374
+
+
+Repeticao: 22
+	J (init): 6576.26021317
+	Iteracao: 1
+		J (prototypes): 4699.51628508
+		J (weight): 4698.53391469
+		J (organize): 3915.17933102
+	Iteracao: 2
+		J (prototypes): 3585.87279457
+		J (weight): 3526.25446543
+		J (organize): 3444.21311861
+	Iteracao: 3
+		J (prototypes): 3356.37252865
+		J (weight): 3348.7516544
+		J (organize): 3294.2240936
+	Iteracao: 4
+		J (prototypes): 3274.84689476
+		J (weight): 3270.87909845
+		J (organize): 3243.50760215
+	Iteracao: 5
+		J (prototypes): 3228.05791565
+		J (weight): 3227.27944855
+		J (organize): 3219.32762638
+	Iteracao: 6
+		J (prototypes): 3218.57174423
+		J (weight): 3218.44701045
+		J (organize): 3217.80342016
+	Iteracao: 7
+		J (prototypes): 3216.61823998
+		J (weight): 3216.61802338
+		J (organize): 3212.30235707
+	Iteracao: 8
+		J (prototypes): 3208.48897988
+		J (weight): 3208.48549611
+		J (organize): 3198.57569407
+	Iteracao: 9
+		J (prototypes): 3196.9313358
+		J (weight): 3196.93100152
+		J (organize): 3196.10526772
+	Iteracao: 10
+		J (prototypes): 3196.10526772
+		J (weight): 3196.10525024
+		J (organize): 3196.10525024
+
+	CR: 0.475757820708
+
+
+Repeticao: 23
+	J (init): 6310.61413939
+	Iteracao: 1
+		J (prototypes): 4813.00745547
+		J (weight): 4806.82859782
+		J (organize): 3856.14222653
+	Iteracao: 2
+		J (prototypes): 3616.7396045
+		J (weight): 3466.44696418
+		J (organize): 3442.86532256
+	Iteracao: 3
+		J (prototypes): 3440.22059301
+		J (weight): 3440.20183692
+		J (organize): 3437.70463611
+	Iteracao: 4
+		J (prototypes): 3437.46714005
+		J (weight): 3437.46692553
+		J (organize): 3436.49150408
+	Iteracao: 5
+		J (prototypes): 3436.49150408
+		J (weight): 3436.49121179
+		J (organize): 3436.49121179
+
+	CR: 0.459641133401
+
+
+Repeticao: 24
+	J (init): 6738.73902182
+	Iteracao: 1
+		J (prototypes): 4502.0678987
+		J (weight): 4498.06299669
+		J (organize): 4361.51237983
+	Iteracao: 2
+		J (prototypes): 4006.14414787
+		J (weight): 4004.84935877
+		J (organize): 3707.74385159
+	Iteracao: 3
+		J (prototypes): 3668.76421858
+		J (weight): 3652.42310524
+		J (organize): 3566.12109581
+	Iteracao: 4
+		J (prototypes): 3487.52397885
+		J (weight): 3484.34253035
+		J (organize): 3429.6685652
+	Iteracao: 5
+		J (prototypes): 3369.92947449
+		J (weight): 3367.11569814
+		J (organize): 3319.51989387
+	Iteracao: 6
+		J (prototypes): 3315.83936661
+		J (weight): 3315.24487518
+		J (organize): 3312.11054345
+	Iteracao: 7
+		J (prototypes): 3311.13520896
+		J (weight): 3311.04085513
+		J (organize): 3308.72051544
+	Iteracao: 8
+		J (prototypes): 3306.57097604
+		J (weight): 3306.37039284
+		J (organize): 3297.11642265
+	Iteracao: 9
+		J (prototypes): 3287.97911335
+		J (weight): 3284.84641117
+		J (organize): 3279.43476042
+	Iteracao: 10
+		J (prototypes): 3278.96530674
+		J (weight): 3278.68098344
+		J (organize): 3278.54913296
+	Iteracao: 11
+		J (prototypes): 3278.45943752
+		J (weight): 3278.45392462
+		J (organize): 3277.80344258
+	Iteracao: 12
+		J (prototypes): 3277.80344258
+		J (weight): 3277.77434011
+		J (organize): 3277.77434011
+
+	CR: 0.545591797881
+
+
+Repeticao: 25
+	J (init): 7067.03489417
+	Iteracao: 1
+		J (prototypes): 4461.67971119
+		J (weight): 4437.72363133
+		J (organize): 4062.96344013
+	Iteracao: 2
+		J (prototypes): 4004.74071694
+		J (weight): 4001.39158095
+		J (organize): 3970.32711394
+	Iteracao: 3
+		J (prototypes): 3949.73593631
+		J (weight): 3949.64812361
+		J (organize): 3923.87434608
+	Iteracao: 4
+		J (prototypes): 3908.89437402
+		J (weight): 3908.71344238
+		J (organize): 3904.64044008
+	Iteracao: 5
+		J (prototypes): 3903.35853715
+		J (weight): 3903.25763677
+		J (organize): 3900.76425471
+	Iteracao: 6
+		J (prototypes): 3899.0898129
+		J (weight): 3899.00142653
+		J (organize): 3896.56222995
+	Iteracao: 7
+		J (prototypes): 3896.56222995
+		J (weight): 3896.40713739
+		J (organize): 3896.39356864
+	Iteracao: 8
+		J (prototypes): 3896.37354102
+		J (weight): 3896.37195181
+		J (organize): 3896.35148382
+	Iteracao: 9
+		J (prototypes): 3896.35148382
+		J (weight): 3896.3512382
+		J (organize): 3896.3512382
+
+	CR: 0.307391656809
+
+
+Repeticao: 26
+	J (init): 6598.6734076
+	Iteracao: 1
+		J (prototypes): 3911.00500619
+		J (weight): 3908.6943865
+		J (organize): 3631.68521891
+	Iteracao: 2
+		J (prototypes): 3539.02602636
+		J (weight): 3502.67174887
+		J (organize): 3419.32826668
+	Iteracao: 3
+		J (prototypes): 3406.64887769
+		J (weight): 3393.0630484
+		J (organize): 3386.38897685
+	Iteracao: 4
+		J (prototypes): 3379.03334688
+		J (weight): 3377.83314883
+		J (organize): 3361.09570152
+	Iteracao: 5
+		J (prototypes): 3354.23169864
+		J (weight): 3353.10441863
+		J (organize): 3339.25654576
+	Iteracao: 6
+		J (prototypes): 3321.94700936
+		J (weight): 3321.84399459
+		J (organize): 3298.87854829
+	Iteracao: 7
+		J (prototypes): 3295.33669237
+		J (weight): 3295.09163573
+		J (organize): 3294.34515822
+	Iteracao: 8
+		J (prototypes): 3294.20764779
+		J (weight): 3294.20726692
+		J (organize): 3293.75264436
+	Iteracao: 9
+		J (prototypes): 3292.53813307
+		J (weight): 3292.46930461
+		J (organize): 3289.48555981
+	Iteracao: 10
+		J (prototypes): 3282.27294034
+		J (weight): 3281.89168423
+		J (organize): 3272.80998749
+	Iteracao: 11
+		J (prototypes): 3268.87480319
+		J (weight): 3268.77796604
+		J (organize): 3268.166376
+	Iteracao: 12
+		J (prototypes): 3267.64889014
+		J (weight): 3267.64884788
+		J (organize): 3267.51328034
+	Iteracao: 13
+		J (prototypes): 3267.51328034
+		J (weight): 3267.51321372
+		J (organize): 3267.51321372
+
+	CR: 0.429217313755
+
+
+Repeticao: 27
+	J (init): 6829.21757157
+	Iteracao: 1
+		J (prototypes): 4341.23833329
+		J (weight): 4341.17100978
+		J (organize): 3769.61281723
+	Iteracao: 2
+		J (prototypes): 3644.57558177
+		J (weight): 3581.60554771
+		J (organize): 3507.36766669
+	Iteracao: 3
+		J (prototypes): 3497.79035616
+		J (weight): 3495.49749987
+		J (organize): 3494.29814618
+	Iteracao: 4
+		J (prototypes): 3494.29814618
+		J (weight): 3494.29548408
+		J (organize): 3494.29523608
+	Iteracao: 5
+		J (prototypes): 3494.29523608
+		J (weight): 3494.29522955
+		J (organize): 3494.29522955
+
+	CR: 0.486955039295
+
+
+Repeticao: 28
+	J (init): 6045.97106944
+	Iteracao: 1
+		J (prototypes): 4607.78625803
+		J (weight): 4606.70914877
+		J (organize): 3847.48931213
+	Iteracao: 2
+		J (prototypes): 3705.34229044
+		J (weight): 3645.24041533
+		J (organize): 3587.30109333
+	Iteracao: 3
+		J (prototypes): 3565.13825889
+		J (weight): 3560.33194475
+		J (organize): 3544.90629161
+	Iteracao: 4
+		J (prototypes): 3535.95917207
+		J (weight): 3535.53730963
+		J (organize): 3526.14182244
+	Iteracao: 5
+		J (prototypes): 3526.14182244
+		J (weight): 3526.13982015
+		J (organize): 3526.13982015
+
+	CR: 0.485975417562
+
+
+Repeticao: 29
+	J (init): 6270.50932551
+	Iteracao: 1
+		J (prototypes): 4107.18945908
+		J (weight): 4091.70567
+		J (organize): 3968.68865125
+	Iteracao: 2
+		J (prototypes): 3936.99808887
+		J (weight): 3927.87364297
+		J (organize): 3833.41467764
+	Iteracao: 3
+		J (prototypes): 3718.56510894
+		J (weight): 3716.58930391
+		J (organize): 3604.80748937
+	Iteracao: 4
+		J (prototypes): 3557.91412904
+		J (weight): 3555.07753455
+		J (organize): 3531.24874962
+	Iteracao: 5
+		J (prototypes): 3524.60873273
+		J (weight): 3524.55735087
+		J (organize): 3522.41436241
+	Iteracao: 6
+		J (prototypes): 3522.41436241
+		J (weight): 3522.40781783
+		J (organize): 3522.40781783
+
+	CR: 0.476974842944
+
+
+Repeticao: 30
+	J (init): 6661.11255997
+	Iteracao: 1
+		J (prototypes): 4996.54285319
+		J (weight): 4988.6968951
+		J (organize): 4395.59725606
+	Iteracao: 2
+		J (prototypes): 4180.69719935
+		J (weight): 4163.07461211
+		J (organize): 3633.11007536
+	Iteracao: 3
+		J (prototypes): 3465.3199711
+		J (weight): 3438.58053823
+		J (organize): 3347.31280109
+	Iteracao: 4
+		J (prototypes): 3326.81857486
+		J (weight): 3322.07198859
+		J (organize): 3318.62933037
+	Iteracao: 5
+		J (prototypes): 3318.62933037
+		J (weight): 3318.53736619
+		J (organize): 3318.53189218
+	Iteracao: 6
+		J (prototypes): 3318.53189218
+		J (weight): 3318.53178082
+		J (organize): 3318.53178082
+
+	CR: 0.501266041984
+
+
+Repeticao: 31
+	J (init): 6285.46925361
+	Iteracao: 1
+		J (prototypes): 4614.52237863
+		J (weight): 4614.03114037
+		J (organize): 3877.81044147
+	Iteracao: 2
+		J (prototypes): 3558.44283357
+		J (weight): 3456.8878234
+		J (organize): 3378.32594418
+	Iteracao: 3
+		J (prototypes): 3341.98688057
+		J (weight): 3339.57210743
+		J (organize): 3317.83718429
+	Iteracao: 4
+		J (prototypes): 3300.38951301
+		J (weight): 3300.12662518
+		J (organize): 3277.21450077
+	Iteracao: 5
+		J (prototypes): 3223.87133823
+		J (weight): 3223.77220062
+		J (organize): 3170.072636
+	Iteracao: 6
+		J (prototypes): 3159.08527569
+		J (weight): 3158.9713506
+		J (organize): 3149.20024664
+	Iteracao: 7
+		J (prototypes): 3141.84176129
+		J (weight): 3141.7468378
+		J (organize): 3135.96835218
+	Iteracao: 8
+		J (prototypes): 3135.75771236
+		J (weight): 3135.65410318
+		J (organize): 3134.90310828
+	Iteracao: 9
+		J (prototypes): 3134.90310828
+		J (weight): 3134.87170152
+		J (organize): 3134.87156167
+	Iteracao: 10
+		J (prototypes): 3134.87156167
+		J (weight): 3134.87143442
+		J (organize): 3134.871424
+	Iteracao: 11
+		J (prototypes): 3134.871424
+		J (weight): 3134.8714069
+		J (organize): 3134.8714069
+
+	CR: 0.515959748001
+
+
+Repeticao: 32
+	J (init): 6569.37872583
+	Iteracao: 1
+		J (prototypes): 4956.78350793
+		J (weight): 4952.439299
+		J (organize): 4549.46523022
+	Iteracao: 2
+		J (prototypes): 4401.51597703
+		J (weight): 4395.11967825
+		J (organize): 3928.5987288
+	Iteracao: 3
+		J (prototypes): 3803.18209043
+		J (weight): 3793.14239431
+		J (organize): 3584.43464072
+	Iteracao: 4
+		J (prototypes): 3448.35411781
+		J (weight): 3433.7111413
+		J (organize): 3317.68093886
+	Iteracao: 5
+		J (prototypes): 3301.84302388
+		J (weight): 3299.19715504
+		J (organize): 3296.08590498
+	Iteracao: 6
+		J (prototypes): 3294.91029261
+		J (weight): 3294.91017875
+		J (organize): 3294.10021629
+	Iteracao: 7
+		J (prototypes): 3294.10021629
+		J (weight): 3294.09678091
+		J (organize): 3294.09678091
+
+	CR: 0.51199702922
+
+
+Repeticao: 33
+	J (init): 6293.53691438
+	Iteracao: 1
+		J (prototypes): 3684.83914181
+		J (weight): 3683.7276613
+		J (organize): 3486.12674451
+	Iteracao: 2
+		J (prototypes): 3405.35350117
+		J (weight): 3388.23951403
+		J (organize): 3335.35266405
+	Iteracao: 3
+		J (prototypes): 3272.14957964
+		J (weight): 3270.15172098
+		J (organize): 3211.67857136
+	Iteracao: 4
+		J (prototypes): 3207.12243925
+		J (weight): 3201.07652594
+		J (organize): 3190.75043091
+	Iteracao: 5
+		J (prototypes): 3180.60929997
+		J (weight): 3179.74388978
+		J (organize): 3166.37002365
+	Iteracao: 6
+		J (prototypes): 3163.0194757
+		J (weight): 3162.70822648
+		J (organize): 3162.03462262
+	Iteracao: 7
+		J (prototypes): 3162.03462262
+		J (weight): 3162.01400086
+		J (organize): 3162.01400086
+
+	CR: 0.518794106389
+
+
+Repeticao: 34
+	J (init): 6471.08765278
+	Iteracao: 1
+		J (prototypes): 4797.56371116
+		J (weight): 4762.31922985
+		J (organize): 4280.44232587
+	Iteracao: 2
+		J (prototypes): 4071.15771086
+		J (weight): 4038.86558157
+		J (organize): 3580.40796169
+	Iteracao: 3
+		J (prototypes): 3482.5408898
+		J (weight): 3442.88300945
+		J (organize): 3384.39995672
+	Iteracao: 4
+		J (prototypes): 3379.88639258
+		J (weight): 3378.99526342
+		J (organize): 3378.04173739
+	Iteracao: 5
+		J (prototypes): 3377.47780096
+		J (weight): 3377.46538445
+		J (organize): 3376.84876993
+	Iteracao: 6
+		J (prototypes): 3376.84876993
+		J (weight): 3376.84852348
+		J (organize): 3376.84852348
+
+	CR: 0.385043019805
+
+
+Repeticao: 35
+	J (init): 5787.15610707
+	Iteracao: 1
+		J (prototypes): 4090.13868966
+		J (weight): 4085.67221534
+		J (organize): 3368.59050552
+	Iteracao: 2
+		J (prototypes): 3322.54991422
+		J (weight): 3267.5848588
+		J (organize): 3244.19344101
+	Iteracao: 3
+		J (prototypes): 3239.12805545
+		J (weight): 3237.91899757
+		J (organize): 3231.19440915
+	Iteracao: 4
+		J (prototypes): 3226.859748
+		J (weight): 3226.77814308
+		J (organize): 3220.32662622
+	Iteracao: 5
+		J (prototypes): 3220.32662622
+		J (weight): 3220.24969069
+		J (organize): 3220.24750153
+	Iteracao: 6
+		J (prototypes): 3220.24750153
+		J (weight): 3220.24741195
+		J (organize): 3220.24711295
+	Iteracao: 7
+		J (prototypes): 3220.24711295
+		J (weight): 3220.24653401
+		J (organize): 3220.24653401
+
+	CR: 0.489394857195
+
+
+Repeticao: 36
+	J (init): 6498.62185409
+	Iteracao: 1
+		J (prototypes): 4354.68171831
+		J (weight): 4354.56697947
+		J (organize): 4026.88825471
+	Iteracao: 2
+		J (prototypes): 3380.8335899
+		J (weight): 3315.92303024
+		J (organize): 3253.96360836
+	Iteracao: 3
+		J (prototypes): 3243.38282931
+		J (weight): 3239.17058095
+		J (organize): 3228.56713764
+	Iteracao: 4
+		J (prototypes): 3228.01480802
+		J (weight): 3227.65683322
+		J (organize): 3226.45749156
+	Iteracao: 5
+		J (prototypes): 3226.45749156
+		J (weight): 3226.44756204
+		J (organize): 3226.44572912
+	Iteracao: 6
+		J (prototypes): 3226.44572912
+		J (weight): 3226.44547165
+		J (organize): 3226.44547165
+
+	CR: 0.457037240563
+
+
+Repeticao: 37
+	J (init): 6643.70803362
+	Iteracao: 1
+		J (prototypes): 4304.6970758
+		J (weight): 4282.77838236
+		J (organize): 4064.17971431
+	Iteracao: 2
+		J (prototypes): 3964.32734827
+		J (weight): 3960.46431621
+		J (organize): 3763.14585978
+	Iteracao: 3
+		J (prototypes): 3664.38275941
+		J (weight): 3650.67441682
+		J (organize): 3605.20909812
+	Iteracao: 4
+		J (prototypes): 3569.99941052
+		J (weight): 3569.20347948
+		J (organize): 3529.10982146
+	Iteracao: 5
+		J (prototypes): 3496.52393329
+		J (weight): 3496.14786242
+		J (organize): 3465.6560291
+	Iteracao: 6
+		J (prototypes): 3443.16227815
+		J (weight): 3437.60115479
+		J (organize): 3412.87926293
+	Iteracao: 7
+		J (prototypes): 3397.294512
+		J (weight): 3395.77086279
+		J (organize): 3388.02947885
+	Iteracao: 8
+		J (prototypes): 3386.36655141
+		J (weight): 3386.03112951
+		J (organize): 3383.50598667
+	Iteracao: 9
+		J (prototypes): 3382.88202713
+		J (weight): 3382.82393158
+		J (organize): 3379.91756401
+	Iteracao: 10
+		J (prototypes): 3379.91756401
+		J (weight): 3379.83394544
+		J (organize): 3379.82437508
+	Iteracao: 11
+		J (prototypes): 3379.82437508
+		J (weight): 3379.82338192
+		J (organize): 3379.82338192
+
+	CR: 0.385857578388
+
+
+Repeticao: 38
+	J (init): 6518.28047633
+	Iteracao: 1
+		J (prototypes): 4186.53920136
+		J (weight): 4175.89069583
+		J (organize): 3854.43639041
+	Iteracao: 2
+		J (prototypes): 3789.41807745
+		J (weight): 3780.1625058
+		J (organize): 3619.72122308
+	Iteracao: 3
+		J (prototypes): 3556.20622904
+		J (weight): 3548.06001518
+		J (organize): 3522.80908169
+	Iteracao: 4
+		J (prototypes): 3520.1813949
+		J (weight): 3520.0729595
+		J (organize): 3518.1207737
+	Iteracao: 5
+		J (prototypes): 3516.02685292
+		J (weight): 3516.02572883
+		J (organize): 3509.98962892
+	Iteracao: 6
+		J (prototypes): 3506.33365332
+		J (weight): 3506.33312458
+		J (organize): 3501.932226
+	Iteracao: 7
+		J (prototypes): 3501.932226
+		J (weight): 3501.92469774
+		J (organize): 3501.92469774
+
+	CR: 0.42271287463
+
+
+Repeticao: 39
+	J (init): 7134.78789565
+	Iteracao: 1
+		J (prototypes): 5281.09478768
+		J (weight): 5250.98298567
+		J (organize): 4844.25977909
+	Iteracao: 2
+		J (prototypes): 4457.55175331
+		J (weight): 4457.54915464
+		J (organize): 4235.11844205
+	Iteracao: 3
+		J (prototypes): 4160.44210226
+		J (weight): 4155.2752992
+		J (organize): 4072.94793817
+	Iteracao: 4
+		J (prototypes): 3977.81767522
+		J (weight): 3975.09320026
+		J (organize): 3452.96733024
+	Iteracao: 5
+		J (prototypes): 3373.78716268
+		J (weight): 3332.51284173
+		J (organize): 3291.34172735
+	Iteracao: 6
+		J (prototypes): 3287.93240892
+		J (weight): 3284.73113125
+		J (organize): 3278.72934898
+	Iteracao: 7
+		J (prototypes): 3271.03476432
+		J (weight): 3270.89578761
+		J (organize): 3267.61158776
+	Iteracao: 8
+		J (prototypes): 3267.46864465
+		J (weight): 3267.46863858
+		J (organize): 3265.42627969
+	Iteracao: 9
+		J (prototypes): 3262.82231819
+		J (weight): 3262.81496009
+		J (organize): 3257.45272077
+	Iteracao: 10
+		J (prototypes): 3254.90671925
+		J (weight): 3254.82364625
+		J (organize): 3234.45906863
+	Iteracao: 11
+		J (prototypes): 3198.83118985
+		J (weight): 3197.28279008
+		J (organize): 3160.38637695
+	Iteracao: 12
+		J (prototypes): 3142.13672622
+		J (weight): 3141.83485457
+		J (organize): 3129.51361339
+	Iteracao: 13
+		J (prototypes): 3120.54294632
+		J (weight): 3120.31704492
+		J (organize): 3112.30508106
+	Iteracao: 14
+		J (prototypes): 3107.97978875
+		J (weight): 3107.09969612
+		J (organize): 3103.94382227
+	Iteracao: 15
+		J (prototypes): 3103.67749988
+		J (weight): 3103.62202698
+		J (organize): 3103.23863243
+	Iteracao: 16
+		J (prototypes): 3103.23863243
+		J (weight): 3103.22713145
+		J (organize): 3103.22638106
+	Iteracao: 17
+		J (prototypes): 3103.22638106
+		J (weight): 3103.22619035
+		J (organize): 3103.22619035
+
+	CR: 0.546173594251
+
+
+Repeticao: 40
+	J (init): 5618.87153457
+	Iteracao: 1
+		J (prototypes): 3695.76667916
+		J (weight): 3692.49308739
+		J (organize): 3547.22450266
+	Iteracao: 2
+		J (prototypes): 3511.18270334
+		J (weight): 3506.27134323
+		J (organize): 3425.3214459
+	Iteracao: 3
+		J (prototypes): 3369.55735974
+		J (weight): 3369.36392994
+		J (organize): 3310.00635775
+	Iteracao: 4
+		J (prototypes): 3237.45169331
+		J (weight): 3234.89700955
+		J (organize): 3172.93595795
+	Iteracao: 5
+		J (prototypes): 3169.09408441
+		J (weight): 3164.10695752
+		J (organize): 3162.54513362
+	Iteracao: 6
+		J (prototypes): 3162.23539824
+		J (weight): 3162.07252286
+		J (organize): 3162.01759073
+	Iteracao: 7
+		J (prototypes): 3162.01759073
+		J (weight): 3162.01400086
+		J (organize): 3162.01400086
+
+	CR: 0.518794106389
+
+
+Repeticao: 41
+	J (init): 6603.06720965
+	Iteracao: 1
+		J (prototypes): 4231.69875435
+		J (weight): 4231.69288872
+		J (organize): 3872.3271442
+	Iteracao: 2
+		J (prototypes): 3635.29791449
+		J (weight): 3605.21234351
+		J (organize): 3287.88428087
+	Iteracao: 3
+		J (prototypes): 3258.93030654
+		J (weight): 3250.95983107
+		J (organize): 3233.61483474
+	Iteracao: 4
+		J (prototypes): 3221.33644133
+		J (weight): 3221.15310839
+		J (organize): 3215.46814208
+	Iteracao: 5
+		J (prototypes): 3214.24921265
+		J (weight): 3214.20570188
+		J (organize): 3212.08430927
+	Iteracao: 6
+		J (prototypes): 3212.08430927
+		J (weight): 3212.02925036
+		J (organize): 3212.02603074
+	Iteracao: 7
+		J (prototypes): 3212.02603074
+		J (weight): 3212.02185664
+		J (organize): 3212.02070527
+	Iteracao: 8
+		J (prototypes): 3212.02070527
+		J (weight): 3212.02045716
+		J (organize): 3212.02045716
+
+	CR: 0.499663889908
+
+
+Repeticao: 42
+	J (init): 6615.04802424
+	Iteracao: 1
+		J (prototypes): 4579.57567453
+		J (weight): 4550.44585074
+		J (organize): 3993.74539118
+	Iteracao: 2
+		J (prototypes): 3796.84227167
+		J (weight): 3726.75051595
+		J (organize): 3653.33439758
+	Iteracao: 3
+		J (prototypes): 3581.46407196
+		J (weight): 3581.3679434
+		J (organize): 3481.91633998
+	Iteracao: 4
+		J (prototypes): 3462.82982502
+		J (weight): 3457.95618676
+		J (organize): 3443.60051776
+	Iteracao: 5
+		J (prototypes): 3438.3645033
+		J (weight): 3436.64751743
+		J (organize): 3430.1629558
+	Iteracao: 6
+		J (prototypes): 3409.49893614
+		J (weight): 3409.25545445
+		J (organize): 3321.34762746
+	Iteracao: 7
+		J (prototypes): 3314.615548
+		J (weight): 3312.84124288
+		J (organize): 3303.60048909
+	Iteracao: 8
+		J (prototypes): 3301.99557177
+		J (weight): 3301.96952684
+		J (organize): 3299.22957864
+	Iteracao: 9
+		J (prototypes): 3297.74368358
+		J (weight): 3297.74046997
+		J (organize): 3296.9388277
+	Iteracao: 10
+		J (prototypes): 3296.9388277
+		J (weight): 3296.93878489
+		J (organize): 3296.93878489
+
+	CR: 0.414790649389
+
+
+Repeticao: 43
+	J (init): 6804.9517443
+	Iteracao: 1
+		J (prototypes): 3989.7322128
+		J (weight): 3978.71908375
+		J (organize): 3492.32143951
+	Iteracao: 2
+		J (prototypes): 3374.6991879
+		J (weight): 3357.39273582
+		J (organize): 3315.11069973
+	Iteracao: 3
+		J (prototypes): 3298.33955792
+		J (weight): 3298.32852614
+		J (organize): 3285.99956767
+	Iteracao: 4
+		J (prototypes): 3279.26525033
+		J (weight): 3279.24304916
+		J (organize): 3271.31961037
+	Iteracao: 5
+		J (prototypes): 3268.18371146
+		J (weight): 3267.97291152
+		J (organize): 3267.16509075
+	Iteracao: 6
+		J (prototypes): 3267.16509075
+		J (weight): 3267.15141167
+		J (organize): 3267.1502749
+	Iteracao: 7
+		J (prototypes): 3267.1502749
+		J (weight): 3267.1501159
+		J (organize): 3267.1501159
+
+	CR: 0.47949079165
+
+
+Repeticao: 44
+	J (init): 6562.98878241
+	Iteracao: 1
+		J (prototypes): 4651.86407974
+		J (weight): 4651.83151087
+		J (organize): 4479.86651999
+	Iteracao: 2
+		J (prototypes): 3853.83021744
+		J (weight): 3814.86911115
+		J (organize): 3774.85788341
+	Iteracao: 3
+		J (prototypes): 3768.1980919
+		J (weight): 3767.51942139
+		J (organize): 3654.15651883
+	Iteracao: 4
+		J (prototypes): 3514.53099372
+		J (weight): 3511.95905195
+		J (organize): 3418.17657063
+	Iteracao: 5
+		J (prototypes): 3387.08896102
+		J (weight): 3385.97405116
+		J (organize): 3370.87636695
+	Iteracao: 6
+		J (prototypes): 3370.00428813
+		J (weight): 3369.75540445
+		J (organize): 3366.66229008
+	Iteracao: 7
+		J (prototypes): 3365.07479225
+		J (weight): 3364.83319656
+		J (organize): 3364.5434447
+	Iteracao: 8
+		J (prototypes): 3364.05756188
+		J (weight): 3364.03280735
+		J (organize): 3363.83646551
+	Iteracao: 9
+		J (prototypes): 3363.79532723
+		J (weight): 3363.79429943
+		J (organize): 3363.79429943
+
+	CR: 0.416603935863
+
+
+Repeticao: 45
+	J (init): 6168.92192716
+	Iteracao: 1
+		J (prototypes): 4001.56699362
+		J (weight): 4001.27711838
+		J (organize): 3688.08630717
+	Iteracao: 2
+		J (prototypes): 3597.57352863
+		J (weight): 3581.36612143
+		J (organize): 3541.36742616
+	Iteracao: 3
+		J (prototypes): 3514.72146577
+		J (weight): 3514.48583551
+		J (organize): 3491.68795365
+	Iteracao: 4
+		J (prototypes): 3476.54398194
+		J (weight): 3476.28529792
+		J (organize): 3469.33458601
+	Iteracao: 5
+		J (prototypes): 3464.70663247
+		J (weight): 3464.68549579
+		J (organize): 3458.73861398
+	Iteracao: 6
+		J (prototypes): 3455.49329941
+		J (weight): 3455.49231824
+		J (organize): 3452.41474325
+	Iteracao: 7
+		J (prototypes): 3452.41474325
+		J (weight): 3452.41227171
+		J (organize): 3452.41227171
+
+	CR: 0.497113280402
+
+
+Repeticao: 46
+	J (init): 6771.54585501
+	Iteracao: 1
+		J (prototypes): 4530.76754789
+		J (weight): 4525.35243607
+		J (organize): 4461.10208492
+	Iteracao: 2
+		J (prototypes): 4443.76357905
+		J (weight): 4443.61610363
+		J (organize): 4433.99367105
+	Iteracao: 3
+		J (prototypes): 4432.98128328
+		J (weight): 4432.97409804
+		J (organize): 4431.82216462
+	Iteracao: 4
+		J (prototypes): 4429.66089327
+		J (weight): 4429.65885306
+		J (organize): 4424.86355575
+	Iteracao: 5
+		J (prototypes): 4421.48977287
+		J (weight): 4421.47922162
+		J (organize): 4418.09554703
+	Iteracao: 6
+		J (prototypes): 4417.41728999
+		J (weight): 4417.41055249
+		J (organize): 4417.03151451
+	Iteracao: 7
+		J (prototypes): 4417.03151451
+		J (weight): 4417.03127642
+		J (organize): 4417.03127642
+
+	CR: 0.19444409278
+
+
+Repeticao: 47
+	J (init): 7273.84877404
+	Iteracao: 1
+		J (prototypes): 5284.47359914
+		J (weight): 5264.55099464
+		J (organize): 4600.44926015
+	Iteracao: 2
+		J (prototypes): 4271.75668109
+		J (weight): 4259.55576756
+		J (organize): 4101.271633
+	Iteracao: 3
+		J (prototypes): 3856.92071772
+		J (weight): 3855.69021238
+		J (organize): 3418.33444795
+	Iteracao: 4
+		J (prototypes): 3362.18527782
+		J (weight): 3345.06216474
+		J (organize): 3327.17482081
+	Iteracao: 5
+		J (prototypes): 3306.01470566
+		J (weight): 3302.54249708
+		J (organize): 3284.80283215
+	Iteracao: 6
+		J (prototypes): 3282.79585066
+		J (weight): 3282.28430927
+		J (organize): 3281.8865805
+	Iteracao: 7
+		J (prototypes): 3281.87162365
+		J (weight): 3281.82608186
+		J (organize): 3281.7235504
+	Iteracao: 8
+		J (prototypes): 3281.7235504
+		J (weight): 3281.72353803
+		J (organize): 3281.72353037
+	Iteracao: 9
+		J (prototypes): 3281.6360182
+		J (weight): 3281.62780131
+		J (organize): 3279.92450476
+	Iteracao: 10
+		J (prototypes): 3279.92450476
+		J (weight): 3279.88491326
+		J (organize): 3279.88348329
+	Iteracao: 11
+		J (prototypes): 3279.88348329
+		J (weight): 3279.8830092
+		J (organize): 3279.8830092
+
+	CR: 0.480935963062
+
+
+Repeticao: 48
+	J (init): 6521.4255806
+	Iteracao: 1
+		J (prototypes): 4447.10549974
+		J (weight): 4441.30792776
+		J (organize): 4280.11973568
+	Iteracao: 2
+		J (prototypes): 3778.85938657
+		J (weight): 3752.91865878
+		J (organize): 3519.03282055
+	Iteracao: 3
+		J (prototypes): 3491.38067386
+		J (weight): 3482.20508172
+		J (organize): 3414.50706746
+	Iteracao: 4
+		J (prototypes): 3365.65878758
+		J (weight): 3357.58406828
+		J (organize): 3323.24193187
+	Iteracao: 5
+		J (prototypes): 3319.89768695
+		J (weight): 3319.7646595
+		J (organize): 3318.56384552
+	Iteracao: 6
+		J (prototypes): 3318.56384552
+		J (weight): 3318.53178082
+		J (organize): 3318.53178082
+
+	CR: 0.501266041984
+
+
+Repeticao: 49
+	J (init): 7064.54966078
+	Iteracao: 1
+		J (prototypes): 4333.10040778
+		J (weight): 4332.623189
+		J (organize): 3528.20558343
+	Iteracao: 2
+		J (prototypes): 3449.13773034
+		J (weight): 3434.46699286
+		J (organize): 3372.16151592
+	Iteracao: 3
+		J (prototypes): 3350.89606367
+		J (weight): 3350.37809712
+		J (organize): 3328.4598779
+	Iteracao: 4
+		J (prototypes): 3318.67417614
+		J (weight): 3318.391244
+		J (organize): 3316.20156923
+	Iteracao: 5
+		J (prototypes): 3315.72252981
+		J (weight): 3315.72094162
+		J (organize): 3315.47040193
+	Iteracao: 6
+		J (prototypes): 3315.2875439
+		J (weight): 3315.28657129
+		J (organize): 3314.78781602
+	Iteracao: 7
+		J (prototypes): 3313.67873325
+		J (weight): 3313.67302914
+		J (organize): 3308.04266897
+	Iteracao: 8
+		J (prototypes): 3305.87607689
+		J (weight): 3305.64558079
+		J (organize): 3300.3547156
+	Iteracao: 9
+		J (prototypes): 3296.84205675
+		J (weight): 3296.61736785
+		J (organize): 3292.92237695
+	Iteracao: 10
+		J (prototypes): 3292.92237695
+		J (weight): 3292.80333652
+		J (organize): 3292.79791087
+	Iteracao: 11
+		J (prototypes): 3292.79791087
+		J (weight): 3292.79750954
+		J (organize): 3292.79750954
+
+	CR: 0.47366699047
+
+
+Repeticao: 50
+	J (init): 6143.7286253
+	Iteracao: 1
+		J (prototypes): 3743.51518627
+		J (weight): 3714.33660972
+		J (organize): 3489.67061812
+	Iteracao: 2
+		J (prototypes): 3412.11896182
+		J (weight): 3407.81533439
+		J (organize): 3297.48157942
+	Iteracao: 3
+		J (prototypes): 3265.30584585
+		J (weight): 3256.46563422
+		J (organize): 3238.58315274
+	Iteracao: 4
+		J (prototypes): 3227.36649613
+		J (weight): 3226.61701565
+		J (organize): 3216.8730908
+	Iteracao: 5
+		J (prototypes): 3212.63003342
+		J (weight): 3212.56642016
+		J (organize): 3210.41215259
+	Iteracao: 6
+		J (prototypes): 3209.80592868
+		J (weight): 3209.72116965
+		J (organize): 3209.19027165
+	Iteracao: 7
+		J (prototypes): 3208.66502218
+		J (weight): 3208.6476691
+		J (organize): 3208.12473522
+	Iteracao: 8
+		J (prototypes): 3208.12473522
+		J (weight): 3208.10549629
+		J (organize): 3208.10549629
+
+	CR: 0.482569675494
+
+
+Repeticao: 51
+	J (init): 6632.26907677
+	Iteracao: 1
+		J (prototypes): 4272.20183324
+		J (weight): 4257.05241838
+		J (organize): 3649.43149832
+	Iteracao: 2
+		J (prototypes): 3613.72131417
+		J (weight): 3536.39667655
+		J (organize): 3488.16523308
+	Iteracao: 3
+		J (prototypes): 3454.10216991
+		J (weight): 3444.14354124
+		J (organize): 3421.55046222
+	Iteracao: 4
+		J (prototypes): 3415.67122964
+		J (weight): 3414.98532362
+		J (organize): 3411.88782691
+	Iteracao: 5
+		J (prototypes): 3409.68059342
+		J (weight): 3409.34237441
+		J (organize): 3406.13372866
+	Iteracao: 6
+		J (prototypes): 3405.44087901
+		J (weight): 3405.12446253
+		J (organize): 3404.78530087
+	Iteracao: 7
+		J (prototypes): 3404.78530087
+		J (weight): 3404.77147941
+		J (organize): 3404.77147941
+
+	CR: 0.439407454484
+
+
+Repeticao: 52
+	J (init): 6297.96140566
+	Iteracao: 1
+		J (prototypes): 4441.44326986
+		J (weight): 4411.04207237
+		J (organize): 4119.53204556
+	Iteracao: 2
+		J (prototypes): 3584.34182262
+		J (weight): 3557.06166419
+		J (organize): 3368.72112309
+	Iteracao: 3
+		J (prototypes): 3351.87334542
+		J (weight): 3334.48347734
+		J (organize): 3324.03469334
+	Iteracao: 4
+		J (prototypes): 3323.82011025
+		J (weight): 3323.074926
+		J (organize): 3321.9587968
+	Iteracao: 5
+		J (prototypes): 3321.9587968
+		J (weight): 3321.94078331
+		J (organize): 3321.93312133
+	Iteracao: 6
+		J (prototypes): 3321.93312133
+		J (weight): 3321.92996799
+		J (organize): 3321.92996799
+
+	CR: 0.406653571064
+
+
+Repeticao: 53
+	J (init): 7048.75885393
+	Iteracao: 1
+		J (prototypes): 5149.3343843
+		J (weight): 5097.95880992
+		J (organize): 4739.07749382
+	Iteracao: 2
+		J (prototypes): 4614.43236738
+		J (weight): 4592.04915262
+		J (organize): 4550.17279458
+	Iteracao: 3
+		J (prototypes): 4458.69477887
+		J (weight): 4458.28456998
+		J (organize): 4129.69021542
+	Iteracao: 4
+		J (prototypes): 4038.05039949
+		J (weight): 4017.34822328
+		J (organize): 3964.74786286
+	Iteracao: 5
+		J (prototypes): 3922.65188181
+		J (weight): 3917.50797743
+		J (organize): 3891.19777594
+	Iteracao: 6
+		J (prototypes): 3865.0147285
+		J (weight): 3863.25906285
+		J (organize): 3569.15073186
+	Iteracao: 7
+		J (prototypes): 3450.64990872
+		J (weight): 3435.40909536
+		J (organize): 3401.06844556
+	Iteracao: 8
+		J (prototypes): 3390.05236138
+		J (weight): 3389.79991865
+		J (organize): 3382.86943878
+	Iteracao: 9
+		J (prototypes): 3379.20757473
+		J (weight): 3379.20618486
+		J (organize): 3377.26465824
+	Iteracao: 10
+		J (prototypes): 3377.17651604
+		J (weight): 3377.12280964
+		J (organize): 3373.03367991
+	Iteracao: 11
+		J (prototypes): 3373.03367991
+		J (weight): 3373.0210518
+		J (organize): 3373.0210518
+
+	CR: 0.494277624169
+
+
+Repeticao: 54
+	J (init): 6444.96278856
+	Iteracao: 1
+		J (prototypes): 4429.67737254
+		J (weight): 4390.95742344
+		J (organize): 3713.31658907
+	Iteracao: 2
+		J (prototypes): 3568.99928009
+		J (weight): 3427.22537099
+		J (organize): 3334.69987819
+	Iteracao: 3
+		J (prototypes): 3312.71051191
+		J (weight): 3306.42846173
+		J (organize): 3270.0688744
+	Iteracao: 4
+		J (prototypes): 3264.4225306
+		J (weight): 3261.02472911
+		J (organize): 3256.97698167
+	Iteracao: 5
+		J (prototypes): 3253.88166073
+		J (weight): 3253.63100065
+		J (organize): 3250.00857727
+	Iteracao: 6
+		J (prototypes): 3246.79659728
+		J (weight): 3246.69531361
+		J (organize): 3231.62854317
+	Iteracao: 7
+		J (prototypes): 3229.30487193
+		J (weight): 3229.29548867
+		J (organize): 3228.07497059
+	Iteracao: 8
+		J (prototypes): 3227.12080905
+		J (weight): 3227.10163985
+		J (organize): 3225.54648376
+	Iteracao: 9
+		J (prototypes): 3223.45280294
+		J (weight): 3223.444268
+		J (organize): 3222.59482354
+	Iteracao: 10
+		J (prototypes): 3222.19083041
+		J (weight): 3222.18703727
+		J (organize): 3220.85917956
+	Iteracao: 11
+		J (prototypes): 3220.85917956
+		J (weight): 3220.84817098
+		J (organize): 3220.84785913
+	Iteracao: 12
+		J (prototypes): 3220.84785913
+		J (weight): 3220.8478078
+		J (organize): 3220.8478078
+
+	CR: 0.583321461335
+
+
+Repeticao: 55
+	J (init): 5927.40560143
+	Iteracao: 1
+		J (prototypes): 3840.77850689
+		J (weight): 3829.49163014
+		J (organize): 3481.19831014
+	Iteracao: 2
+		J (prototypes): 3361.33696223
+		J (weight): 3339.93282732
+		J (organize): 3294.97511664
+	Iteracao: 3
+		J (prototypes): 3284.90305213
+		J (weight): 3283.49000708
+		J (organize): 3268.56949216
+	Iteracao: 4
+		J (prototypes): 3267.2474568
+		J (weight): 3266.1092877
+		J (organize): 3264.4854133
+	Iteracao: 5
+		J (prototypes): 3263.5569078
+		J (weight): 3263.25489518
+		J (organize): 3262.33167623
+	Iteracao: 6
+		J (prototypes): 3262.33167623
+		J (weight): 3262.30110287
+		J (organize): 3262.29682335
+	Iteracao: 7
+		J (prototypes): 3262.29682335
+		J (weight): 3262.29642652
+		J (organize): 3262.29642652
+
+	CR: 0.412497694083
+
+
+Repeticao: 56
+	J (init): 6344.70616351
+	Iteracao: 1
+		J (prototypes): 3995.36448884
+		J (weight): 3961.08850602
+		J (organize): 3683.15667026
+	Iteracao: 2
+		J (prototypes): 3609.98708172
+		J (weight): 3601.52544846
+		J (organize): 3550.70871842
+	Iteracao: 3
+		J (prototypes): 3544.11127709
+		J (weight): 3542.6860442
+		J (organize): 3534.02204372
+	Iteracao: 4
+		J (prototypes): 3528.58217758
+		J (weight): 3528.57126546
+		J (organize): 3526.14927337
+	Iteracao: 5
+		J (prototypes): 3526.14927337
+		J (weight): 3526.13982015
+		J (organize): 3526.13982015
+
+	CR: 0.485975417562
+
+
+Repeticao: 57
+	J (init): 6149.58679511
+	Iteracao: 1
+		J (prototypes): 4224.83614274
+		J (weight): 4214.61314989
+		J (organize): 3940.42163057
+	Iteracao: 2
+		J (prototypes): 3872.14012407
+		J (weight): 3863.90235144
+		J (organize): 3847.06546993
+	Iteracao: 3
+		J (prototypes): 3838.0351672
+		J (weight): 3837.93284879
+		J (organize): 3835.97803795
+	Iteracao: 4
+		J (prototypes): 3835.73472319
+		J (weight): 3835.70058329
+		J (organize): 3833.63193499
+	Iteracao: 5
+		J (prototypes): 3833.63193499
+		J (weight): 3833.62047492
+		J (organize): 3833.62047492
+
+	CR: 0.431620074374
+
+
+Repeticao: 58
+	J (init): 5857.59639348
+	Iteracao: 1
+		J (prototypes): 4497.35880622
+		J (weight): 4495.78605862
+		J (organize): 3780.72265282
+	Iteracao: 2
+		J (prototypes): 3588.01969024
+		J (weight): 3527.09470266
+		J (organize): 3440.32919312
+	Iteracao: 3
+		J (prototypes): 3397.22644675
+		J (weight): 3390.68262877
+		J (organize): 3374.11972429
+	Iteracao: 4
+		J (prototypes): 3362.81202959
+		J (weight): 3361.94793752
+		J (organize): 3356.11092242
+	Iteracao: 5
+		J (prototypes): 3352.17407864
+		J (weight): 3352.08976647
+		J (organize): 3347.69566798
+	Iteracao: 6
+		J (prototypes): 3343.86179098
+		J (weight): 3343.73864045
+		J (organize): 3338.01888683
+	Iteracao: 7
+		J (prototypes): 3333.39463536
+		J (weight): 3333.32479868
+		J (organize): 3330.82539646
+	Iteracao: 8
+		J (prototypes): 3328.23892341
+		J (weight): 3328.23892218
+		J (organize): 3327.34083085
+	Iteracao: 9
+		J (prototypes): 3327.34083085
+		J (weight): 3327.34080901
+		J (organize): 3327.34080901
+
+	CR: 0.478490218894
+
+
+Repeticao: 59
+	J (init): 6535.0646797
+	Iteracao: 1
+		J (prototypes): 4141.53071292
+		J (weight): 4137.75748432
+		J (organize): 3622.88339121
+	Iteracao: 2
+		J (prototypes): 3566.84678498
+		J (weight): 3519.60670448
+		J (organize): 3460.41039792
+	Iteracao: 3
+		J (prototypes): 3442.64031613
+		J (weight): 3441.64208283
+		J (organize): 3383.89256457
+	Iteracao: 4
+		J (prototypes): 3375.01188627
+		J (weight): 3374.9404243
+		J (organize): 3370.99188881
+	Iteracao: 5
+		J (prototypes): 3370.86360228
+		J (weight): 3370.7449268
+		J (organize): 3369.24110144
+	Iteracao: 6
+		J (prototypes): 3367.96509202
+		J (weight): 3367.95209341
+		J (organize): 3362.04763087
+	Iteracao: 7
+		J (prototypes): 3360.42988451
+		J (weight): 3360.27597139
+		J (organize): 3352.87903061
+	Iteracao: 8
+		J (prototypes): 3352.56177841
+		J (weight): 3352.4507055
+		J (organize): 3351.04563986
+	Iteracao: 9
+		J (prototypes): 3348.08108651
+		J (weight): 3348.07878076
+		J (organize): 3326.98429822
+	Iteracao: 10
+		J (prototypes): 3321.75119711
+		J (weight): 3321.18759791
+		J (organize): 3318.67266736
+	Iteracao: 11
+		J (prototypes): 3318.67266736
+		J (weight): 3318.55046985
+		J (organize): 3318.53283626
+	Iteracao: 12
+		J (prototypes): 3318.53283626
+		J (weight): 3318.53178082
+		J (organize): 3318.53178082
+
+	CR: 0.501266041984
+
+
+Repeticao: 60
+	J (init): 6897.27462455
+	Iteracao: 1
+		J (prototypes): 4444.71822202
+		J (weight): 4443.79236437
+		J (organize): 3718.6723428
+	Iteracao: 2
+		J (prototypes): 3594.9177058
+		J (weight): 3512.02993574
+		J (organize): 3463.75848479
+	Iteracao: 3
+		J (prototypes): 3432.51927739
+		J (weight): 3431.72321069
+		J (organize): 3412.63237868
+	Iteracao: 4
+		J (prototypes): 3395.59443681
+		J (weight): 3394.18718704
+		J (organize): 3364.75623569
+	Iteracao: 5
+		J (prototypes): 3354.27621037
+		J (weight): 3353.50726703
+		J (organize): 3347.45329016
+	Iteracao: 6
+		J (prototypes): 3344.5853316
+		J (weight): 3344.50705638
+		J (organize): 3335.86376534
+	Iteracao: 7
+		J (prototypes): 3318.94717843
+		J (weight): 3318.65890265
+		J (organize): 3298.80879338
+	Iteracao: 8
+		J (prototypes): 3297.52283279
+		J (weight): 3297.43234788
+		J (organize): 3295.96069984
+	Iteracao: 9
+		J (prototypes): 3293.52744431
+		J (weight): 3293.50642818
+		J (organize): 3283.67688803
+	Iteracao: 10
+		J (prototypes): 3257.20031655
+		J (weight): 3257.13379876
+		J (organize): 3220.00970799
+	Iteracao: 11
+		J (prototypes): 3199.8037459
+		J (weight): 3199.50935528
+		J (organize): 3192.2869964
+	Iteracao: 12
+		J (prototypes): 3191.13286537
+		J (weight): 3191.13280349
+		J (organize): 3190.8576849
+	Iteracao: 13
+		J (prototypes): 3190.8131415
+		J (weight): 3190.81218926
+		J (organize): 3190.8109689
+	Iteracao: 14
+		J (prototypes): 3190.8109689
+		J (weight): 3190.81096429
+		J (organize): 3190.81096429
+
+	CR: 0.463624727972
+
+
+Repeticao: 61
+	J (init): 6522.7001535
+	Iteracao: 1
+		J (prototypes): 4108.40674641
+		J (weight): 4108.36892065
+		J (organize): 3527.61347901
+	Iteracao: 2
+		J (prototypes): 3380.7482914
+		J (weight): 3326.988248
+		J (organize): 3271.46671125
+	Iteracao: 3
+		J (prototypes): 3266.73279625
+		J (weight): 3265.12910933
+		J (organize): 3260.3730504
+	Iteracao: 4
+		J (prototypes): 3260.30883289
+		J (weight): 3260.30883218
+		J (organize): 3260.08801496
+	Iteracao: 5
+		J (prototypes): 3260.08801496
+		J (weight): 3260.08801426
+		J (organize): 3260.08801426
+
+	CR: 0.430742286595
+
+
+Repeticao: 62
+	J (init): 5912.90847915
+	Iteracao: 1
+		J (prototypes): 4234.34129611
+		J (weight): 4232.85459721
+		J (organize): 3792.61642838
+	Iteracao: 2
+		J (prototypes): 3631.63282308
+		J (weight): 3617.19979071
+		J (organize): 3560.12933989
+	Iteracao: 3
+		J (prototypes): 3540.29441512
+		J (weight): 3539.76476201
+		J (organize): 3513.79240038
+	Iteracao: 4
+		J (prototypes): 3477.65880126
+		J (weight): 3466.3292045
+		J (organize): 3447.42089596
+	Iteracao: 5
+		J (prototypes): 3440.79141111
+		J (weight): 3439.52412213
+		J (organize): 3437.35136981
+	Iteracao: 6
+		J (prototypes): 3435.72761518
+		J (weight): 3435.69650663
+		J (organize): 3433.69743757
+	Iteracao: 7
+		J (prototypes): 3432.54381218
+		J (weight): 3432.48986721
+		J (organize): 3431.00822536
+	Iteracao: 8
+		J (prototypes): 3431.00822536
+		J (weight): 3430.99355788
+		J (organize): 3430.99355788
+
+	CR: 0.425346610597
+
+
+Repeticao: 63
+	J (init): 6064.66641698
+	Iteracao: 1
+		J (prototypes): 3989.8589647
+		J (weight): 3987.82168001
+		J (organize): 3818.59591963
+	Iteracao: 2
+		J (prototypes): 3731.60009317
+		J (weight): 3730.58246105
+		J (organize): 3675.62680086
+	Iteracao: 3
+		J (prototypes): 3639.00529689
+		J (weight): 3625.74919606
+		J (organize): 3564.86632012
+	Iteracao: 4
+		J (prototypes): 3527.01192682
+		J (weight): 3517.50874768
+		J (organize): 3498.89923062
+	Iteracao: 5
+		J (prototypes): 3494.28948384
+		J (weight): 3494.08031721
+		J (organize): 3492.47784429
+	Iteracao: 6
+		J (prototypes): 3492.47784429
+		J (weight): 3492.4763877
+		J (organize): 3492.4763877
+
+	CR: 0.494339787543
+
+
+Repeticao: 64
+	J (init): 6928.9298846
+	Iteracao: 1
+		J (prototypes): 4275.29016312
+		J (weight): 4272.52411756
+		J (organize): 3801.27784255
+	Iteracao: 2
+		J (prototypes): 3709.92407737
+		J (weight): 3684.37769359
+		J (organize): 3619.98379667
+	Iteracao: 3
+		J (prototypes): 3582.30077332
+		J (weight): 3582.01520483
+		J (organize): 3481.07908666
+	Iteracao: 4
+		J (prototypes): 3375.20118161
+		J (weight): 3373.69477343
+		J (organize): 3310.39511133
+	Iteracao: 5
+		J (prototypes): 3291.38363101
+		J (weight): 3291.11527188
+		J (organize): 3255.44432141
+	Iteracao: 6
+		J (prototypes): 3254.79728079
+		J (weight): 3254.79671761
+		J (organize): 3251.73879828
+	Iteracao: 7
+		J (prototypes): 3251.73879828
+		J (weight): 3251.72341011
+		J (organize): 3251.72341011
+
+	CR: 0.453592181253
+
+
+Repeticao: 65
+	J (init): 6624.96365653
+	Iteracao: 1
+		J (prototypes): 4267.45190076
+		J (weight): 4265.50250374
+		J (organize): 4058.15484532
+	Iteracao: 2
+		J (prototypes): 4013.86126701
+		J (weight): 3995.23543517
+		J (organize): 3947.58061175
+	Iteracao: 3
+		J (prototypes): 3906.14787281
+		J (weight): 3903.50073121
+		J (organize): 3885.30393584
+	Iteracao: 4
+		J (prototypes): 3872.30179722
+		J (weight): 3872.23881857
+		J (organize): 3805.80269311
+	Iteracao: 5
+		J (prototypes): 3687.57283317
+		J (weight): 3686.43680747
+		J (organize): 3559.51107303
+	Iteracao: 6
+		J (prototypes): 3490.8442279
+		J (weight): 3487.85962159
+		J (organize): 3468.62329938
+	Iteracao: 7
+		J (prototypes): 3465.26065346
+		J (weight): 3465.11686176
+		J (organize): 3462.25765546
+	Iteracao: 8
+		J (prototypes): 3462.25765546
+		J (weight): 3462.24101763
+		J (organize): 3462.23771166
+	Iteracao: 9
+		J (prototypes): 3462.23771166
+		J (weight): 3462.23752695
+		J (organize): 3462.23752695
+
+	CR: 0.452766722478
+
+
+Repeticao: 66
+	J (init): 6446.36900254
+	Iteracao: 1
+		J (prototypes): 4426.77504832
+		J (weight): 4423.53567324
+		J (organize): 4040.19379802
+	Iteracao: 2
+		J (prototypes): 3900.12515029
+		J (weight): 3897.09372728
+		J (organize): 3561.47678673
+	Iteracao: 3
+		J (prototypes): 3388.21295737
+		J (weight): 3354.01960451
+		J (organize): 3317.089396
+	Iteracao: 4
+		J (prototypes): 3293.55147249
+		J (weight): 3289.69531849
+		J (organize): 3267.87769035
+	Iteracao: 5
+		J (prototypes): 3258.98116714
+		J (weight): 3258.82522314
+		J (organize): 3252.86317122
+	Iteracao: 6
+		J (prototypes): 3250.52903016
+		J (weight): 3250.51284596
+		J (organize): 3248.30753112
+	Iteracao: 7
+		J (prototypes): 3247.21180525
+		J (weight): 3247.16702558
+		J (organize): 3245.86213639
+	Iteracao: 8
+		J (prototypes): 3245.86213639
+		J (weight): 3245.85098439
+		J (organize): 3245.85034121
+	Iteracao: 9
+		J (prototypes): 3245.85034121
+		J (weight): 3245.85029561
+		J (organize): 3245.85029561
+
+	CR: 0.426156896229
+
+
+Repeticao: 67
+	J (init): 5646.15474752
+	Iteracao: 1
+		J (prototypes): 4046.36351207
+		J (weight): 4044.02147023
+		J (organize): 3764.93662546
+	Iteracao: 2
+		J (prototypes): 3686.38375634
+		J (weight): 3683.05795161
+		J (organize): 3545.03723061
+	Iteracao: 3
+		J (prototypes): 3463.71603788
+		J (weight): 3450.91583332
+		J (organize): 3350.59018387
+	Iteracao: 4
+		J (prototypes): 3250.16673014
+		J (weight): 3226.65557349
+		J (organize): 3174.81023936
+	Iteracao: 5
+		J (prototypes): 3162.66134133
+		J (weight): 3162.63969458
+		J (organize): 3159.31982791
+	Iteracao: 6
+		J (prototypes): 3158.98933873
+		J (weight): 3158.98814849
+		J (organize): 3158.79978462
+	Iteracao: 7
+		J (prototypes): 3158.79978462
+		J (weight): 3158.79935266
+		J (organize): 3158.79935266
+
+	CR: 0.567345464532
+
+
+Repeticao: 68
+	J (init): 7327.58148004
+	Iteracao: 1
+		J (prototypes): 4604.98278884
+		J (weight): 4601.76409397
+		J (organize): 3864.87621652
+	Iteracao: 2
+		J (prototypes): 3672.24638656
+		J (weight): 3616.52140671
+		J (organize): 3413.97395875
+	Iteracao: 3
+		J (prototypes): 3362.90088006
+		J (weight): 3353.9075855
+		J (organize): 3329.53478176
+	Iteracao: 4
+		J (prototypes): 3329.24181105
+		J (weight): 3329.06880444
+		J (organize): 3326.59901632
+	Iteracao: 5
+		J (prototypes): 3326.59901632
+		J (weight): 3326.59029657
+		J (organize): 3326.58893775
+	Iteracao: 6
+		J (prototypes): 3326.58893775
+		J (weight): 3326.5887091
+		J (organize): 3326.5887091
+
+	CR: 0.485925304334
+
+
+Repeticao: 69
+	J (init): 5790.84209448
+	Iteracao: 1
+		J (prototypes): 3855.10219577
+		J (weight): 3827.10384514
+		J (organize): 3686.58331799
+	Iteracao: 2
+		J (prototypes): 3623.91262659
+		J (weight): 3612.6249679
+		J (organize): 3576.94281661
+	Iteracao: 3
+		J (prototypes): 3556.64299649
+		J (weight): 3556.64299548
+		J (organize): 3540.02863729
+	Iteracao: 4
+		J (prototypes): 3528.54940343
+		J (weight): 3528.31955102
+		J (organize): 3520.00171231
+	Iteracao: 5
+		J (prototypes): 3513.67140332
+		J (weight): 3513.62326523
+		J (organize): 3496.95979436
+	Iteracao: 6
+		J (prototypes): 3495.51856923
+		J (weight): 3494.81912954
+		J (organize): 3490.89032534
+	Iteracao: 7
+		J (prototypes): 3478.76354553
+		J (weight): 3478.71488268
+		J (organize): 3448.67125555
+	Iteracao: 8
+		J (prototypes): 3426.79861023
+		J (weight): 3426.63924109
+		J (organize): 3342.9878586
+	Iteracao: 9
+		J (prototypes): 3314.61299064
+		J (weight): 3312.51923024
+		J (organize): 3282.22605655
+	Iteracao: 10
+		J (prototypes): 3277.80837337
+		J (weight): 3277.73560131
+		J (organize): 3277.25493696
+	Iteracao: 11
+		J (prototypes): 3277.25493696
+		J (weight): 3277.25477877
+		J (organize): 3277.25477877
+
+	CR: 0.452635583313
+
+
+Repeticao: 70
+	J (init): 7123.10337264
+	Iteracao: 1
+		J (prototypes): 4814.56214482
+		J (weight): 4777.01816566
+		J (organize): 4020.57720123
+	Iteracao: 2
+		J (prototypes): 3812.51503979
+		J (weight): 3787.02261994
+		J (organize): 3685.38678408
+	Iteracao: 3
+		J (prototypes): 3649.98445144
+		J (weight): 3639.17813425
+		J (organize): 3608.55923921
+	Iteracao: 4
+		J (prototypes): 3603.22189145
+		J (weight): 3599.30310969
+		J (organize): 3584.11924388
+	Iteracao: 5
+		J (prototypes): 3571.85532489
+		J (weight): 3571.85530177
+		J (organize): 3555.65581984
+	Iteracao: 6
+		J (prototypes): 3515.83601916
+		J (weight): 3512.33173862
+		J (organize): 3468.74877438
+	Iteracao: 7
+		J (prototypes): 3467.45102564
+		J (weight): 3464.93869473
+		J (organize): 3462.38959929
+	Iteracao: 8
+		J (prototypes): 3461.99644036
+		J (weight): 3461.88597553
+		J (organize): 3458.20289217
+	Iteracao: 9
+		J (prototypes): 3458.20289217
+		J (weight): 3458.1870372
+		J (organize): 3458.1868232
+	Iteracao: 10
+		J (prototypes): 3458.1868232
+		J (weight): 3458.18680602
+		J (organize): 3458.18680602
+
+	CR: 0.441512850334
+
+
+Repeticao: 71
+	J (init): 6643.06450404
+	Iteracao: 1
+		J (prototypes): 4109.9250487
+		J (weight): 4109.2521869
+		J (organize): 3695.49006374
+	Iteracao: 2
+		J (prototypes): 3589.88264288
+		J (weight): 3583.78464791
+		J (organize): 3497.63866426
+	Iteracao: 3
+		J (prototypes): 3474.62923189
+		J (weight): 3466.01213666
+		J (organize): 3409.68258516
+	Iteracao: 4
+		J (prototypes): 3350.50551654
+		J (weight): 3340.85947802
+		J (organize): 3319.74582302
+	Iteracao: 5
+		J (prototypes): 3318.92877298
+		J (weight): 3318.53651383
+		J (organize): 3318.08700795
+	Iteracao: 6
+		J (prototypes): 3318.08700795
+		J (weight): 3318.08253578
+		J (organize): 3318.08253578
+
+	CR: 0.442945103021
+
+
+Repeticao: 72
+	J (init): 5926.10342102
+	Iteracao: 1
+		J (prototypes): 3820.9711713
+		J (weight): 3797.57882551
+		J (organize): 3655.47492152
+	Iteracao: 2
+		J (prototypes): 3596.57100397
+		J (weight): 3590.25411656
+		J (organize): 3555.1333062
+	Iteracao: 3
+		J (prototypes): 3532.74023514
+		J (weight): 3531.27039799
+		J (organize): 3478.01871451
+	Iteracao: 4
+		J (prototypes): 3414.29913536
+		J (weight): 3409.78838375
+		J (organize): 3380.84416058
+	Iteracao: 5
+		J (prototypes): 3373.66883241
+		J (weight): 3373.03916835
+		J (organize): 3370.69986535
+	Iteracao: 6
+		J (prototypes): 3369.74591954
+		J (weight): 3369.73741721
+		J (organize): 3369.23213271
+	Iteracao: 7
+		J (prototypes): 3369.23213271
+		J (weight): 3369.23041534
+		J (organize): 3369.23041534
+
+	CR: 0.479598895811
+
+
+Repeticao: 73
+	J (init): 8283.9907237
+	Iteracao: 1
+		J (prototypes): 4493.1064197
+		J (weight): 4491.739619
+		J (organize): 3661.38657233
+	Iteracao: 2
+		J (prototypes): 3581.89440716
+		J (weight): 3538.98029145
+		J (organize): 3474.98288564
+	Iteracao: 3
+		J (prototypes): 3394.667528
+		J (weight): 3382.36886343
+		J (organize): 3296.97159984
+	Iteracao: 4
+		J (prototypes): 3266.56082103
+		J (weight): 3261.38841712
+		J (organize): 3252.93490673
+	Iteracao: 5
+		J (prototypes): 3250.92778005
+		J (weight): 3250.88701599
+		J (organize): 3249.1672005
+	Iteracao: 6
+		J (prototypes): 3247.67879739
+		J (weight): 3247.55618796
+		J (organize): 3244.89778741
+	Iteracao: 7
+		J (prototypes): 3244.71939785
+		J (weight): 3244.68278725
+		J (organize): 3244.58674063
+	Iteracao: 8
+		J (prototypes): 3244.47062077
+		J (weight): 3244.4332937
+		J (organize): 3242.94063101
+	Iteracao: 9
+		J (prototypes): 3242.94063101
+		J (weight): 3242.93365431
+		J (organize): 3242.93365431
+
+	CR: 0.489321960897
+
+
+Repeticao: 74
+	J (init): 5447.47227414
+	Iteracao: 1
+		J (prototypes): 3784.49251802
+		J (weight): 3729.10288924
+		J (organize): 3638.20298113
+	Iteracao: 2
+		J (prototypes): 3601.83498358
+		J (weight): 3599.04738845
+		J (organize): 3564.96177331
+	Iteracao: 3
+		J (prototypes): 3546.72167189
+		J (weight): 3546.71389404
+		J (organize): 3534.89237631
+	Iteracao: 4
+		J (prototypes): 3523.4266645
+		J (weight): 3523.08373233
+		J (organize): 3514.03185795
+	Iteracao: 5
+		J (prototypes): 3506.37326023
+		J (weight): 3506.31545552
+		J (organize): 3489.63058973
+	Iteracao: 6
+		J (prototypes): 3487.11934918
+		J (weight): 3486.54166388
+		J (organize): 3483.01166317
+	Iteracao: 7
+		J (prototypes): 3470.89911128
+		J (weight): 3470.86915698
+		J (organize): 3440.79227799
+	Iteracao: 8
+		J (prototypes): 3418.58499439
+		J (weight): 3418.4232554
+		J (organize): 3333.2994812
+	Iteracao: 9
+		J (prototypes): 3303.52385125
+		J (weight): 3301.5364516
+		J (organize): 3272.25900011
+	Iteracao: 10
+		J (prototypes): 3267.91418712
+		J (weight): 3267.84500474
+		J (organize): 3267.51355087
+	Iteracao: 11
+		J (prototypes): 3267.51355087
+		J (weight): 3267.51321372
+		J (organize): 3267.51321372
+
+	CR: 0.429217313755
+
+
+Repeticao: 75
+	J (init): 6036.08761225
+	Iteracao: 1
+		J (prototypes): 4361.42806374
+		J (weight): 4361.33463073
+		J (organize): 3668.07058998
+	Iteracao: 2
+		J (prototypes): 3528.9758779
+		J (weight): 3464.80616236
+		J (organize): 3374.78950613
+	Iteracao: 3
+		J (prototypes): 3355.60869296
+		J (weight): 3353.07317051
+		J (organize): 3346.24153648
+	Iteracao: 4
+		J (prototypes): 3344.70994992
+		J (weight): 3344.61736758
+		J (organize): 3339.99534975
+	Iteracao: 5
+		J (prototypes): 3336.47209137
+		J (weight): 3336.47175276
+		J (organize): 3331.0538807
+	Iteracao: 6
+		J (prototypes): 3328.10066665
+		J (weight): 3328.06298305
+		J (organize): 3326.43615829
+	Iteracao: 7
+		J (prototypes): 3326.43615829
+		J (weight): 3326.43605938
+		J (organize): 3326.43605938
+
+	CR: 0.480466580693
+
+
+Repeticao: 76
+	J (init): 6952.57568574
+	Iteracao: 1
+		J (prototypes): 4692.16457501
+		J (weight): 4689.8311824
+		J (organize): 4179.67715947
+	Iteracao: 2
+		J (prototypes): 3721.4464305
+		J (weight): 3674.24282671
+		J (organize): 3393.10125949
+	Iteracao: 3
+		J (prototypes): 3354.00406511
+		J (weight): 3333.25100117
+		J (organize): 3318.80694371
+	Iteracao: 4
+		J (prototypes): 3308.77465119
+		J (weight): 3307.04530776
+		J (organize): 3298.73519906
+	Iteracao: 5
+		J (prototypes): 3295.37071834
+		J (weight): 3295.08810754
+		J (organize): 3294.43220884
+	Iteracao: 6
+		J (prototypes): 3294.32259165
+		J (weight): 3294.31666008
+		J (organize): 3294.04781854
+	Iteracao: 7
+		J (prototypes): 3294.04781854
+		J (weight): 3294.04669373
+		J (organize): 3294.04669373
+
+	CR: 0.515783167544
+
+
+Repeticao: 77
+	J (init): 6304.56166108
+	Iteracao: 1
+		J (prototypes): 4298.47574329
+		J (weight): 4298.44615266
+		J (organize): 3793.31588128
+	Iteracao: 2
+		J (prototypes): 3615.04528406
+		J (weight): 3556.33577581
+		J (organize): 3430.52538453
+	Iteracao: 3
+		J (prototypes): 3398.80521584
+		J (weight): 3391.16116584
+		J (organize): 3364.7787463
+	Iteracao: 4
+		J (prototypes): 3357.48197302
+		J (weight): 3357.07617629
+		J (organize): 3349.8031788
+	Iteracao: 5
+		J (prototypes): 3345.89588313
+		J (weight): 3345.86413274
+		J (organize): 3339.48141522
+	Iteracao: 6
+		J (prototypes): 3332.01405019
+		J (weight): 3332.00464842
+		J (organize): 3322.61854959
+	Iteracao: 7
+		J (prototypes): 3317.02130447
+		J (weight): 3316.9403414
+		J (organize): 3301.49743411
+	Iteracao: 8
+		J (prototypes): 3297.12883696
+		J (weight): 3297.12702377
+		J (organize): 3292.74844793
+	Iteracao: 9
+		J (prototypes): 3292.43596464
+		J (weight): 3292.43282936
+		J (organize): 3292.25455916
+	Iteracao: 10
+		J (prototypes): 3292.25455916
+		J (weight): 3292.25033515
+		J (organize): 3292.25033515
+
+	CR: 0.53243515353
+
+
+Repeticao: 78
+	J (init): 5630.22645819
+	Iteracao: 1
+		J (prototypes): 3884.95855444
+		J (weight): 3882.62586135
+		J (organize): 3651.58464354
+	Iteracao: 2
+		J (prototypes): 3595.35426679
+		J (weight): 3579.9112349
+		J (organize): 3527.80774342
+	Iteracao: 3
+		J (prototypes): 3501.43522353
+		J (weight): 3494.84059744
+		J (organize): 3477.36665334
+	Iteracao: 4
+		J (prototypes): 3468.537435
+		J (weight): 3467.97310521
+		J (organize): 3458.5038518
+	Iteracao: 5
+		J (prototypes): 3458.5038518
+		J (weight): 3458.50209707
+		J (organize): 3458.50209707
+
+	CR: 0.442316594977
+
+
+Repeticao: 79
+	J (init): 6076.73291587
+	Iteracao: 1
+		J (prototypes): 4673.29192354
+		J (weight): 4666.1194867
+		J (organize): 4381.35700087
+	Iteracao: 2
+		J (prototypes): 3840.36499482
+		J (weight): 3821.51162105
+		J (organize): 3546.03272695
+	Iteracao: 3
+		J (prototypes): 3518.75960863
+		J (weight): 3504.58586031
+		J (organize): 3476.42659047
+	Iteracao: 4
+		J (prototypes): 3451.81820431
+		J (weight): 3443.95625333
+		J (organize): 3424.85906913
+	Iteracao: 5
+		J (prototypes): 3416.11423717
+		J (weight): 3414.52033313
+		J (organize): 3411.31307272
+	Iteracao: 6
+		J (prototypes): 3409.2434793
+		J (weight): 3409.20763493
+		J (organize): 3407.47164751
+	Iteracao: 7
+		J (prototypes): 3405.75470723
+		J (weight): 3405.71777377
+		J (organize): 3404.06435794
+	Iteracao: 8
+		J (prototypes): 3404.06435794
+		J (weight): 3404.04390394
+		J (organize): 3404.03911045
+	Iteracao: 9
+		J (prototypes): 3404.03911045
+		J (weight): 3404.03845905
+		J (organize): 3404.03845905
+
+	CR: 0.456115254654
+
+
+Repeticao: 80
+	J (init): 6167.76046024
+	Iteracao: 1
+		J (prototypes): 3858.03419953
+		J (weight): 3847.15461158
+		J (organize): 3692.92320034
+	Iteracao: 2
+		J (prototypes): 3661.44426525
+		J (weight): 3660.67245791
+		J (organize): 3619.67571505
+	Iteracao: 3
+		J (prototypes): 3581.18115756
+		J (weight): 3578.38302487
+		J (organize): 3452.84297083
+	Iteracao: 4
+		J (prototypes): 3383.84669923
+		J (weight): 3378.79148183
+		J (organize): 3334.41820334
+	Iteracao: 5
+		J (prototypes): 3327.66640893
+		J (weight): 3327.60402429
+		J (organize): 3324.02062026
+	Iteracao: 6
+		J (prototypes): 3323.81314326
+		J (weight): 3323.74041679
+		J (organize): 3323.48453826
+	Iteracao: 7
+		J (prototypes): 3323.48453826
+		J (weight): 3323.48334543
+		J (organize): 3323.48334543
+
+	CR: 0.458387228358
+
+
+Repeticao: 81
+	J (init): 6287.46987263
+	Iteracao: 1
+		J (prototypes): 3873.30961429
+		J (weight): 3840.75460795
+		J (organize): 3781.90752651
+	Iteracao: 2
+		J (prototypes): 3755.27413117
+		J (weight): 3752.34072751
+		J (organize): 3627.86149046
+	Iteracao: 3
+		J (prototypes): 3481.92729011
+		J (weight): 3478.72740492
+		J (organize): 3390.5715249
+	Iteracao: 4
+		J (prototypes): 3362.02400978
+		J (weight): 3360.79960033
+		J (organize): 3335.93730906
+	Iteracao: 5
+		J (prototypes): 3331.40913049
+		J (weight): 3331.4080745
+		J (organize): 3327.69639213
+	Iteracao: 6
+		J (prototypes): 3327.69639213
+		J (weight): 3327.69571882
+		J (organize): 3327.69571882
+
+	CR: 0.478147358408
+
+
+Repeticao: 82
+	J (init): 5866.49841933
+	Iteracao: 1
+		J (prototypes): 4212.8664608
+		J (weight): 4205.46639945
+		J (organize): 3656.82874907
+	Iteracao: 2
+		J (prototypes): 3565.31384207
+		J (weight): 3534.66435732
+		J (organize): 3499.87116507
+	Iteracao: 3
+		J (prototypes): 3486.44814414
+		J (weight): 3485.87607723
+		J (organize): 3474.65604404
+	Iteracao: 4
+		J (prototypes): 3470.04047176
+		J (weight): 3470.04017276
+		J (organize): 3468.21672372
+	Iteracao: 5
+		J (prototypes): 3468.09195123
+		J (weight): 3468.09063822
+		J (organize): 3467.0116754
+	Iteracao: 6
+		J (prototypes): 3465.16334556
+		J (weight): 3465.16177906
+		J (organize): 3464.35152242
+	Iteracao: 7
+		J (prototypes): 3463.81068807
+		J (weight): 3463.81068488
+		J (organize): 3462.98713316
+	Iteracao: 8
+		J (prototypes): 3462.26451806
+		J (weight): 3462.26362906
+		J (organize): 3458.50260935
+	Iteracao: 9
+		J (prototypes): 3458.50260935
+		J (weight): 3458.49858183
+		J (organize): 3458.49793457
+	Iteracao: 10
+		J (prototypes): 3458.49793457
+		J (weight): 3458.49788993
+		J (organize): 3458.49782237
+	Iteracao: 11
+		J (prototypes): 3458.49782237
+		J (weight): 3458.49777054
+		J (organize): 3458.49777054
+
+	CR: 0.44022265066
+
+
+Repeticao: 83
+	J (init): 6085.02412731
+	Iteracao: 1
+		J (prototypes): 3766.83193934
+		J (weight): 3727.66823606
+		J (organize): 3516.61629732
+	Iteracao: 2
+		J (prototypes): 3501.00929052
+		J (weight): 3491.35119892
+		J (organize): 3475.821469
+	Iteracao: 3
+		J (prototypes): 3458.90837837
+		J (weight): 3458.29705178
+		J (organize): 3440.82196297
+	Iteracao: 4
+		J (prototypes): 3413.79308807
+		J (weight): 3413.07657925
+		J (organize): 3332.58775101
+	Iteracao: 5
+		J (prototypes): 3325.34770659
+		J (weight): 3324.91025713
+		J (organize): 3323.51792592
+	Iteracao: 6
+		J (prototypes): 3322.24694482
+		J (weight): 3322.15781923
+		J (organize): 3321.22739433
+	Iteracao: 7
+		J (prototypes): 3321.22739433
+		J (weight): 3321.21653673
+		J (organize): 3321.21481519
+	Iteracao: 8
+		J (prototypes): 3321.21481519
+		J (weight): 3321.21472166
+		J (organize): 3321.21472166
+
+	CR: 0.502012684215
+
+
+Repeticao: 84
+	J (init): 6210.09134905
+	Iteracao: 1
+		J (prototypes): 3805.83596222
+		J (weight): 3783.67859306
+		J (organize): 3524.79100365
+	Iteracao: 2
+		J (prototypes): 3457.91738563
+		J (weight): 3443.62292077
+		J (organize): 3382.71135265
+	Iteracao: 3
+		J (prototypes): 3353.64373516
+		J (weight): 3347.73849505
+		J (organize): 3337.44994425
+	Iteracao: 4
+		J (prototypes): 3330.82439167
+		J (weight): 3330.80788068
+		J (organize): 3327.21889265
+	Iteracao: 5
+		J (prototypes): 3325.15936885
+		J (weight): 3325.12045181
+		J (organize): 3321.31610152
+	Iteracao: 6
+		J (prototypes): 3319.3341853
+		J (weight): 3319.26747908
+		J (organize): 3317.4942565
+	Iteracao: 7
+		J (prototypes): 3316.48509358
+		J (weight): 3316.45971165
+		J (organize): 3315.72579687
+	Iteracao: 8
+		J (prototypes): 3314.93009906
+		J (weight): 3314.88511448
+		J (organize): 3311.25966432
+	Iteracao: 9
+		J (prototypes): 3311.25966432
+		J (weight): 3311.252292
+		J (organize): 3311.252292
+
+	CR: 0.46941415838
+
+
+Repeticao: 85
+	J (init): 6736.05336124
+	Iteracao: 1
+		J (prototypes): 4764.97439677
+		J (weight): 4764.97434607
+		J (organize): 4544.37239103
+	Iteracao: 2
+		J (prototypes): 3845.20112583
+		J (weight): 3813.62640711
+		J (organize): 3655.16244125
+	Iteracao: 3
+		J (prototypes): 3632.12491262
+		J (weight): 3625.55998535
+		J (organize): 3587.4166806
+	Iteracao: 4
+		J (prototypes): 3530.24523118
+		J (weight): 3527.60669519
+		J (organize): 3422.73426676
+	Iteracao: 5
+		J (prototypes): 3386.45165814
+		J (weight): 3383.3126753
+		J (organize): 3369.65632565
+	Iteracao: 6
+		J (prototypes): 3369.29124565
+		J (weight): 3369.28132417
+		J (organize): 3369.23041653
+	Iteracao: 7
+		J (prototypes): 3369.23041653
+		J (weight): 3369.23041534
+		J (organize): 3369.23041534
+
+	CR: 0.479598895811
+
+
+Repeticao: 86
+	J (init): 6489.94368728
+	Iteracao: 1
+		J (prototypes): 3734.68827717
+		J (weight): 3705.95080683
+		J (organize): 3356.8809445
+	Iteracao: 2
+		J (prototypes): 3306.4793742
+		J (weight): 3300.10958961
+		J (organize): 3261.11540774
+	Iteracao: 3
+		J (prototypes): 3257.66818687
+		J (weight): 3256.71063911
+		J (organize): 3255.77908726
+	Iteracao: 4
+		J (prototypes): 3255.77908726
+		J (weight): 3255.77721673
+		J (organize): 3255.77721673
+
+	CR: 0.445362162972
+
+
+Repeticao: 87
+	J (init): 6257.65746371
+	Iteracao: 1
+		J (prototypes): 3883.28197108
+		J (weight): 3875.77488665
+		J (organize): 3578.76856464
+	Iteracao: 2
+		J (prototypes): 3559.79126422
+		J (weight): 3540.41480237
+		J (organize): 3512.13865017
+	Iteracao: 3
+		J (prototypes): 3497.29689669
+		J (weight): 3486.64025642
+		J (organize): 3464.90770675
+	Iteracao: 4
+		J (prototypes): 3459.16216305
+		J (weight): 3457.58229281
+		J (organize): 3451.39974639
+	Iteracao: 5
+		J (prototypes): 3445.34238029
+		J (weight): 3445.06533381
+		J (organize): 3436.84255027
+	Iteracao: 6
+		J (prototypes): 3435.50475677
+		J (weight): 3435.19818036
+		J (organize): 3433.21875123
+	Iteracao: 7
+		J (prototypes): 3427.31843997
+		J (weight): 3427.31281946
+		J (organize): 3410.35170273
+	Iteracao: 8
+		J (prototypes): 3387.70106698
+		J (weight): 3387.55362036
+		J (organize): 3377.84118597
+	Iteracao: 9
+		J (prototypes): 3375.96742834
+		J (weight): 3375.8902873
+		J (organize): 3375.37531999
+	Iteracao: 10
+		J (prototypes): 3375.37531999
+		J (weight): 3375.37504016
+		J (organize): 3375.37504016
+
+	CR: 0.367648820713
+
+
+Repeticao: 88
+	J (init): 6880.6901097
+	Iteracao: 1
+		J (prototypes): 4457.07889488
+		J (weight): 4438.81483189
+		J (organize): 4058.59669294
+	Iteracao: 2
+		J (prototypes): 3997.51958146
+		J (weight): 3965.30305807
+		J (organize): 3832.43992872
+	Iteracao: 3
+		J (prototypes): 3678.68389011
+		J (weight): 3663.92415566
+		J (organize): 3519.75670529
+	Iteracao: 4
+		J (prototypes): 3465.06956606
+		J (weight): 3456.64815108
+		J (organize): 3433.3662544
+	Iteracao: 5
+		J (prototypes): 3430.33518015
+		J (weight): 3430.21123376
+		J (organize): 3429.66857625
+	Iteracao: 6
+		J (prototypes): 3429.66857625
+		J (weight): 3429.668436
+		J (organize): 3429.668436
+
+	CR: 0.450202102279
+
+
+Repeticao: 89
+	J (init): 6065.54698292
+	Iteracao: 1
+		J (prototypes): 4702.38928095
+		J (weight): 4702.33611065
+		J (organize): 3922.78475204
+	Iteracao: 2
+		J (prototypes): 3565.1778834
+		J (weight): 3491.2123428
+		J (organize): 3413.49715067
+	Iteracao: 3
+		J (prototypes): 3372.31700653
+		J (weight): 3369.59520786
+		J (organize): 3344.14850156
+	Iteracao: 4
+		J (prototypes): 3333.42851499
+		J (weight): 3333.39325861
+		J (organize): 3327.14112509
+	Iteracao: 5
+		J (prototypes): 3327.11954651
+		J (weight): 3326.98731677
+		J (organize): 3326.68078234
+	Iteracao: 6
+		J (prototypes): 3326.68078234
+		J (weight): 3326.67829784
+		J (organize): 3326.67829784
+
+	CR: 0.483592108088
+
+
+Repeticao: 90
+	J (init): 6525.44381647
+	Iteracao: 1
+		J (prototypes): 4444.24771138
+		J (weight): 4444.22272605
+		J (organize): 3826.75180058
+	Iteracao: 2
+		J (prototypes): 3660.38033547
+		J (weight): 3604.54977569
+		J (organize): 3532.02610905
+	Iteracao: 3
+		J (prototypes): 3512.94157983
+		J (weight): 3508.89729352
+		J (organize): 3499.63092666
+	Iteracao: 4
+		J (prototypes): 3498.43532077
+		J (weight): 3498.2693166
+		J (organize): 3494.69239571
+	Iteracao: 5
+		J (prototypes): 3494.45057646
+		J (weight): 3494.44988099
+		J (organize): 3494.39341151
+	Iteracao: 6
+		J (prototypes): 3494.39341151
+		J (weight): 3494.39339985
+		J (organize): 3494.39339985
+
+	CR: 0.484469324928
+
+
+Repeticao: 91
+	J (init): 7294.72385733
+	Iteracao: 1
+		J (prototypes): 4901.87988078
+		J (weight): 4854.95223019
+		J (organize): 4438.91351783
+	Iteracao: 2
+		J (prototypes): 3873.26161344
+		J (weight): 3822.60134426
+		J (organize): 3592.10011086
+	Iteracao: 3
+		J (prototypes): 3498.90554204
+		J (weight): 3463.48509037
+		J (organize): 3391.53458836
+	Iteracao: 4
+		J (prototypes): 3381.05550716
+		J (weight): 3373.78954262
+		J (organize): 3367.24913477
+	Iteracao: 5
+		J (prototypes): 3367.24913477
+		J (weight): 3366.86487238
+		J (organize): 3366.80945984
+	Iteracao: 6
+		J (prototypes): 3366.80945984
+		J (weight): 3366.79889075
+		J (organize): 3366.79889075
+
+	CR: 0.420040067798
+
+
+Repeticao: 92
+	J (init): 6597.62344264
+	Iteracao: 1
+		J (prototypes): 5073.22645497
+		J (weight): 4977.74926812
+		J (organize): 4207.72073045
+	Iteracao: 2
+		J (prototypes): 4007.13237942
+		J (weight): 3907.24507772
+		J (organize): 3546.49129722
+	Iteracao: 3
+		J (prototypes): 3493.59215079
+		J (weight): 3463.02419063
+		J (organize): 3429.64570616
+	Iteracao: 4
+		J (prototypes): 3421.41880367
+		J (weight): 3420.02917996
+		J (organize): 3413.94140239
+	Iteracao: 5
+		J (prototypes): 3413.26979725
+		J (weight): 3413.1384902
+		J (organize): 3411.50020067
+	Iteracao: 6
+		J (prototypes): 3410.86103721
+		J (weight): 3410.82058843
+		J (organize): 3407.37659269
+	Iteracao: 7
+		J (prototypes): 3407.37659269
+		J (weight): 3407.35574364
+		J (organize): 3407.35574364
+
+	CR: 0.388856064529
+
+
+Repeticao: 93
+	J (init): 6551.33254008
+	Iteracao: 1
+		J (prototypes): 4679.70432616
+		J (weight): 4679.68935621
+		J (organize): 4105.46325757
+	Iteracao: 2
+		J (prototypes): 3891.04860099
+		J (weight): 3840.16406731
+		J (organize): 3758.62355934
+	Iteracao: 3
+		J (prototypes): 3650.05049215
+		J (weight): 3647.525672
+		J (organize): 3515.34136383
+	Iteracao: 4
+		J (prototypes): 3469.13129639
+		J (weight): 3465.62162409
+		J (organize): 3444.04647123
+	Iteracao: 5
+		J (prototypes): 3433.60424961
+		J (weight): 3433.42120047
+		J (organize): 3429.086822
+	Iteracao: 6
+		J (prototypes): 3428.76488638
+		J (weight): 3428.73035934
+		J (organize): 3427.85236896
+	Iteracao: 7
+		J (prototypes): 3427.85236896
+		J (weight): 3427.85168519
+		J (organize): 3427.85168519
+
+	CR: 0.438171537705
+
+
+Repeticao: 94
+	J (init): 6997.3673325
+	Iteracao: 1
+		J (prototypes): 4395.0605519
+		J (weight): 4376.82801041
+		J (organize): 3790.67256802
+	Iteracao: 2
+		J (prototypes): 3679.24161519
+		J (weight): 3636.5571216
+		J (organize): 3561.17964877
+	Iteracao: 3
+		J (prototypes): 3505.72385761
+		J (weight): 3488.26059497
+		J (organize): 3441.65269292
+	Iteracao: 4
+		J (prototypes): 3427.83961726
+		J (weight): 3424.14529059
+		J (organize): 3412.48449566
+	Iteracao: 5
+		J (prototypes): 3410.01685333
+		J (weight): 3410.00517436
+		J (organize): 3403.68949579
+	Iteracao: 6
+		J (prototypes): 3403.68949579
+		J (weight): 3403.66895632
+		J (organize): 3403.66562945
+	Iteracao: 7
+		J (prototypes): 3403.66562945
+		J (weight): 3403.66497529
+		J (organize): 3403.66497014
+	Iteracao: 8
+		J (prototypes): 3403.66497014
+		J (weight): 3403.66492478
+		J (organize): 3403.66492478
+
+	CR: 0.403733338353
+
+
+Repeticao: 95
+	J (init): 6376.81085336
+	Iteracao: 1
+		J (prototypes): 4110.20652776
+		J (weight): 4101.98674939
+		J (organize): 3670.26753035
+	Iteracao: 2
+		J (prototypes): 3548.47058908
+		J (weight): 3525.35531255
+		J (organize): 3343.34238025
+	Iteracao: 3
+		J (prototypes): 3290.25883707
+		J (weight): 3283.76609605
+		J (organize): 3253.88874525
+	Iteracao: 4
+		J (prototypes): 3243.95424588
+		J (weight): 3243.71130656
+		J (organize): 3241.3668119
+	Iteracao: 5
+		J (prototypes): 3236.75704377
+		J (weight): 3236.66931034
+		J (organize): 3231.08483425
+	Iteracao: 6
+		J (prototypes): 3226.37576637
+		J (weight): 3226.33681119
+		J (organize): 3220.31021145
+	Iteracao: 7
+		J (prototypes): 3220.31021145
+		J (weight): 3220.24969069
+		J (organize): 3220.24750153
+	Iteracao: 8
+		J (prototypes): 3220.24750153
+		J (weight): 3220.24741195
+		J (organize): 3220.24711295
+	Iteracao: 9
+		J (prototypes): 3220.24711295
+		J (weight): 3220.24653401
+		J (organize): 3220.24653401
+
+	CR: 0.489394857195
+
+
+Repeticao: 96
+	J (init): 6523.14885666
+	Iteracao: 1
+		J (prototypes): 4462.16657331
+		J (weight): 4361.77577861
+		J (organize): 3954.42394953
+	Iteracao: 2
+		J (prototypes): 3716.95170955
+		J (weight): 3628.24870635
+		J (organize): 3488.57406919
+	Iteracao: 3
+		J (prototypes): 3479.03296497
+		J (weight): 3464.04370372
+		J (organize): 3460.82941942
+	Iteracao: 4
+		J (prototypes): 3458.52479119
+		J (weight): 3457.63038495
+		J (organize): 3455.52862931
+	Iteracao: 5
+		J (prototypes): 3455.07928107
+		J (weight): 3454.88329858
+		J (organize): 3454.4567706
+	Iteracao: 6
+		J (prototypes): 3454.4567706
+		J (weight): 3454.44653314
+		J (organize): 3454.44653314
+
+	CR: 0.454033527408
+
+
+Repeticao: 97
+	J (init): 6773.90100207
+	Iteracao: 1
+		J (prototypes): 5008.05583631
+		J (weight): 4928.6422197
+		J (organize): 4098.86230734
+	Iteracao: 2
+		J (prototypes): 3899.98676913
+		J (weight): 3767.17930896
+		J (organize): 3587.74887931
+	Iteracao: 3
+		J (prototypes): 3518.58402771
+		J (weight): 3514.48745447
+		J (organize): 3472.55019382
+	Iteracao: 4
+		J (prototypes): 3465.72502518
+		J (weight): 3464.93836658
+		J (organize): 3451.87117625
+	Iteracao: 5
+		J (prototypes): 3445.09578867
+		J (weight): 3444.40936328
+		J (organize): 3439.96287347
+	Iteracao: 6
+		J (prototypes): 3438.55839067
+		J (weight): 3438.50659786
+		J (organize): 3424.73220717
+	Iteracao: 7
+		J (prototypes): 3405.48436338
+		J (weight): 3405.37212413
+		J (organize): 3381.36201337
+	Iteracao: 8
+		J (prototypes): 3378.54391719
+		J (weight): 3378.21843466
+		J (organize): 3377.37142277
+	Iteracao: 9
+		J (prototypes): 3376.95481013
+		J (weight): 3376.95456092
+		J (organize): 3376.83052223
+	Iteracao: 10
+		J (prototypes): 3376.83052223
+		J (weight): 3376.82766109
+		J (organize): 3376.82740972
+	Iteracao: 11
+		J (prototypes): 3376.82740972
+		J (weight): 3376.8269346
+		J (organize): 3376.8269346
+
+	CR: 0.363832216216
+
+
+Repeticao: 98
+	J (init): 5934.68804461
+	Iteracao: 1
+		J (prototypes): 4546.44150715
+		J (weight): 4544.80335963
+		J (organize): 4403.33124416
+	Iteracao: 2
+		J (prototypes): 3887.75738056
+		J (weight): 3872.45211873
+		J (organize): 3720.83398401
+	Iteracao: 3
+		J (prototypes): 3682.91338446
+		J (weight): 3680.6876636
+		J (organize): 3588.66740648
+	Iteracao: 4
+		J (prototypes): 3513.38986663
+		J (weight): 3511.4041624
+		J (organize): 3468.79175133
+	Iteracao: 5
+		J (prototypes): 3421.76922509
+		J (weight): 3420.414421
+		J (organize): 3362.57521044
+	Iteracao: 6
+		J (prototypes): 3350.31899384
+		J (weight): 3349.91689173
+		J (organize): 3345.935899
+	Iteracao: 7
+		J (prototypes): 3345.50177989
+		J (weight): 3345.49278828
+		J (organize): 3343.17818932
+	Iteracao: 8
+		J (prototypes): 3343.04809063
+		J (weight): 3343.04563996
+		J (organize): 3341.41702839
+	Iteracao: 9
+		J (prototypes): 3340.35795229
+		J (weight): 3340.32544938
+		J (organize): 3337.6826105
+	Iteracao: 10
+		J (prototypes): 3337.6826105
+		J (weight): 3337.68260409
+		J (organize): 3337.68260409
+
+	CR: 0.528094490608
+
+
+Repeticao: 99
+	J (init): 5698.2443358
+	Iteracao: 1
+		J (prototypes): 3757.86844987
+		J (weight): 3739.14182825
+		J (organize): 3491.98676837
+	Iteracao: 2
+		J (prototypes): 3469.84829648
+		J (weight): 3455.96441946
+		J (organize): 3444.06798598
+	Iteracao: 3
+		J (prototypes): 3443.01242843
+		J (weight): 3442.88892285
+		J (organize): 3438.75955804
+	Iteracao: 4
+		J (prototypes): 3438.23853904
+		J (weight): 3438.20651458
+		J (organize): 3436.04467028
+	Iteracao: 5
+		J (prototypes): 3436.04467028
+		J (weight): 3436.04466992
+		J (organize): 3436.04466992
+
+	CR: 0.42812239972
+
+
+Repeticao: 100
+	J (init): 6735.3167804
+	Iteracao: 1
+		J (prototypes): 4612.89121594
+		J (weight): 4611.68421516
+		J (organize): 4191.13824532
+	Iteracao: 2
+		J (prototypes): 3580.23532646
+		J (weight): 3530.1802231
+		J (organize): 3444.79273223
+	Iteracao: 3
+		J (prototypes): 3415.53447206
+		J (weight): 3409.41765001
+		J (organize): 3390.24617628
+	Iteracao: 4
+		J (prototypes): 3378.77272892
+		J (weight): 3378.21312186
+		J (organize): 3370.82192719
+	Iteracao: 5
+		J (prototypes): 3368.33766693
+		J (weight): 3368.33458896
+		J (organize): 3365.33722226
+	Iteracao: 6
+		J (prototypes): 3365.33722226
+		J (weight): 3365.32627861
+		J (organize): 3365.32627861
+
+	CR: 0.403522018428
+
+
+Repeticao: 101
+	J (init): 7164.83926653
+	Iteracao: 1
+		J (prototypes): 4420.41989047
+		J (weight): 4420.34701379
+		J (organize): 4133.5892586
+	Iteracao: 2
+		J (prototypes): 3425.42651797
+		J (weight): 3349.55766259
+		J (organize): 3287.82740095
+	Iteracao: 3
+		J (prototypes): 3277.84400326
+		J (weight): 3274.98248315
+		J (organize): 3269.07203949
+	Iteracao: 4
+		J (prototypes): 3268.88179907
+		J (weight): 3268.72692911
+		J (organize): 3268.08281527
+	Iteracao: 5
+		J (prototypes): 3268.05584693
+		J (weight): 3268.04217193
+		J (organize): 3267.9572877
+	Iteracao: 6
+		J (prototypes): 3267.9572877
+		J (weight): 3267.95625753
+		J (organize): 3267.95625753
+
+	CR: 0.437483853454
+
+
+Repeticao: 102
+	J (init): 6251.99601465
+	Iteracao: 1
+		J (prototypes): 3937.43153637
+		J (weight): 3898.32844145
+		J (organize): 3617.74670777
+	Iteracao: 2
+		J (prototypes): 3497.02433151
+		J (weight): 3491.27043581
+		J (organize): 3402.2179033
+	Iteracao: 3
+		J (prototypes): 3369.51091003
+		J (weight): 3368.17890683
+		J (organize): 3354.12621085
+	Iteracao: 4
+		J (prototypes): 3347.16147303
+		J (weight): 3347.15705115
+		J (organize): 3333.39287197
+	Iteracao: 5
+		J (prototypes): 3333.39287197
+		J (weight): 3333.31327312
+		J (organize): 3333.30540295
+	Iteracao: 6
+		J (prototypes): 3333.30540295
+		J (weight): 3333.30390009
+		J (organize): 3333.30390009
+
+	CR: 0.469931652589
+
+
+Repeticao: 103
+	J (init): 6289.86189111
+	Iteracao: 1
+		J (prototypes): 4779.86642956
+		J (weight): 4765.67798354
+		J (organize): 4404.36969282
+	Iteracao: 2
+		J (prototypes): 4287.92666081
+		J (weight): 4281.59759861
+		J (organize): 4124.07362958
+	Iteracao: 3
+		J (prototypes): 4073.81801392
+		J (weight): 4058.98704051
+		J (organize): 3929.39172892
+	Iteracao: 4
+		J (prototypes): 3784.53913321
+		J (weight): 3768.65326956
+		J (organize): 3529.52092624
+	Iteracao: 5
+		J (prototypes): 3437.90251674
+		J (weight): 3421.5559125
+		J (organize): 3380.52018508
+	Iteracao: 6
+		J (prototypes): 3362.25081877
+		J (weight): 3362.20046931
+		J (organize): 3349.54998755
+	Iteracao: 7
+		J (prototypes): 3349.52195783
+		J (weight): 3349.45801284
+		J (organize): 3345.64045603
+	Iteracao: 8
+		J (prototypes): 3345.6201608
+		J (weight): 3345.61858266
+		J (organize): 3345.52124054
+	Iteracao: 9
+		J (prototypes): 3345.52124054
+		J (weight): 3345.52123209
+		J (organize): 3345.52123209
+
+	CR: 0.501660790021
+
+
+Repeticao: 104
+	J (init): 6768.73631823
+	Iteracao: 1
+		J (prototypes): 4615.3612154
+		J (weight): 4607.71839041
+		J (organize): 4038.87233872
+	Iteracao: 2
+		J (prototypes): 3878.30024028
+		J (weight): 3815.50311826
+		J (organize): 3796.29041215
+	Iteracao: 3
+		J (prototypes): 3782.29059354
+		J (weight): 3780.90435842
+		J (organize): 3645.74489607
+	Iteracao: 4
+		J (prototypes): 3490.15878079
+		J (weight): 3483.83960887
+		J (organize): 3417.99570219
+	Iteracao: 5
+		J (prototypes): 3395.13804737
+		J (weight): 3394.03837083
+		J (organize): 3381.05031411
+	Iteracao: 6
+		J (prototypes): 3373.25449689
+		J (weight): 3373.24332211
+		J (organize): 3366.77641483
+	Iteracao: 7
+		J (prototypes): 3365.31493589
+		J (weight): 3364.97446666
+		J (organize): 3364.54884915
+	Iteracao: 8
+		J (prototypes): 3364.06353894
+		J (weight): 3364.03364152
+		J (organize): 3363.8366713
+	Iteracao: 9
+		J (prototypes): 3363.79549329
+		J (weight): 3363.79429943
+		J (organize): 3363.79429943
+
+	CR: 0.416603935863
+
+
+Repeticao: 105
+	J (init): 6121.77359238
+	Iteracao: 1
+		J (prototypes): 4682.14692942
+		J (weight): 4682.09655213
+		J (organize): 4325.21450304
+	Iteracao: 2
+		J (prototypes): 4114.09213022
+		J (weight): 4105.80036916
+		J (organize): 3679.27249497
+	Iteracao: 3
+		J (prototypes): 3569.37550632
+		J (weight): 3544.75135168
+		J (organize): 3500.20137241
+	Iteracao: 4
+		J (prototypes): 3492.91699593
+		J (weight): 3489.97164081
+		J (organize): 3486.97386758
+	Iteracao: 5
+		J (prototypes): 3485.62771372
+		J (weight): 3485.5478737
+		J (organize): 3484.58167305
+	Iteracao: 6
+		J (prototypes): 3484.58167305
+		J (weight): 3484.57346943
+		J (organize): 3484.57346943
+
+	CR: 0.432599658937
+
+
+Repeticao: 106
+	J (init): 6387.88952009
+	Iteracao: 1
+		J (prototypes): 4603.58845361
+		J (weight): 4602.91333584
+		J (organize): 4406.6274702
+	Iteracao: 2
+		J (prototypes): 3743.32264171
+		J (weight): 3718.51292564
+		J (organize): 3684.23094505
+	Iteracao: 3
+		J (prototypes): 3663.59460165
+		J (weight): 3663.47304081
+		J (organize): 3640.12802599
+	Iteracao: 4
+		J (prototypes): 3614.01140708
+		J (weight): 3613.67931805
+		J (organize): 3591.48323365
+	Iteracao: 5
+		J (prototypes): 3574.90650196
+		J (weight): 3574.46807516
+		J (organize): 3551.92524234
+	Iteracao: 6
+		J (prototypes): 3525.58737113
+		J (weight): 3524.93182873
+		J (organize): 3500.56586865
+	Iteracao: 7
+		J (prototypes): 3486.73446537
+		J (weight): 3485.6481002
+		J (organize): 3472.9973738
+	Iteracao: 8
+		J (prototypes): 3465.69771099
+		J (weight): 3465.52330495
+		J (organize): 3452.05937707
+	Iteracao: 9
+		J (prototypes): 3442.82373548
+		J (weight): 3441.10055322
+		J (organize): 3437.37220592
+	Iteracao: 10
+		J (prototypes): 3436.01333258
+		J (weight): 3435.85044446
+		J (organize): 3432.95271338
+	Iteracao: 11
+		J (prototypes): 3422.97213808
+		J (weight): 3422.9549002
+		J (organize): 3399.90312439
+	Iteracao: 12
+		J (prototypes): 3382.39031258
+		J (weight): 3382.16916729
+		J (organize): 3374.52380608
+	Iteracao: 13
+		J (prototypes): 3373.52857153
+		J (weight): 3373.51714494
+		J (organize): 3373.31539458
+	Iteracao: 14
+		J (prototypes): 3373.31539458
+		J (weight): 3373.31503758
+		J (organize): 3373.31503758
+
+	CR: 0.393347211718
+
+
+Repeticao: 107
+	J (init): 6429.42959112
+	Iteracao: 1
+		J (prototypes): 3833.97196229
+		J (weight): 3828.3977235
+		J (organize): 3600.37554284
+	Iteracao: 2
+		J (prototypes): 3591.05367041
+		J (weight): 3585.21277422
+		J (organize): 3574.93495649
+	Iteracao: 3
+		J (prototypes): 3555.48253151
+		J (weight): 3552.9600378
+		J (organize): 3517.0573944
+	Iteracao: 4
+		J (prototypes): 3509.0212197
+		J (weight): 3505.81034321
+		J (organize): 3484.70310897
+	Iteracao: 5
+		J (prototypes): 3446.34769083
+		J (weight): 3445.34219195
+		J (organize): 3349.74513033
+	Iteracao: 6
+		J (prototypes): 3314.47476973
+		J (weight): 3310.76184449
+		J (organize): 3295.05927199
+	Iteracao: 7
+		J (prototypes): 3294.53453817
+		J (weight): 3294.43781861
+		J (organize): 3294.34826771
+	Iteracao: 8
+		J (prototypes): 3294.21088533
+		J (weight): 3294.20726692
+		J (organize): 3293.75264436
+	Iteracao: 9
+		J (prototypes): 3292.53813307
+		J (weight): 3292.46930461
+		J (organize): 3289.48555981
+	Iteracao: 10
+		J (prototypes): 3282.27294034
+		J (weight): 3281.89168423
+		J (organize): 3272.80998749
+	Iteracao: 11
+		J (prototypes): 3268.87480319
+		J (weight): 3268.77796604
+		J (organize): 3268.166376
+	Iteracao: 12
+		J (prototypes): 3267.64889014
+		J (weight): 3267.64884788
+		J (organize): 3267.51328034
+	Iteracao: 13
+		J (prototypes): 3267.51328034
+		J (weight): 3267.51321372
+		J (organize): 3267.51321372
+
+	CR: 0.429217313755
+
+
+Repeticao: 108
+	J (init): 6570.45845123
+	Iteracao: 1
+		J (prototypes): 4906.47980992
+		J (weight): 4830.04450229
+		J (organize): 4133.665914
+	Iteracao: 2
+		J (prototypes): 3901.51785211
+		J (weight): 3830.50564863
+		J (organize): 3626.16991233
+	Iteracao: 3
+		J (prototypes): 3496.16584797
+		J (weight): 3452.48237829
+		J (organize): 3393.40166419
+	Iteracao: 4
+		J (prototypes): 3356.96901214
+		J (weight): 3349.36114613
+		J (organize): 3277.58983636
+	Iteracao: 5
+		J (prototypes): 3249.50228328
+		J (weight): 3246.6403365
+		J (organize): 3186.64326696
+	Iteracao: 6
+		J (prototypes): 3156.65036409
+		J (weight): 3155.99032106
+		J (organize): 3143.04534769
+	Iteracao: 7
+		J (prototypes): 3138.36969433
+		J (weight): 3138.36908629
+		J (organize): 3128.81043292
+	Iteracao: 8
+		J (prototypes): 3117.24119711
+		J (weight): 3117.23872775
+		J (organize): 3104.17696817
+	Iteracao: 9
+		J (prototypes): 3103.14674946
+		J (weight): 3103.05034224
+		J (organize): 3102.90696707
+	Iteracao: 10
+		J (prototypes): 3102.90696707
+		J (weight): 3102.90343128
+		J (organize): 3102.90342036
+	Iteracao: 11
+		J (prototypes): 3102.90342036
+		J (weight): 3102.90341815
+		J (organize): 3102.90341815
+
+	CR: 0.544078155154
+
+
+Repeticao: 109
+	J (init): 6107.20489699
+	Iteracao: 1
+		J (prototypes): 4198.04696965
+		J (weight): 4196.54660515
+		J (organize): 3790.11183598
+	Iteracao: 2
+		J (prototypes): 3666.46826918
+		J (weight): 3616.98761613
+		J (organize): 3497.59171646
+	Iteracao: 3
+		J (prototypes): 3455.36781613
+		J (weight): 3447.6320133
+		J (organize): 3348.52482761
+	Iteracao: 4
+		J (prototypes): 3312.79626935
+		J (weight): 3309.766801
+		J (organize): 3292.3878299
+	Iteracao: 5
+		J (prototypes): 3291.5727234
+		J (weight): 3291.54017955
+		J (organize): 3291.2715444
+	Iteracao: 6
+		J (prototypes): 3291.2715444
+		J (weight): 3291.27154151
+		J (organize): 3291.27154151
+
+	CR: 0.429017893411
+
+
+Repeticao: 110
+	J (init): 6516.04790887
+	Iteracao: 1
+		J (prototypes): 4615.36541535
+		J (weight): 4612.78298275
+		J (organize): 4205.46351974
+	Iteracao: 2
+		J (prototypes): 4147.0264977
+		J (weight): 4146.35772951
+		J (organize): 4123.95127224
+	Iteracao: 3
+		J (prototypes): 4113.99117985
+		J (weight): 4113.93808676
+		J (organize): 4103.88120521
+	Iteracao: 4
+		J (prototypes): 4097.66912945
+		J (weight): 4097.65327755
+		J (organize): 4084.92122026
+	Iteracao: 5
+		J (prototypes): 4080.95254524
+		J (weight): 4080.846126
+		J (organize): 4077.44202164
+	Iteracao: 6
+		J (prototypes): 4073.59696145
+		J (weight): 4073.59413879
+		J (organize): 4027.10151726
+	Iteracao: 7
+		J (prototypes): 3870.90385302
+		J (weight): 3868.5744488
+		J (organize): 3690.11428604
+	Iteracao: 8
+		J (prototypes): 3622.62795649
+		J (weight): 3611.17982253
+		J (organize): 3550.57729392
+	Iteracao: 9
+		J (prototypes): 3523.99327809
+		J (weight): 3515.20237688
+		J (organize): 3496.515874
+	Iteracao: 10
+		J (prototypes): 3483.64447929
+		J (weight): 3481.73496013
+		J (organize): 3464.20716471
+	Iteracao: 11
+		J (prototypes): 3459.64227958
+		J (weight): 3459.61165332
+		J (organize): 3458.02858079
+	Iteracao: 12
+		J (prototypes): 3458.02858079
+		J (weight): 3458.02750084
+		J (organize): 3458.02750084
+
+	CR: 0.441976149814
+
+
+Repeticao: 111
+	J (init): 7151.19133414
+	Iteracao: 1
+		J (prototypes): 4996.35394293
+		J (weight): 4956.46060448
+		J (organize): 4448.30690802
+	Iteracao: 2
+		J (prototypes): 3785.09246747
+		J (weight): 3685.15560913
+		J (organize): 3529.59204612
+	Iteracao: 3
+		J (prototypes): 3419.78279688
+		J (weight): 3396.51499923
+		J (organize): 3349.3341438
+	Iteracao: 4
+		J (prototypes): 3345.7954921
+		J (weight): 3345.52250205
+		J (organize): 3339.6468207
+	Iteracao: 5
+		J (prototypes): 3335.08292221
+		J (weight): 3335.08086416
+		J (organize): 3330.81193026
+	Iteracao: 6
+		J (prototypes): 3328.1241989
+		J (weight): 3328.1206892
+		J (organize): 3327.34113647
+	Iteracao: 7
+		J (prototypes): 3327.34113647
+		J (weight): 3327.34080901
+		J (organize): 3327.34080901
+
+	CR: 0.478490218894
+
+
+Repeticao: 112
+	J (init): 7247.97827171
+	Iteracao: 1
+		J (prototypes): 4294.05008622
+		J (weight): 4293.80537434
+		J (organize): 4035.89145368
+	Iteracao: 2
+		J (prototypes): 3957.7098504
+		J (weight): 3948.30915547
+		J (organize): 3855.57900592
+	Iteracao: 3
+		J (prototypes): 3825.93333712
+		J (weight): 3820.08312255
+		J (organize): 3779.47581232
+	Iteracao: 4
+		J (prototypes): 3746.64204898
+		J (weight): 3745.77058719
+		J (organize): 3731.05633007
+	Iteracao: 5
+		J (prototypes): 3710.56407905
+		J (weight): 3710.43499768
+		J (organize): 3696.64062357
+	Iteracao: 6
+		J (prototypes): 3684.96805233
+		J (weight): 3684.81326254
+		J (organize): 3668.97955325
+	Iteracao: 7
+		J (prototypes): 3668.97955325
+		J (weight): 3668.95772625
+		J (organize): 3668.95590093
+	Iteracao: 8
+		J (prototypes): 3668.95590093
+		J (weight): 3668.95555221
+		J (organize): 3668.95555221
+
+	CR: 0.443637785607
+
+
+Repeticao: 113
+	J (init): 5896.38068271
+	Iteracao: 1
+		J (prototypes): 4420.0127234
+		J (weight): 4359.20032032
+		J (organize): 4067.45137441
+	Iteracao: 2
+		J (prototypes): 3849.60429799
+		J (weight): 3819.74743318
+		J (organize): 3478.98855964
+	Iteracao: 3
+		J (prototypes): 3418.18837233
+		J (weight): 3395.91836477
+		J (organize): 3367.44592778
+	Iteracao: 4
+		J (prototypes): 3358.26814532
+		J (weight): 3356.40486234
+		J (organize): 3354.45065949
+	Iteracao: 5
+		J (prototypes): 3352.60677964
+		J (weight): 3352.55669697
+		J (organize): 3348.22125112
+	Iteracao: 6
+		J (prototypes): 3344.03012554
+		J (weight): 3343.92793213
+		J (organize): 3339.34846433
+	Iteracao: 7
+		J (prototypes): 3339.34846433
+		J (weight): 3339.34520055
+		J (organize): 3339.34520055
+
+	CR: 0.417615217526
+
+
+Repeticao: 114
+	J (init): 6924.78673486
+	Iteracao: 1
+		J (prototypes): 5305.21050902
+		J (weight): 5198.62720018
+		J (organize): 4574.29584454
+	Iteracao: 2
+		J (prototypes): 4367.98889063
+		J (weight): 4367.96634476
+		J (organize): 4203.83863605
+	Iteracao: 3
+		J (prototypes): 4069.55070549
+		J (weight): 4051.08814045
+		J (organize): 3447.17891707
+	Iteracao: 4
+		J (prototypes): 3367.62089794
+		J (weight): 3283.4502589
+		J (organize): 3210.3584349
+	Iteracao: 5
+		J (prototypes): 3175.82598552
+		J (weight): 3169.90015159
+		J (organize): 3157.30828276
+	Iteracao: 6
+		J (prototypes): 3154.01557536
+		J (weight): 3153.6854222
+		J (organize): 3152.5068162
+	Iteracao: 7
+		J (prototypes): 3152.31514255
+		J (weight): 3152.28903843
+		J (organize): 3152.0613205
+	Iteracao: 8
+		J (prototypes): 3152.0613205
+		J (weight): 3152.06084022
+		J (organize): 3152.06084022
+
+	CR: 0.539080630306
+
+
+Repeticao: 115
+	J (init): 7097.79306553
+	Iteracao: 1
+		J (prototypes): 4848.33946997
+		J (weight): 4831.85534949
+		J (organize): 4021.88654632
+	Iteracao: 2
+		J (prototypes): 3676.6571728
+		J (weight): 3554.42006801
+		J (organize): 3390.82854144
+	Iteracao: 3
+		J (prototypes): 3372.81393561
+		J (weight): 3369.63100708
+		J (organize): 3362.12728812
+	Iteracao: 4
+		J (prototypes): 3359.17735971
+		J (weight): 3359.07029161
+		J (organize): 3354.60753777
+	Iteracao: 5
+		J (prototypes): 3350.62789226
+		J (weight): 3350.54468951
+		J (organize): 3346.17069757
+	Iteracao: 6
+		J (prototypes): 3345.90904509
+		J (weight): 3345.90848543
+		J (organize): 3339.67385344
+	Iteracao: 7
+		J (prototypes): 3335.1046201
+		J (weight): 3335.08302602
+		J (organize): 3330.81298133
+	Iteracao: 8
+		J (prototypes): 3328.12336303
+		J (weight): 3328.1206892
+		J (organize): 3327.34113647
+	Iteracao: 9
+		J (prototypes): 3327.34113647
+		J (weight): 3327.34080901
+		J (organize): 3327.34080901
+
+	CR: 0.478490218894
+
+
+Repeticao: 116
+	J (init): 6075.69876933
+	Iteracao: 1
+		J (prototypes): 4962.23830668
+		J (weight): 4945.23684332
+		J (organize): 4227.37794143
+	Iteracao: 2
+		J (prototypes): 3996.04124185
+		J (weight): 3941.63017902
+		J (organize): 3906.17334573
+	Iteracao: 3
+		J (prototypes): 3892.62467951
+		J (weight): 3892.32617938
+		J (organize): 3868.5057642
+	Iteracao: 4
+		J (prototypes): 3847.87902157
+		J (weight): 3845.49243068
+		J (organize): 3838.0818944
+	Iteracao: 5
+		J (prototypes): 3828.46897094
+		J (weight): 3828.39339683
+		J (organize): 3789.02882965
+	Iteracao: 6
+		J (prototypes): 3749.72323834
+		J (weight): 3749.55371108
+		J (organize): 3562.76770784
+	Iteracao: 7
+		J (prototypes): 3471.92729077
+		J (weight): 3466.49402876
+		J (organize): 3435.91781309
+	Iteracao: 8
+		J (prototypes): 3430.64103389
+		J (weight): 3430.57771609
+		J (organize): 3427.80955462
+	Iteracao: 9
+		J (prototypes): 3427.80955462
+		J (weight): 3427.79847966
+		J (organize): 3427.79846419
+	Iteracao: 10
+		J (prototypes): 3427.79846419
+		J (weight): 3427.79794432
+		J (organize): 3427.79794432
+
+	CR: 0.422850757694
+
+
+Repeticao: 117
+	J (init): 6296.36794879
+	Iteracao: 1
+		J (prototypes): 4442.41160743
+		J (weight): 4427.8315405
+		J (organize): 4169.59400156
+	Iteracao: 2
+		J (prototypes): 3699.99407168
+		J (weight): 3650.46346656
+		J (organize): 3478.04950506
+	Iteracao: 3
+		J (prototypes): 3440.33487927
+		J (weight): 3423.43610858
+		J (organize): 3349.89636149
+	Iteracao: 4
+		J (prototypes): 3313.61722321
+		J (weight): 3307.61905743
+		J (organize): 3279.62946677
+	Iteracao: 5
+		J (prototypes): 3276.90706955
+		J (weight): 3276.30462256
+		J (organize): 3272.82661727
+	Iteracao: 6
+		J (prototypes): 3270.49255674
+		J (weight): 3270.48772285
+		J (organize): 3269.16790942
+	Iteracao: 7
+		J (prototypes): 3269.06537349
+		J (weight): 3269.06406377
+		J (organize): 3268.60035432
+	Iteracao: 8
+		J (prototypes): 3268.60035432
+		J (weight): 3268.59586968
+		J (organize): 3268.59450575
+	Iteracao: 9
+		J (prototypes): 3268.59450575
+		J (weight): 3268.59389385
+		J (organize): 3268.5935541
+	Iteracao: 10
+		J (prototypes): 3268.5935541
+		J (weight): 3268.59346227
+		J (organize): 3268.59346227
+
+	CR: 0.432793476561
+
+
+Repeticao: 118
+	J (init): 5802.69080695
+	Iteracao: 1
+		J (prototypes): 4537.12416405
+		J (weight): 4536.46232168
+		J (organize): 3976.73355454
+	Iteracao: 2
+		J (prototypes): 3926.14941645
+		J (weight): 3890.58579648
+		J (organize): 3818.13561847
+	Iteracao: 3
+		J (prototypes): 3705.27656012
+		J (weight): 3703.36716927
+		J (organize): 3568.87805177
+	Iteracao: 4
+		J (prototypes): 3519.30847939
+		J (weight): 3516.5536812
+		J (organize): 3495.46434539
+	Iteracao: 5
+		J (prototypes): 3494.74465501
+		J (weight): 3494.68757184
+		J (organize): 3494.39547711
+	Iteracao: 6
+		J (prototypes): 3494.39547711
+		J (weight): 3494.39408912
+		J (organize): 3494.39349873
+	Iteracao: 7
+		J (prototypes): 3494.39349873
+		J (weight): 3494.39339985
+		J (organize): 3494.39339985
+
+	CR: 0.484469324928
+
+
+Repeticao: 119
+	J (init): 6183.3669123
+	Iteracao: 1
+		J (prototypes): 3693.7054416
+		J (weight): 3642.96483396
+		J (organize): 3496.26401972
+	Iteracao: 2
+		J (prototypes): 3475.2035177
+		J (weight): 3473.0081982
+		J (organize): 3463.20776331
+	Iteracao: 3
+		J (prototypes): 3462.39022875
+		J (weight): 3462.38489115
+		J (organize): 3462.18505472
+	Iteracao: 4
+		J (prototypes): 3461.11374238
+		J (weight): 3461.10704205
+		J (organize): 3459.4128516
+	Iteracao: 5
+		J (prototypes): 3459.16919783
+		J (weight): 3459.15472396
+		J (organize): 3458.50328731
+	Iteracao: 6
+		J (prototypes): 3458.50328731
+		J (weight): 3458.50238184
+		J (organize): 3458.5021489
+	Iteracao: 7
+		J (prototypes): 3458.5021489
+		J (weight): 3458.50209707
+		J (organize): 3458.50209707
+
+	CR: 0.442316594977
+
+
+Repeticao: 120
+	J (init): 6551.2521538
+	Iteracao: 1
+		J (prototypes): 4624.29303636
+		J (weight): 4620.54836332
+		J (organize): 3941.83479046
+	Iteracao: 2
+		J (prototypes): 3678.5723246
+		J (weight): 3602.0866017
+		J (organize): 3498.43451347
+	Iteracao: 3
+		J (prototypes): 3450.40535285
+		J (weight): 3439.66820838
+		J (organize): 3396.78241862
+	Iteracao: 4
+		J (prototypes): 3362.91707506
+		J (weight): 3362.28203014
+		J (organize): 3324.83990632
+	Iteracao: 5
+		J (prototypes): 3316.13405089
+		J (weight): 3315.59913024
+		J (organize): 3312.21176719
+	Iteracao: 6
+		J (prototypes): 3311.01768934
+		J (weight): 3310.84242896
+		J (organize): 3306.17033371
+	Iteracao: 7
+		J (prototypes): 3303.99089603
+		J (weight): 3303.80675114
+		J (organize): 3302.50661887
+	Iteracao: 8
+		J (prototypes): 3300.70115376
+		J (weight): 3300.61132469
+		J (organize): 3294.62147487
+	Iteracao: 9
+		J (prototypes): 3294.5219159
+		J (weight): 3294.49448309
+		J (organize): 3287.4644111
+	Iteracao: 10
+		J (prototypes): 3275.27290727
+		J (weight): 3275.21574459
+		J (organize): 3267.17983999
+	Iteracao: 11
+		J (prototypes): 3261.16163268
+		J (weight): 3261.01419037
+		J (organize): 3258.53641151
+	Iteracao: 12
+		J (prototypes): 3258.53641151
+		J (weight): 3258.38816066
+		J (organize): 3258.38206553
+	Iteracao: 13
+		J (prototypes): 3258.38206553
+		J (weight): 3258.38193996
+		J (organize): 3258.38193996
+
+	CR: 0.477013505745
+
+
+Repeticao: 121
+	J (init): 5468.96951627
+	Iteracao: 1
+		J (prototypes): 3933.24262907
+		J (weight): 3921.96637118
+		J (organize): 3502.25258805
+	Iteracao: 2
+		J (prototypes): 3358.1575595
+		J (weight): 3323.44023583
+		J (organize): 3267.47413897
+	Iteracao: 3
+		J (prototypes): 3261.55472204
+		J (weight): 3261.28813855
+		J (organize): 3257.11471912
+	Iteracao: 4
+		J (prototypes): 3255.96216326
+		J (weight): 3255.93895129
+		J (organize): 3250.55632578
+	Iteracao: 5
+		J (prototypes): 3248.07503869
+		J (weight): 3248.01093977
+		J (organize): 3245.25468308
+	Iteracao: 6
+		J (prototypes): 3245.25468308
+		J (weight): 3245.25170237
+		J (organize): 3245.25170237
+
+	CR: 0.560996591774
+
+
+Repeticao: 122
+	J (init): 5239.02571046
+	Iteracao: 1
+		J (prototypes): 4462.1353943
+		J (weight): 4460.82464769
+		J (organize): 4261.10439876
+	Iteracao: 2
+		J (prototypes): 4141.76066418
+		J (weight): 4137.34038827
+		J (organize): 4081.02829098
+	Iteracao: 3
+		J (prototypes): 4039.22035817
+		J (weight): 4037.26099415
+		J (organize): 3941.50250138
+	Iteracao: 4
+		J (prototypes): 3900.46821788
+		J (weight): 3894.41097109
+		J (organize): 3773.30403239
+	Iteracao: 5
+		J (prototypes): 3620.76202647
+		J (weight): 3618.54788063
+		J (organize): 3477.16808368
+	Iteracao: 6
+		J (prototypes): 3425.51406584
+		J (weight): 3420.93565518
+		J (organize): 3398.04115007
+	Iteracao: 7
+		J (prototypes): 3388.62332708
+		J (weight): 3388.21597658
+		J (organize): 3378.77263054
+	Iteracao: 8
+		J (prototypes): 3377.53945218
+		J (weight): 3377.52787676
+		J (organize): 3377.25051911
+	Iteracao: 9
+		J (prototypes): 3377.04106937
+		J (weight): 3377.00829713
+		J (organize): 3373.02994845
+	Iteracao: 10
+		J (prototypes): 3373.02994845
+		J (weight): 3373.0210518
+		J (organize): 3373.0210518
+
+	CR: 0.494277624169
+
+
+Repeticao: 123
+	J (init): 5640.9156812
+	Iteracao: 1
+		J (prototypes): 4400.28092062
+		J (weight): 4399.10087279
+		J (organize): 4237.73679265
+	Iteracao: 2
+		J (prototypes): 4053.44061186
+		J (weight): 4024.51065673
+		J (organize): 3630.57591639
+	Iteracao: 3
+		J (prototypes): 3555.39290929
+		J (weight): 3535.2571315
+		J (organize): 3498.65069535
+	Iteracao: 4
+		J (prototypes): 3496.69190123
+		J (weight): 3496.3353902
+		J (organize): 3494.2994003
+	Iteracao: 5
+		J (prototypes): 3494.2994003
+		J (weight): 3494.29548408
+		J (organize): 3494.29523608
+	Iteracao: 6
+		J (prototypes): 3494.29523608
+		J (weight): 3494.29522955
+		J (organize): 3494.29522955
+
+	CR: 0.486955039295
+
+
+Repeticao: 124
+	J (init): 6179.47470374
+	Iteracao: 1
+		J (prototypes): 4527.40108317
+		J (weight): 4499.96353558
+		J (organize): 4201.59599324
+	Iteracao: 2
+		J (prototypes): 4099.10137085
+		J (weight): 4058.02653837
+		J (organize): 3932.03544368
+	Iteracao: 3
+		J (prototypes): 3811.03840702
+		J (weight): 3810.40348991
+		J (organize): 3557.71668564
+	Iteracao: 4
+		J (prototypes): 3403.08927551
+		J (weight): 3384.38962962
+		J (organize): 3301.22037197
+	Iteracao: 5
+		J (prototypes): 3282.08738331
+		J (weight): 3280.48474885
+		J (organize): 3263.73577552
+	Iteracao: 6
+		J (prototypes): 3257.90292168
+		J (weight): 3257.42294579
+		J (organize): 3253.21357118
+	Iteracao: 7
+		J (prototypes): 3252.62410276
+		J (weight): 3252.62150698
+		J (organize): 3251.85711844
+	Iteracao: 8
+		J (prototypes): 3251.64080613
+		J (weight): 3251.623836
+		J (organize): 3251.50462335
+	Iteracao: 9
+		J (prototypes): 3251.50462335
+		J (weight): 3251.50380826
+		J (organize): 3251.50380826
+
+	CR: 0.455763894068
+
+
+Repeticao: 125
+	J (init): 6761.38337121
+	Iteracao: 1
+		J (prototypes): 4082.83562027
+		J (weight): 4074.1107599
+		J (organize): 3642.44973389
+	Iteracao: 2
+		J (prototypes): 3430.41177593
+		J (weight): 3415.04904009
+		J (organize): 3312.76432379
+	Iteracao: 3
+		J (prototypes): 3232.57702575
+		J (weight): 3222.83230969
+		J (organize): 3208.38281644
+	Iteracao: 4
+		J (prototypes): 3207.63781166
+		J (weight): 3207.59535739
+		J (organize): 3207.23928725
+	Iteracao: 5
+		J (prototypes): 3207.20111518
+		J (weight): 3207.18393735
+		J (organize): 3207.11342257
+	Iteracao: 6
+		J (prototypes): 3207.11342257
+		J (weight): 3207.11209718
+		J (organize): 3207.11209718
+
+	CR: 0.535612190732
+
+
+Repeticao: 126
+	J (init): 6616.21220533
+	Iteracao: 1
+		J (prototypes): 3606.84289234
+		J (weight): 3598.76583865
+		J (organize): 3365.8759514
+	Iteracao: 2
+		J (prototypes): 3325.58165451
+		J (weight): 3307.68812725
+		J (organize): 3258.86370881
+	Iteracao: 3
+		J (prototypes): 3247.8622343
+		J (weight): 3245.65944917
+		J (organize): 3228.20439345
+	Iteracao: 4
+		J (prototypes): 3221.80238729
+		J (weight): 3220.72565935
+		J (organize): 3215.1319177
+	Iteracao: 5
+		J (prototypes): 3210.8319498
+		J (weight): 3210.45110318
+		J (organize): 3197.29651303
+	Iteracao: 6
+		J (prototypes): 3190.39467316
+		J (weight): 3189.8856176
+		J (organize): 3186.42029274
+	Iteracao: 7
+		J (prototypes): 3185.97281583
+		J (weight): 3185.95431233
+		J (organize): 3185.54551685
+	Iteracao: 8
+		J (prototypes): 3185.4651198
+		J (weight): 3185.46142704
+		J (organize): 3184.84995428
+	Iteracao: 9
+		J (prototypes): 3184.77233578
+		J (weight): 3184.77233065
+		J (organize): 3184.2600917
+	Iteracao: 10
+		J (prototypes): 3184.2600917
+		J (weight): 3184.25341997
+		J (organize): 3184.25341997
+
+	CR: 0.546030852581
+
+
+Repeticao: 127
+	J (init): 6421.67308862
+	Iteracao: 1
+		J (prototypes): 4342.79822339
+		J (weight): 4332.71390624
+		J (organize): 3965.97204502
+	Iteracao: 2
+		J (prototypes): 3858.73625763
+		J (weight): 3818.42434093
+		J (organize): 3687.31454844
+	Iteracao: 3
+		J (prototypes): 3607.51965023
+		J (weight): 3603.59517152
+		J (organize): 3532.51184648
+	Iteracao: 4
+		J (prototypes): 3505.29970747
+		J (weight): 3504.64728222
+		J (organize): 3480.48993739
+	Iteracao: 5
+		J (prototypes): 3468.72900093
+		J (weight): 3468.33299099
+		J (organize): 3463.58309805
+	Iteracao: 6
+		J (prototypes): 3457.47387813
+		J (weight): 3457.44482444
+		J (organize): 3445.83075503
+	Iteracao: 7
+		J (prototypes): 3441.86989418
+		J (weight): 3441.29287157
+		J (organize): 3439.03032007
+	Iteracao: 8
+		J (prototypes): 3437.2954199
+		J (weight): 3437.21561375
+		J (organize): 3434.61509413
+	Iteracao: 9
+		J (prototypes): 3426.75658371
+		J (weight): 3426.75655524
+		J (organize): 3412.41935476
+	Iteracao: 10
+		J (prototypes): 3390.17904377
+		J (weight): 3390.07798874
+		J (organize): 3380.13952233
+	Iteracao: 11
+		J (prototypes): 3377.70626138
+		J (weight): 3377.57379679
+		J (organize): 3376.76089965
+	Iteracao: 12
+		J (prototypes): 3376.33936179
+		J (weight): 3376.33787588
+		J (organize): 3376.2132534
+	Iteracao: 13
+		J (prototypes): 3376.2132534
+		J (weight): 3376.21039172
+		J (organize): 3376.20990201
+	Iteracao: 14
+		J (prototypes): 3376.20990201
+		J (weight): 3376.20942681
+		J (organize): 3376.20942681
+
+	CR: 0.365934104873
+
+
+Repeticao: 128
+	J (init): 6393.16495646
+	Iteracao: 1
+		J (prototypes): 4457.03912452
+		J (weight): 4416.4785492
+		J (organize): 4181.3452672
+	Iteracao: 2
+		J (prototypes): 4132.51453793
+		J (weight): 4131.92119924
+		J (organize): 3833.92348908
+	Iteracao: 3
+		J (prototypes): 3723.63771398
+		J (weight): 3677.25200916
+		J (organize): 3593.45849744
+	Iteracao: 4
+		J (prototypes): 3541.39303103
+		J (weight): 3514.55083777
+		J (organize): 3443.01363306
+	Iteracao: 5
+		J (prototypes): 3415.35051008
+		J (weight): 3403.64925921
+		J (organize): 3391.96619057
+	Iteracao: 6
+		J (prototypes): 3384.06271526
+		J (weight): 3383.95290356
+		J (organize): 3378.91975938
+	Iteracao: 7
+		J (prototypes): 3378.20115918
+		J (weight): 3378.10423119
+		J (organize): 3377.25043466
+	Iteracao: 8
+		J (prototypes): 3377.04089259
+		J (weight): 3377.00829713
+		J (organize): 3373.02994845
+	Iteracao: 9
+		J (prototypes): 3373.02994845
+		J (weight): 3373.0210518
+		J (organize): 3373.0210518
+
+	CR: 0.494277624169
+
+
+Repeticao: 129
+	J (init): 7224.52391602
+	Iteracao: 1
+		J (prototypes): 4430.53048819
+		J (weight): 4430.52625886
+		J (organize): 3756.45174312
+	Iteracao: 2
+		J (prototypes): 3693.6573001
+		J (weight): 3647.44168026
+		J (organize): 3533.44554398
+	Iteracao: 3
+		J (prototypes): 3436.76879538
+		J (weight): 3432.88763281
+		J (organize): 3370.46561629
+	Iteracao: 4
+		J (prototypes): 3356.50455606
+		J (weight): 3355.72114951
+		J (organize): 3338.3695055
+	Iteracao: 5
+		J (prototypes): 3324.13185561
+		J (weight): 3324.10438572
+		J (organize): 3321.21834873
+	Iteracao: 6
+		J (prototypes): 3321.21834873
+		J (weight): 3321.21472166
+		J (organize): 3321.21472166
+
+	CR: 0.502012684215
+
+
+Repeticao: 130
+	J (init): 6849.22023212
+	Iteracao: 1
+		J (prototypes): 4897.97539305
+		J (weight): 4804.16770748
+		J (organize): 4232.16830519
+	Iteracao: 2
+		J (prototypes): 3734.54184098
+		J (weight): 3684.83158099
+		J (organize): 3440.95676005
+	Iteracao: 3
+		J (prototypes): 3403.2037771
+		J (weight): 3381.71722036
+		J (organize): 3370.0994424
+	Iteracao: 4
+		J (prototypes): 3360.61771423
+		J (weight): 3359.57261257
+		J (organize): 3337.70636049
+	Iteracao: 5
+		J (prototypes): 3326.03774207
+		J (weight): 3324.94595164
+		J (organize): 3315.39075075
+	Iteracao: 6
+		J (prototypes): 3307.94825931
+		J (weight): 3307.62994901
+		J (organize): 3302.59572634
+	Iteracao: 7
+		J (prototypes): 3299.69380873
+		J (weight): 3299.55433731
+		J (organize): 3290.61985852
+	Iteracao: 8
+		J (prototypes): 3290.61985852
+		J (weight): 3290.51238063
+		J (organize): 3290.51203622
+	Iteracao: 9
+		J (prototypes): 3290.51203622
+		J (weight): 3290.51203059
+		J (organize): 3290.51203059
+
+	CR: 0.496472109625
+
+
+Repeticao: 131
+	J (init): 6269.73381577
+	Iteracao: 1
+		J (prototypes): 4505.59685054
+		J (weight): 4504.74552901
+		J (organize): 3962.25639507
+	Iteracao: 2
+		J (prototypes): 3796.33679322
+		J (weight): 3774.15425233
+		J (organize): 3665.65928657
+	Iteracao: 3
+		J (prototypes): 3617.58208012
+		J (weight): 3617.4402204
+		J (organize): 3568.97326344
+	Iteracao: 4
+		J (prototypes): 3547.27775319
+		J (weight): 3547.23651502
+		J (organize): 3527.33429764
+	Iteracao: 5
+		J (prototypes): 3522.47322256
+		J (weight): 3522.43055078
+		J (organize): 3518.94402406
+	Iteracao: 6
+		J (prototypes): 3518.09933857
+		J (weight): 3518.06334997
+		J (organize): 3515.62140681
+	Iteracao: 7
+		J (prototypes): 3513.83486803
+		J (weight): 3513.83481329
+		J (organize): 3510.30892113
+	Iteracao: 8
+		J (prototypes): 3510.30892113
+		J (weight): 3510.30027201
+		J (organize): 3510.29966964
+	Iteracao: 9
+		J (prototypes): 3510.29966964
+		J (weight): 3510.29965796
+		J (organize): 3510.29965796
+
+	CR: 0.439227708078
+
+
+Repeticao: 132
+	J (init): 6502.10459308
+	Iteracao: 1
+		J (prototypes): 4675.10217169
+		J (weight): 4601.61008342
+		J (organize): 4229.1599781
+	Iteracao: 2
+		J (prototypes): 3629.63654854
+		J (weight): 3582.68426284
+		J (organize): 3369.04369113
+	Iteracao: 3
+		J (prototypes): 3355.01624321
+		J (weight): 3336.4886683
+		J (organize): 3325.34758956
+	Iteracao: 4
+		J (prototypes): 3321.63616902
+		J (weight): 3320.75102391
+		J (organize): 3319.35939402
+	Iteracao: 5
+		J (prototypes): 3319.13800193
+		J (weight): 3319.13785978
+		J (organize): 3317.00540286
+	Iteracao: 6
+		J (prototypes): 3317.00540286
+		J (weight): 3317.00329331
+		J (organize): 3317.00329331
+
+	CR: 0.426300552906
+
+
+Repeticao: 133
+	J (init): 6469.03824516
+	Iteracao: 1
+		J (prototypes): 4809.31315038
+		J (weight): 4780.41821976
+		J (organize): 4553.12362092
+	Iteracao: 2
+		J (prototypes): 4079.68223051
+		J (weight): 4047.64509881
+		J (organize): 3741.49345481
+	Iteracao: 3
+		J (prototypes): 3661.49138164
+		J (weight): 3624.62417265
+		J (organize): 3554.936862
+	Iteracao: 4
+		J (prototypes): 3538.36336435
+		J (weight): 3530.85310535
+		J (organize): 3525.84018369
+	Iteracao: 5
+		J (prototypes): 3523.44474413
+		J (weight): 3523.28521667
+		J (organize): 3522.41431146
+	Iteracao: 6
+		J (prototypes): 3522.41431146
+		J (weight): 3522.40781783
+		J (organize): 3522.40781783
+
+	CR: 0.476974842944
+
+
+Repeticao: 134
+	J (init): 6143.21521394
+	Iteracao: 1
+		J (prototypes): 4481.52713937
+		J (weight): 4479.92170346
+		J (organize): 4285.01968806
+	Iteracao: 2
+		J (prototypes): 3827.08177881
+		J (weight): 3804.65698382
+		J (organize): 3500.3536948
+	Iteracao: 3
+		J (prototypes): 3422.81596623
+		J (weight): 3411.50876526
+		J (organize): 3372.24410641
+	Iteracao: 4
+		J (prototypes): 3369.33499038
+		J (weight): 3368.72541742
+		J (organize): 3367.69048737
+	Iteracao: 5
+		J (prototypes): 3367.50318828
+		J (weight): 3367.50021932
+		J (organize): 3367.4085291
+	Iteracao: 6
+		J (prototypes): 3367.4085291
+		J (weight): 3367.40850546
+		J (organize): 3367.40850546
+
+	CR: 0.402064438886
+
+
+Repeticao: 135
+	J (init): 6337.81152658
+	Iteracao: 1
+		J (prototypes): 4291.1353888
+		J (weight): 4289.01204462
+		J (organize): 3591.33748366
+	Iteracao: 2
+		J (prototypes): 3438.26961399
+		J (weight): 3400.02328074
+		J (organize): 3339.85102638
+	Iteracao: 3
+		J (prototypes): 3321.28718184
+		J (weight): 3316.84609118
+		J (organize): 3252.72028415
+	Iteracao: 4
+		J (prototypes): 3215.65824914
+		J (weight): 3209.99568157
+		J (organize): 3193.51579866
+	Iteracao: 5
+		J (prototypes): 3181.85867696
+		J (weight): 3181.61238372
+		J (organize): 3174.53104753
+	Iteracao: 6
+		J (prototypes): 3171.10362643
+		J (weight): 3171.06415241
+		J (organize): 3168.27924015
+	Iteracao: 7
+		J (prototypes): 3166.7741711
+		J (weight): 3166.7716581
+		J (organize): 3164.33588055
+	Iteracao: 8
+		J (prototypes): 3161.98512791
+		J (weight): 3161.9849471
+		J (organize): 3154.13080933
+	Iteracao: 9
+		J (prototypes): 3145.49764863
+		J (weight): 3145.46310328
+		J (organize): 3119.29569654
+	Iteracao: 10
+		J (prototypes): 3107.90544042
+		J (weight): 3107.79018269
+		J (organize): 3103.70834876
+	Iteracao: 11
+		J (prototypes): 3102.8146927
+		J (weight): 3102.77722635
+		J (organize): 3102.54691629
+	Iteracao: 12
+		J (prototypes): 3102.54691629
+		J (weight): 3102.54655125
+		J (organize): 3102.54655125
+
+	CR: 0.550098723452
+
+
+Repeticao: 136
+	J (init): 7471.10759586
+	Iteracao: 1
+		J (prototypes): 5488.19593864
+		J (weight): 5374.86221107
+		J (organize): 4945.60537979
+	Iteracao: 2
+		J (prototypes): 4187.46368031
+		J (weight): 4128.69445977
+		J (organize): 3751.64588217
+	Iteracao: 3
+		J (prototypes): 3699.44151802
+		J (weight): 3640.26094983
+		J (organize): 3504.87599278
+	Iteracao: 4
+		J (prototypes): 3443.65442012
+		J (weight): 3434.82605415
+		J (organize): 3400.93735446
+	Iteracao: 5
+		J (prototypes): 3387.9885706
+		J (weight): 3387.65565861
+		J (organize): 3381.5206333
+	Iteracao: 6
+		J (prototypes): 3380.65873925
+		J (weight): 3380.40295562
+		J (organize): 3379.73941086
+	Iteracao: 7
+		J (prototypes): 3379.73941086
+		J (weight): 3379.73855088
+		J (organize): 3379.73855088
+
+	CR: 0.522889918629
+
+
+Repeticao: 137
+	J (init): 5954.38833441
+	Iteracao: 1
+		J (prototypes): 4050.14221394
+		J (weight): 4029.85395483
+		J (organize): 3867.29773642
+	Iteracao: 2
+		J (prototypes): 3825.60625235
+		J (weight): 3821.95103711
+		J (organize): 3796.68130623
+	Iteracao: 3
+		J (prototypes): 3778.92397732
+		J (weight): 3778.7958008
+		J (organize): 3691.00565071
+	Iteracao: 4
+		J (prototypes): 3553.66407537
+		J (weight): 3551.49793166
+		J (organize): 3440.93087293
+	Iteracao: 5
+		J (prototypes): 3402.94769459
+		J (weight): 3400.67017295
+		J (organize): 3376.58999913
+	Iteracao: 6
+		J (prototypes): 3372.4003045
+		J (weight): 3372.33406897
+		J (organize): 3371.03789564
+	Iteracao: 7
+		J (prototypes): 3371.03789564
+		J (weight): 3371.02563115
+		J (organize): 3371.02563115
+
+	CR: 0.405805002012
+
+
+Repeticao: 138
+	J (init): 6512.23875005
+	Iteracao: 1
+		J (prototypes): 4154.01221932
+		J (weight): 4146.1317906
+		J (organize): 3645.22615565
+	Iteracao: 2
+		J (prototypes): 3528.29885864
+		J (weight): 3483.56852753
+		J (organize): 3458.89959132
+	Iteracao: 3
+		J (prototypes): 3441.65790272
+		J (weight): 3440.54516167
+		J (organize): 3393.48592881
+	Iteracao: 4
+		J (prototypes): 3381.0750631
+		J (weight): 3380.89936995
+		J (organize): 3364.33111506
+	Iteracao: 5
+		J (prototypes): 3358.80259624
+		J (weight): 3358.64302962
+		J (organize): 3349.81583654
+	Iteracao: 6
+		J (prototypes): 3345.90766615
+		J (weight): 3345.86413274
+		J (organize): 3339.48141522
+	Iteracao: 7
+		J (prototypes): 3332.01405019
+		J (weight): 3332.00464842
+		J (organize): 3322.61854959
+	Iteracao: 8
+		J (prototypes): 3317.02130447
+		J (weight): 3316.9403414
+		J (organize): 3301.49743411
+	Iteracao: 9
+		J (prototypes): 3297.12883696
+		J (weight): 3297.12702377
+		J (organize): 3292.74844793
+	Iteracao: 10
+		J (prototypes): 3292.43596464
+		J (weight): 3292.43282936
+		J (organize): 3292.25455916
+	Iteracao: 11
+		J (prototypes): 3292.25455916
+		J (weight): 3292.25033515
+		J (organize): 3292.25033515
+
+	CR: 0.53243515353
+
+
+Repeticao: 139
+	J (init): 6693.28685438
+	Iteracao: 1
+		J (prototypes): 4641.85123678
+		J (weight): 4628.37908807
+		J (organize): 4261.39495464
+	Iteracao: 2
+		J (prototypes): 4118.91853841
+		J (weight): 4059.07395973
+		J (organize): 4016.44744733
+	Iteracao: 3
+		J (prototypes): 3984.65949663
+		J (weight): 3983.58730467
+		J (organize): 3884.92954689
+	Iteracao: 4
+		J (prototypes): 3842.1289281
+		J (weight): 3837.02912814
+		J (organize): 3708.84097992
+	Iteracao: 5
+		J (prototypes): 3550.79900807
+		J (weight): 3548.6229822
+		J (organize): 3413.33783968
+	Iteracao: 6
+		J (prototypes): 3388.761027
+		J (weight): 3386.02025613
+		J (organize): 3372.29118509
+	Iteracao: 7
+		J (prototypes): 3360.32197101
+		J (weight): 3360.10896561
+		J (organize): 3350.94028664
+	Iteracao: 8
+		J (prototypes): 3349.90607295
+		J (weight): 3349.89226161
+		J (organize): 3349.59784426
+	Iteracao: 9
+		J (prototypes): 3349.57413665
+		J (weight): 3349.56915425
+		J (organize): 3349.52471151
+	Iteracao: 10
+		J (prototypes): 3349.47060285
+		J (weight): 3349.45801284
+		J (organize): 3345.64045603
+	Iteracao: 11
+		J (prototypes): 3345.6201608
+		J (weight): 3345.61858266
+		J (organize): 3345.52124054
+	Iteracao: 12
+		J (prototypes): 3345.52124054
+		J (weight): 3345.52123209
+		J (organize): 3345.52123209
+
+	CR: 0.501660790021
+
+
+Repeticao: 140
+	J (init): 5395.19472994
+	Iteracao: 1
+		J (prototypes): 4169.63470878
+		J (weight): 4167.75697912
+		J (organize): 3946.7386426
+	Iteracao: 2
+		J (prototypes): 3877.27680754
+		J (weight): 3864.12604311
+		J (organize): 3816.2151273
+	Iteracao: 3
+		J (prototypes): 3780.48824965
+		J (weight): 3778.62687474
+		J (organize): 3758.61454023
+	Iteracao: 4
+		J (prototypes): 3752.8784292
+		J (weight): 3751.99642295
+		J (organize): 3741.45212351
+	Iteracao: 5
+		J (prototypes): 3722.88093254
+		J (weight): 3722.65825683
+		J (organize): 3700.30301594
+	Iteracao: 6
+		J (prototypes): 3673.08732598
+		J (weight): 3672.81308768
+		J (organize): 3654.45618501
+	Iteracao: 7
+		J (prototypes): 3636.54643792
+		J (weight): 3636.52000834
+		J (organize): 3626.9250103
+	Iteracao: 8
+		J (prototypes): 3615.58548301
+		J (weight): 3615.37884606
+		J (organize): 3607.31290174
+	Iteracao: 9
+		J (prototypes): 3601.15070423
+		J (weight): 3601.15070421
+		J (organize): 3591.09400347
+	Iteracao: 10
+		J (prototypes): 3584.62671104
+		J (weight): 3584.0066057
+		J (organize): 3536.28961929
+	Iteracao: 11
+		J (prototypes): 3494.75662213
+		J (weight): 3494.57742471
+		J (organize): 3387.14672208
+	Iteracao: 12
+		J (prototypes): 3350.25241305
+		J (weight): 3350.22150666
+		J (organize): 3322.63081191
+	Iteracao: 13
+		J (prototypes): 3319.61913568
+		J (weight): 3319.52222139
+		J (organize): 3318.53260286
+	Iteracao: 14
+		J (prototypes): 3318.53260286
+		J (weight): 3318.53178082
+		J (organize): 3318.53178082
+
+	CR: 0.501266041984
+
+
+Repeticao: 141
+	J (init): 6197.0053527
+	Iteracao: 1
+		J (prototypes): 4121.24186487
+		J (weight): 4120.4979432
+		J (organize): 3547.85459562
+	Iteracao: 2
+		J (prototypes): 3392.71974574
+		J (weight): 3355.5959793
+		J (organize): 3271.61393789
+	Iteracao: 3
+		J (prototypes): 3255.70826943
+		J (weight): 3255.49496038
+		J (organize): 3251.81796676
+	Iteracao: 4
+		J (prototypes): 3251.81796676
+		J (weight): 3251.81224609
+		J (organize): 3251.81224609
+
+	CR: 0.485607777076
+
+
+Repeticao: 142
+	J (init): 6694.93549059
+	Iteracao: 1
+		J (prototypes): 4809.45947182
+		J (weight): 4791.00047513
+		J (organize): 4166.87005584
+	Iteracao: 2
+		J (prototypes): 3805.70132547
+		J (weight): 3797.39300764
+		J (organize): 3512.22958248
+	Iteracao: 3
+		J (prototypes): 3395.10848768
+		J (weight): 3367.57182298
+		J (organize): 3309.36870056
+	Iteracao: 4
+		J (prototypes): 3294.39035613
+		J (weight): 3289.71270466
+		J (organize): 3277.29144645
+	Iteracao: 5
+		J (prototypes): 3273.88254173
+		J (weight): 3273.26842779
+		J (organize): 3272.38266763
+	Iteracao: 6
+		J (prototypes): 3271.26298017
+		J (weight): 3271.15427679
+		J (organize): 3263.39399581
+	Iteracao: 7
+		J (prototypes): 3255.99637732
+		J (weight): 3253.80883992
+		J (organize): 3248.30344563
+	Iteracao: 8
+		J (prototypes): 3247.82988896
+		J (weight): 3247.50489148
+		J (organize): 3247.36795878
+	Iteracao: 9
+		J (prototypes): 3247.36795878
+		J (weight): 3247.36637455
+		J (organize): 3247.36637455
+
+	CR: 0.488886107385
+
+
+Repeticao: 143
+	J (init): 6075.95945804
+	Iteracao: 1
+		J (prototypes): 5063.01581568
+		J (weight): 5049.51943509
+		J (organize): 4862.06496528
+	Iteracao: 2
+		J (prototypes): 4802.09765458
+		J (weight): 4795.47809816
+		J (organize): 4555.53979163
+	Iteracao: 3
+		J (prototypes): 4468.41575457
+		J (weight): 4464.86967341
+		J (organize): 4422.62109144
+	Iteracao: 4
+		J (prototypes): 4411.09034003
+		J (weight): 4411.08969955
+		J (organize): 4288.80814357
+	Iteracao: 5
+		J (prototypes): 4053.72626582
+		J (weight): 4052.29302908
+		J (organize): 3807.06038933
+	Iteracao: 6
+		J (prototypes): 3712.61400125
+		J (weight): 3705.76931241
+		J (organize): 3652.56645992
+	Iteracao: 7
+		J (prototypes): 3605.87379545
+		J (weight): 3593.64587188
+		J (organize): 3560.01174388
+	Iteracao: 8
+		J (prototypes): 3546.53527543
+		J (weight): 3544.44109739
+		J (organize): 3532.08346516
+	Iteracao: 9
+		J (prototypes): 3527.78316221
+		J (weight): 3527.75025964
+		J (organize): 3526.1412658
+	Iteracao: 10
+		J (prototypes): 3526.1412658
+		J (weight): 3526.13982015
+		J (organize): 3526.13982015
+
+	CR: 0.485975417562
+
+
+Repeticao: 144
+	J (init): 5813.71814137
+	Iteracao: 1
+		J (prototypes): 4356.18289789
+		J (weight): 4356.13475264
+		J (organize): 3589.44339975
+	Iteracao: 2
+		J (prototypes): 3514.9671137
+		J (weight): 3415.23561211
+		J (organize): 3389.45467915
+	Iteracao: 3
+		J (prototypes): 3375.50494502
+		J (weight): 3374.55767132
+		J (organize): 3369.48902714
+	Iteracao: 4
+		J (prototypes): 3369.30319242
+		J (weight): 3369.28132417
+		J (organize): 3369.23041653
+	Iteracao: 5
+		J (prototypes): 3369.23041653
+		J (weight): 3369.23041534
+		J (organize): 3369.23041534
+
+	CR: 0.479598895811
+
+
+Repeticao: 145
+	J (init): 5647.87212798
+	Iteracao: 1
+		J (prototypes): 3986.91685843
+		J (weight): 3962.06833642
+		J (organize): 3661.72373013
+	Iteracao: 2
+		J (prototypes): 3613.75629199
+		J (weight): 3612.80510981
+		J (organize): 3584.16842082
+	Iteracao: 3
+		J (prototypes): 3574.07337342
+		J (weight): 3574.06389935
+		J (organize): 3566.71431113
+	Iteracao: 4
+		J (prototypes): 3553.11574776
+		J (weight): 3553.05772213
+		J (organize): 3547.01394684
+	Iteracao: 5
+		J (prototypes): 3536.24492074
+		J (weight): 3536.23076152
+		J (organize): 3505.89854006
+	Iteracao: 6
+		J (prototypes): 3416.34897219
+		J (weight): 3411.94046478
+		J (organize): 3386.14030664
+	Iteracao: 7
+		J (prototypes): 3379.57900014
+		J (weight): 3378.44928381
+		J (organize): 3362.6154
+	Iteracao: 8
+		J (prototypes): 3355.40392354
+		J (weight): 3354.63990655
+		J (organize): 3339.76404638
+	Iteracao: 9
+		J (prototypes): 3322.85205965
+		J (weight): 3322.50083958
+		J (organize): 3298.90951384
+	Iteracao: 10
+		J (prototypes): 3295.38665069
+		J (weight): 3295.09163573
+		J (organize): 3294.34515822
+	Iteracao: 11
+		J (prototypes): 3294.20764779
+		J (weight): 3294.20726692
+		J (organize): 3293.75264436
+	Iteracao: 12
+		J (prototypes): 3292.53813307
+		J (weight): 3292.46930461
+		J (organize): 3289.48555981
+	Iteracao: 13
+		J (prototypes): 3282.27294034
+		J (weight): 3281.89168423
+		J (organize): 3272.80998749
+	Iteracao: 14
+		J (prototypes): 3268.87480319
+		J (weight): 3268.77796604
+		J (organize): 3268.166376
+	Iteracao: 15
+		J (prototypes): 3267.64889014
+		J (weight): 3267.64884788
+		J (organize): 3267.51328034
+	Iteracao: 16
+		J (prototypes): 3267.51328034
+		J (weight): 3267.51321372
+		J (organize): 3267.51321372
+
+	CR: 0.429217313755
+
+
+Repeticao: 146
+	J (init): 7003.06505717
+	Iteracao: 1
+		J (prototypes): 4331.4476897
+		J (weight): 4327.27913225
+		J (organize): 3841.09354283
+	Iteracao: 2
+		J (prototypes): 3808.55527226
+		J (weight): 3786.78716326
+		J (organize): 3672.22437062
+	Iteracao: 3
+		J (prototypes): 3527.16293857
+		J (weight): 3523.67013038
+		J (organize): 3434.67824951
+	Iteracao: 4
+		J (prototypes): 3401.81637574
+		J (weight): 3399.01306863
+		J (organize): 3382.97999191
+	Iteracao: 5
+		J (prototypes): 3374.57548754
+		J (weight): 3374.57466355
+		J (organize): 3369.79165599
+	Iteracao: 6
+		J (prototypes): 3369.7702249
+		J (weight): 3369.75310408
+		J (organize): 3369.67898253
+	Iteracao: 7
+		J (prototypes): 3369.67898253
+		J (weight): 3369.67885786
+		J (organize): 3369.67885786
+
+	CR: 0.409546060898
+
+
+Repeticao: 147
+	J (init): 6110.04035403
+	Iteracao: 1
+		J (prototypes): 4082.63820573
+		J (weight): 4070.65561984
+		J (organize): 3933.77034245
+	Iteracao: 2
+		J (prototypes): 3871.27036349
+		J (weight): 3868.78882865
+		J (organize): 3833.10575155
+	Iteracao: 3
+		J (prototypes): 3815.15294412
+		J (weight): 3814.36114128
+		J (organize): 3790.62129797
+	Iteracao: 4
+		J (prototypes): 3772.17971925
+		J (weight): 3772.05189849
+		J (organize): 3746.38108898
+	Iteracao: 5
+		J (prototypes): 3703.69841221
+		J (weight): 3703.43836172
+		J (organize): 3485.02173307
+	Iteracao: 6
+		J (prototypes): 3433.26234962
+		J (weight): 3428.40192236
+		J (organize): 3391.09109258
+	Iteracao: 7
+		J (prototypes): 3379.65950981
+		J (weight): 3378.89315916
+		J (organize): 3369.42408385
+	Iteracao: 8
+		J (prototypes): 3368.12628232
+		J (weight): 3368.09410715
+		J (organize): 3365.84576895
+	Iteracao: 9
+		J (prototypes): 3365.68107112
+		J (weight): 3365.66786024
+		J (organize): 3365.60950248
+	Iteracao: 10
+		J (prototypes): 3365.60950248
+		J (weight): 3365.60914425
+		J (organize): 3365.60914425
+
+	CR: 0.401077566016
+
+
+Repeticao: 148
+	J (init): 6565.30240554
+	Iteracao: 1
+		J (prototypes): 4895.62383188
+		J (weight): 4879.10195429
+		J (organize): 4452.57058112
+	Iteracao: 2
+		J (prototypes): 3818.29230516
+		J (weight): 3765.38280315
+		J (organize): 3660.40071741
+	Iteracao: 3
+		J (prototypes): 3637.60936832
+		J (weight): 3623.20559766
+		J (organize): 3523.12908624
+	Iteracao: 4
+		J (prototypes): 3428.28171606
+		J (weight): 3426.49374475
+		J (organize): 3370.89508518
+	Iteracao: 5
+		J (prototypes): 3356.41850045
+		J (weight): 3355.55216099
+		J (organize): 3338.36906777
+	Iteracao: 6
+		J (prototypes): 3324.13493636
+		J (weight): 3324.10438572
+		J (organize): 3321.21834873
+	Iteracao: 7
+		J (prototypes): 3321.21834873
+		J (weight): 3321.21472166
+		J (organize): 3321.21472166
+
+	CR: 0.502012684215
+
+
+Repeticao: 149
+	J (init): 5911.30594648
+	Iteracao: 1
+		J (prototypes): 4254.19458416
+		J (weight): 4251.16600762
+		J (organize): 3706.39191778
+	Iteracao: 2
+		J (prototypes): 3581.71265657
+		J (weight): 3575.46329418
+		J (organize): 3523.78614787
+	Iteracao: 3
+		J (prototypes): 3494.66492138
+		J (weight): 3480.69493298
+		J (organize): 3450.41081951
+	Iteracao: 4
+		J (prototypes): 3425.61394
+		J (weight): 3420.97825141
+		J (organize): 3383.57670996
+	Iteracao: 5
+		J (prototypes): 3360.67655149
+		J (weight): 3355.94665796
+		J (organize): 3336.53696893
+	Iteracao: 6
+		J (prototypes): 3319.47540301
+		J (weight): 3319.4637002
+		J (organize): 3306.31013113
+	Iteracao: 7
+		J (prototypes): 3301.09976463
+		J (weight): 3301.09171182
+		J (organize): 3296.33315239
+	Iteracao: 8
+		J (prototypes): 3295.44695347
+		J (weight): 3295.43054919
+		J (organize): 3294.44331511
+	Iteracao: 9
+		J (prototypes): 3294.44331511
+		J (weight): 3294.44187341
+		J (organize): 3294.44187341
+
+	CR: 0.507662723438
+
+
+Repeticao: 150
+	J (init): 6315.48956321
+	Iteracao: 1
+		J (prototypes): 3936.4460333
+		J (weight): 3935.68599578
+		J (organize): 3737.70593644
+	Iteracao: 2
+		J (prototypes): 3665.31475174
+		J (weight): 3646.92886957
+		J (organize): 3592.67838628
+	Iteracao: 3
+		J (prototypes): 3577.09968794
+		J (weight): 3573.31451657
+		J (organize): 3538.82373978
+	Iteracao: 4
+		J (prototypes): 3527.5999361
+		J (weight): 3525.29428426
+		J (organize): 3516.33586589
+	Iteracao: 5
+		J (prototypes): 3510.13646719
+		J (weight): 3509.53621654
+		J (organize): 3503.10252318
+	Iteracao: 6
+		J (prototypes): 3502.45986083
+		J (weight): 3502.08910895
+		J (organize): 3498.7015325
+	Iteracao: 7
+		J (prototypes): 3478.9021965
+		J (weight): 3478.87027749
+		J (organize): 3374.43732683
+	Iteracao: 8
+		J (prototypes): 3332.00848453
+		J (weight): 3329.12190797
+		J (organize): 3298.94799171
+	Iteracao: 9
+		J (prototypes): 3292.28193213
+		J (weight): 3292.09895678
+		J (organize): 3291.4385147
+	Iteracao: 10
+		J (prototypes): 3291.32076546
+		J (weight): 3291.32063472
+		J (organize): 3291.2715427
+	Iteracao: 11
+		J (prototypes): 3291.2715427
+		J (weight): 3291.27154151
+		J (organize): 3291.27154151
+
+	CR: 0.429017893411
+
+
+Repeticao: 151
+	J (init): 6622.16766201
+	Iteracao: 1
+		J (prototypes): 4565.04600947
+		J (weight): 4561.36253193
+		J (organize): 3944.6442657
+	Iteracao: 2
+		J (prototypes): 3657.71029322
+		J (weight): 3640.4361987
+		J (organize): 3336.32791677
+	Iteracao: 3
+		J (prototypes): 3297.93616142
+		J (weight): 3282.01210228
+		J (organize): 3262.83538522
+	Iteracao: 4
+		J (prototypes): 3253.99342941
+		J (weight): 3251.30513688
+		J (organize): 3245.74105384
+	Iteracao: 5
+		J (prototypes): 3236.63458866
+		J (weight): 3235.29267513
+		J (organize): 3230.57701749
+	Iteracao: 6
+		J (prototypes): 3230.34937312
+		J (weight): 3229.79686968
+		J (organize): 3229.64291607
+	Iteracao: 7
+		J (prototypes): 3229.64291607
+		J (weight): 3229.60373958
+		J (organize): 3229.59867923
+	Iteracao: 8
+		J (prototypes): 3229.59867923
+		J (weight): 3229.59839377
+		J (organize): 3229.59839377
+
+	CR: 0.483645369693
+
+
+Repeticao: 152
+	J (init): 5974.80069283
+	Iteracao: 1
+		J (prototypes): 4337.75394105
+		J (weight): 4337.63520781
+		J (organize): 3747.36002567
+	Iteracao: 2
+		J (prototypes): 3662.7321719
+		J (weight): 3646.00744728
+		J (organize): 3619.71446574
+	Iteracao: 3
+		J (prototypes): 3609.26157164
+		J (weight): 3608.79103441
+		J (organize): 3595.65527656
+	Iteracao: 4
+		J (prototypes): 3571.85739402
+		J (weight): 3569.54521409
+		J (organize): 3510.74909548
+	Iteracao: 5
+		J (prototypes): 3475.43360109
+		J (weight): 3471.10469361
+		J (organize): 3454.69576606
+	Iteracao: 6
+		J (prototypes): 3453.49653547
+		J (weight): 3453.28415449
+		J (organize): 3452.79957121
+	Iteracao: 7
+		J (prototypes): 3452.79957121
+		J (weight): 3452.79728732
+		J (organize): 3452.79728732
+
+	CR: 0.420547080003
+
+
+Repeticao: 153
+	J (init): 6269.42491217
+	Iteracao: 1
+		J (prototypes): 4215.5426105
+		J (weight): 4191.17502639
+		J (organize): 3965.41169203
+	Iteracao: 2
+		J (prototypes): 3833.5508152
+		J (weight): 3828.80441173
+		J (organize): 3693.469095
+	Iteracao: 3
+		J (prototypes): 3630.5360281
+		J (weight): 3629.79390548
+		J (organize): 3602.26308272
+	Iteracao: 4
+		J (prototypes): 3599.23510437
+		J (weight): 3598.68912769
+		J (organize): 3590.55247315
+	Iteracao: 5
+		J (prototypes): 3584.37874054
+		J (weight): 3583.66435019
+		J (organize): 3536.296533
+	Iteracao: 6
+		J (prototypes): 3494.72376051
+		J (weight): 3494.57742471
+		J (organize): 3387.14672208
+	Iteracao: 7
+		J (prototypes): 3350.25241305
+		J (weight): 3350.22150666
+		J (organize): 3322.63081191
+	Iteracao: 8
+		J (prototypes): 3319.61913568
+		J (weight): 3319.52222139
+		J (organize): 3318.53260286
+	Iteracao: 9
+		J (prototypes): 3318.53260286
+		J (weight): 3318.53178082
+		J (organize): 3318.53178082
+
+	CR: 0.501266041984
+
+
+Repeticao: 154
+	J (init): 5416.99028287
+	Iteracao: 1
+		J (prototypes): 3673.80019746
+		J (weight): 3614.30417355
+		J (organize): 3599.0191984
+	Iteracao: 2
+		J (prototypes): 3589.61720188
+		J (weight): 3588.42533175
+		J (organize): 3536.32241545
+	Iteracao: 3
+		J (prototypes): 3493.93580798
+		J (weight): 3493.47051752
+		J (organize): 3387.11324353
+	Iteracao: 4
+		J (prototypes): 3350.26911532
+		J (weight): 3350.22150666
+		J (organize): 3322.63081191
+	Iteracao: 5
+		J (prototypes): 3319.61913568
+		J (weight): 3319.52222139
+		J (organize): 3318.53260286
+	Iteracao: 6
+		J (prototypes): 3318.53260286
+		J (weight): 3318.53178082
+		J (organize): 3318.53178082
+
+	CR: 0.501266041984
+
+
+Repeticao: 155
+	J (init): 6964.04641583
+	Iteracao: 1
+		J (prototypes): 4473.78855542
+		J (weight): 4473.1851214
+		J (organize): 3877.17138504
+	Iteracao: 2
+		J (prototypes): 3730.622798
+		J (weight): 3717.90780271
+		J (organize): 3559.12312956
+	Iteracao: 3
+		J (prototypes): 3495.40655337
+		J (weight): 3473.39540454
+		J (organize): 3451.7128066
+	Iteracao: 4
+		J (prototypes): 3448.94198421
+		J (weight): 3447.58097937
+		J (organize): 3445.74342106
+	Iteracao: 5
+		J (prototypes): 3445.74342106
+		J (weight): 3445.6639206
+		J (organize): 3445.66246459
+	Iteracao: 6
+		J (prototypes): 3445.58742545
+		J (weight): 3445.58728832
+		J (organize): 3445.44666995
+	Iteracao: 7
+		J (prototypes): 3445.32852149
+		J (weight): 3445.32474062
+		J (organize): 3444.8719586
+	Iteracao: 8
+		J (prototypes): 3444.8719586
+		J (weight): 3444.8302896
+		J (organize): 3444.82356093
+	Iteracao: 9
+		J (prototypes): 3444.82356093
+		J (weight): 3444.8231271
+		J (organize): 3444.8231271
+
+	CR: 0.426334177486
+
+
+Repeticao: 156
+	J (init): 8308.96580759
+	Iteracao: 1
+		J (prototypes): 3703.56485148
+		J (weight): 3700.17270382
+		J (organize): 3348.98958453
+	Iteracao: 2
+		J (prototypes): 3289.81258607
+		J (weight): 3242.91570674
+		J (organize): 3188.50969749
+	Iteracao: 3
+		J (prototypes): 3174.27904825
+		J (weight): 3172.97753468
+		J (organize): 3155.06861619
+	Iteracao: 4
+		J (prototypes): 3144.02259327
+		J (weight): 3142.41879323
+		J (organize): 3136.10946852
+	Iteracao: 5
+		J (prototypes): 3135.55951956
+		J (weight): 3135.4888396
+		J (organize): 3135.41332417
+	Iteracao: 6
+		J (prototypes): 3135.40867245
+		J (weight): 3135.40607589
+		J (organize): 3135.35471027
+	Iteracao: 7
+		J (prototypes): 3135.35471027
+		J (weight): 3135.35464422
+		J (organize): 3135.35464422
+
+	CR: 0.519937865413
+
+
+Repeticao: 157
+	J (init): 6619.3479605
+	Iteracao: 1
+		J (prototypes): 4630.42106378
+		J (weight): 4615.31937767
+		J (organize): 3922.34385873
+	Iteracao: 2
+		J (prototypes): 3678.56057315
+		J (weight): 3546.21942138
+		J (organize): 3353.07978491
+	Iteracao: 3
+		J (prototypes): 3324.54425518
+		J (weight): 3319.60671704
+		J (organize): 3246.58372635
+	Iteracao: 4
+		J (prototypes): 3203.0034032
+		J (weight): 3201.37285499
+		J (organize): 3175.66197335
+	Iteracao: 5
+		J (prototypes): 3164.83396781
+		J (weight): 3164.8254071
+		J (organize): 3162.3789108
+	Iteracao: 6
+		J (prototypes): 3162.01756241
+		J (weight): 3162.01400086
+		J (organize): 3162.01400086
+
+	CR: 0.518794106389
+
+
+Repeticao: 158
+	J (init): 6363.72491416
+	Iteracao: 1
+		J (prototypes): 4033.521121
+		J (weight): 4015.30971503
+		J (organize): 3755.69178664
+	Iteracao: 2
+		J (prototypes): 3653.20400226
+		J (weight): 3644.38686535
+		J (organize): 3601.4594833
+	Iteracao: 3
+		J (prototypes): 3579.32120587
+		J (weight): 3579.32092314
+		J (organize): 3562.08133178
+	Iteracao: 4
+		J (prototypes): 3550.08222757
+		J (weight): 3550.0086411
+		J (organize): 3452.14989931
+	Iteracao: 5
+		J (prototypes): 3358.00048541
+		J (weight): 3357.00405753
+		J (organize): 3308.51658358
+	Iteracao: 6
+		J (prototypes): 3294.49275444
+		J (weight): 3294.03832883
+		J (organize): 3277.78669752
+	Iteracao: 7
+		J (prototypes): 3264.59141841
+		J (weight): 3264.55979292
+		J (organize): 3260.92047197
+	Iteracao: 8
+		J (prototypes): 3260.78316655
+		J (weight): 3260.76545779
+		J (organize): 3259.61987054
+	Iteracao: 9
+		J (prototypes): 3258.41675193
+		J (weight): 3258.4143572
+		J (organize): 3251.86917375
+	Iteracao: 10
+		J (prototypes): 3251.86917375
+		J (weight): 3251.83181171
+		J (organize): 3251.82664288
+	Iteracao: 11
+		J (prototypes): 3251.82664288
+		J (weight): 3251.8261249
+		J (organize): 3251.8261249
+
+	CR: 0.45317276757
+
+
+Repeticao: 159
+	J (init): 7041.3938393
+	Iteracao: 1
+		J (prototypes): 4873.09716631
+		J (weight): 4853.04873358
+		J (organize): 4375.89444548
+	Iteracao: 2
+		J (prototypes): 4094.6820684
+		J (weight): 4070.7383211
+		J (organize): 3784.97538767
+	Iteracao: 3
+		J (prototypes): 3712.29363218
+		J (weight): 3685.60082741
+		J (organize): 3647.96568087
+	Iteracao: 4
+		J (prototypes): 3573.83657084
+		J (weight): 3572.09788519
+		J (organize): 3435.86844962
+	Iteracao: 5
+		J (prototypes): 3380.19028293
+		J (weight): 3374.9445098
+		J (organize): 3360.38290475
+	Iteracao: 6
+		J (prototypes): 3359.22886145
+		J (weight): 3359.05171208
+		J (organize): 3358.40516309
+	Iteracao: 7
+		J (prototypes): 3358.40516309
+		J (weight): 3358.40234121
+		J (organize): 3358.40234121
+
+	CR: 0.46448001473
+
+
+Repeticao: 160
+	J (init): 5753.77689528
+	Iteracao: 1
+		J (prototypes): 4270.55312223
+		J (weight): 4268.40491063
+		J (organize): 3987.54671759
+	Iteracao: 2
+		J (prototypes): 3956.35469263
+		J (weight): 3934.70179627
+		J (organize): 3903.31559284
+	Iteracao: 3
+		J (prototypes): 3859.24654124
+		J (weight): 3857.84524863
+		J (organize): 3659.67230381
+	Iteracao: 4
+		J (prototypes): 3576.64481201
+		J (weight): 3570.85630161
+		J (organize): 3542.26383235
+	Iteracao: 5
+		J (prototypes): 3530.98885582
+		J (weight): 3530.93002095
+		J (organize): 3524.89886154
+	Iteracao: 6
+		J (prototypes): 3523.43930621
+		J (weight): 3523.36073433
+		J (organize): 3522.41538896
+	Iteracao: 7
+		J (prototypes): 3522.41538896
+		J (weight): 3522.40781783
+		J (organize): 3522.40781783
+
+	CR: 0.476974842944
+
+
+Repeticao: 161
+	J (init): 6416.40056621
+	Iteracao: 1
+		J (prototypes): 4756.96728658
+		J (weight): 4756.69501782
+		J (organize): 4398.52618076
+	Iteracao: 2
+		J (prototypes): 4230.1807729
+		J (weight): 4217.57521773
+		J (organize): 3867.44280641
+	Iteracao: 3
+		J (prototypes): 3818.79157735
+		J (weight): 3808.14783917
+		J (organize): 3782.01769654
+	Iteracao: 4
+		J (prototypes): 3747.98354942
+		J (weight): 3747.97973376
+		J (organize): 3723.82680225
+	Iteracao: 5
+		J (prototypes): 3720.70192349
+		J (weight): 3720.6809962
+		J (organize): 3718.42864053
+	Iteracao: 6
+		J (prototypes): 3718.08893603
+		J (weight): 3718.07379002
+		J (organize): 3718.01506741
+	Iteracao: 7
+		J (prototypes): 3718.01355195
+		J (weight): 3718.01355194
+		J (organize): 3717.92571637
+	Iteracao: 8
+		J (prototypes): 3717.820095
+		J (weight): 3717.81362738
+		J (organize): 3717.80612456
+	Iteracao: 9
+		J (prototypes): 3717.80612456
+		J (weight): 3717.80598426
+		J (organize): 3717.80598426
+
+	CR: 0.379395779937
+
+
+Repeticao: 162
+	J (init): 6506.93211882
+	Iteracao: 1
+		J (prototypes): 4638.40489374
+		J (weight): 4637.0577969
+		J (organize): 4317.4786453
+	Iteracao: 2
+		J (prototypes): 3748.07535322
+		J (weight): 3730.85142291
+		J (organize): 3591.14935362
+	Iteracao: 3
+		J (prototypes): 3583.90638432
+		J (weight): 3582.99054315
+		J (organize): 3582.64567046
+	Iteracao: 4
+		J (prototypes): 3582.62300385
+		J (weight): 3582.58951651
+		J (organize): 3579.044132
+	Iteracao: 5
+		J (prototypes): 3579.044132
+		J (weight): 3578.48836783
+		J (organize): 3578.32521732
+	Iteracao: 6
+		J (prototypes): 3578.32521732
+		J (weight): 3578.30015325
+		J (organize): 3578.29977078
+	Iteracao: 7
+		J (prototypes): 3578.29977078
+		J (weight): 3578.298822
+		J (organize): 3578.29849468
+	Iteracao: 8
+		J (prototypes): 3578.29849468
+		J (weight): 3578.2981556
+		J (organize): 3578.2981556
+
+	CR: 0.461961893825
+
+
+Repeticao: 163
+	J (init): 6009.60704646
+	Iteracao: 1
+		J (prototypes): 4943.11463473
+		J (weight): 4938.124573
+		J (organize): 4442.88193762
+	Iteracao: 2
+		J (prototypes): 3707.13505943
+		J (weight): 3590.05878103
+		J (organize): 3484.93012463
+	Iteracao: 3
+		J (prototypes): 3437.48286264
+		J (weight): 3437.29891396
+		J (organize): 3411.59351639
+	Iteracao: 4
+		J (prototypes): 3402.96897563
+		J (weight): 3402.88952528
+		J (organize): 3391.88194256
+	Iteracao: 5
+		J (prototypes): 3384.79248381
+		J (weight): 3384.61838203
+		J (organize): 3374.36277837
+	Iteracao: 6
+		J (prototypes): 3366.76395436
+		J (weight): 3366.75199633
+		J (organize): 3359.19271983
+	Iteracao: 7
+		J (prototypes): 3359.19271983
+		J (weight): 3359.16814132
+		J (organize): 3359.16716713
+	Iteracao: 8
+		J (prototypes): 3359.16716713
+		J (weight): 3359.16678564
+		J (organize): 3359.16640322
+	Iteracao: 9
+		J (prototypes): 3359.16640322
+		J (weight): 3359.16597341
+		J (organize): 3359.16597341
+
+	CR: 0.45907374743
+
+
+Repeticao: 164
+	J (init): 6228.59078197
+	Iteracao: 1
+		J (prototypes): 4158.70159713
+		J (weight): 4131.95388854
+		J (organize): 3716.96949934
+	Iteracao: 2
+		J (prototypes): 3585.22009206
+		J (weight): 3573.19681731
+		J (organize): 3361.12014342
+	Iteracao: 3
+		J (prototypes): 3328.0142477
+		J (weight): 3295.03707626
+		J (organize): 3263.96767337
+	Iteracao: 4
+		J (prototypes): 3256.74857892
+		J (weight): 3251.39054081
+		J (organize): 3246.79327366
+	Iteracao: 5
+		J (prototypes): 3246.68339408
+		J (weight): 3246.36328924
+		J (organize): 3246.33502803
+	Iteracao: 6
+		J (prototypes): 3246.33502803
+		J (weight): 3246.33193379
+		J (organize): 3246.33193379
+
+	CR: 0.495565379438
+
+
+Repeticao: 165
+	J (init): 6050.15814005
+	Iteracao: 1
+		J (prototypes): 4483.55440183
+		J (weight): 4482.44830346
+		J (organize): 3775.27416411
+	Iteracao: 2
+		J (prototypes): 3654.16750849
+		J (weight): 3623.03196284
+		J (organize): 3578.40388432
+	Iteracao: 3
+		J (prototypes): 3559.43284521
+		J (weight): 3558.09516048
+		J (organize): 3530.8043059
+	Iteracao: 4
+		J (prototypes): 3513.08220121
+		J (weight): 3511.25745104
+		J (organize): 3501.83866581
+	Iteracao: 5
+		J (prototypes): 3494.39119971
+		J (weight): 3494.17676463
+		J (organize): 3486.50462891
+	Iteracao: 6
+		J (prototypes): 3479.64941713
+		J (weight): 3479.2229771
+		J (organize): 3473.40354981
+	Iteracao: 7
+		J (prototypes): 3471.91300929
+		J (weight): 3471.43955619
+		J (organize): 3466.07595672
+	Iteracao: 8
+		J (prototypes): 3455.47467378
+		J (weight): 3455.04597921
+		J (organize): 3428.09013785
+	Iteracao: 9
+		J (prototypes): 3407.90941582
+		J (weight): 3406.98791482
+		J (organize): 3399.95039476
+	Iteracao: 10
+		J (prototypes): 3399.41814443
+		J (weight): 3399.37304825
+		J (organize): 3399.2054197
+	Iteracao: 11
+		J (prototypes): 3399.2054197
+		J (weight): 3399.20294416
+		J (organize): 3399.2022526
+	Iteracao: 12
+		J (prototypes): 3399.2022526
+		J (weight): 3399.20193726
+		J (organize): 3399.20193726
+
+	CR: 0.418965678113
+
+
+Repeticao: 166
+	J (init): 6505.56049542
+	Iteracao: 1
+		J (prototypes): 3879.6030783
+		J (weight): 3856.0015145
+		J (organize): 3615.26544066
+	Iteracao: 2
+		J (prototypes): 3541.79374877
+		J (weight): 3518.58590372
+		J (organize): 3485.88965105
+	Iteracao: 3
+		J (prototypes): 3463.82069298
+		J (weight): 3463.54002851
+		J (organize): 3444.47918729
+	Iteracao: 4
+		J (prototypes): 3443.56715142
+		J (weight): 3443.48019439
+		J (organize): 3438.88849757
+	Iteracao: 5
+		J (prototypes): 3412.99485211
+		J (weight): 3412.98779489
+		J (organize): 3347.86869533
+	Iteracao: 6
+		J (prototypes): 3332.6631236
+		J (weight): 3332.66085289
+		J (organize): 3321.44323652
+	Iteracao: 7
+		J (prototypes): 3316.93655818
+		J (weight): 3316.79595837
+		J (organize): 3311.65300805
+	Iteracao: 8
+		J (prototypes): 3307.64488223
+		J (weight): 3307.62679087
+		J (organize): 3306.09255093
+	Iteracao: 9
+		J (prototypes): 3306.09255093
+		J (weight): 3306.04203418
+		J (organize): 3306.03176555
+	Iteracao: 10
+		J (prototypes): 3306.03176555
+		J (weight): 3306.02923326
+		J (organize): 3306.02923326
+
+	CR: 0.461779436178
+
+
+Repeticao: 167
+	J (init): 6319.28067331
+	Iteracao: 1
+		J (prototypes): 4193.79045233
+		J (weight): 4176.44896466
+		J (organize): 3681.25561361
+	Iteracao: 2
+		J (prototypes): 3585.63735101
+		J (weight): 3559.03849387
+		J (organize): 3509.05856078
+	Iteracao: 3
+		J (prototypes): 3483.5845779
+		J (weight): 3478.65328882
+		J (organize): 3450.71561069
+	Iteracao: 4
+		J (prototypes): 3443.24631449
+		J (weight): 3441.81361498
+		J (organize): 3436.28952571
+	Iteracao: 5
+		J (prototypes): 3432.43713153
+		J (weight): 3432.24455561
+		J (organize): 3423.54155119
+	Iteracao: 6
+		J (prototypes): 3418.96380805
+		J (weight): 3418.68273249
+		J (organize): 3407.10376357
+	Iteracao: 7
+		J (prototypes): 3404.53046804
+		J (weight): 3404.52790412
+		J (organize): 3355.50300099
+	Iteracao: 8
+		J (prototypes): 3315.42971928
+		J (weight): 3315.09910769
+		J (organize): 3269.29726141
+	Iteracao: 9
+		J (prototypes): 3223.96184174
+		J (weight): 3223.27101415
+		J (organize): 3178.60353066
+	Iteracao: 10
+		J (prototypes): 3166.8829638
+		J (weight): 3166.2781185
+		J (organize): 3161.74161786
+	Iteracao: 11
+		J (prototypes): 3160.69989096
+		J (weight): 3160.68319462
+		J (organize): 3159.06977065
+	Iteracao: 12
+		J (prototypes): 3159.06977065
+		J (weight): 3159.06959798
+		J (organize): 3159.06959798
+
+	CR: 0.524968974887
+
+
+Repeticao: 168
+	J (init): 7061.08227518
+	Iteracao: 1
+		J (prototypes): 5160.40739255
+		J (weight): 5097.79573251
+		J (organize): 4139.38774032
+	Iteracao: 2
+		J (prototypes): 3663.23644046
+		J (weight): 3630.7426685
+		J (organize): 3447.60092448
+	Iteracao: 3
+		J (prototypes): 3419.35446587
+		J (weight): 3401.93657749
+		J (organize): 3383.12294908
+	Iteracao: 4
+		J (prototypes): 3372.03850692
+		J (weight): 3370.06025247
+		J (organize): 3347.61201366
+	Iteracao: 5
+		J (prototypes): 3311.2686137
+		J (weight): 3302.35364628
+		J (organize): 3275.78690654
+	Iteracao: 6
+		J (prototypes): 3272.18716606
+		J (weight): 3271.51701638
+		J (organize): 3267.96618965
+	Iteracao: 7
+		J (prototypes): 3265.78061574
+		J (weight): 3265.7219221
+		J (organize): 3261.41823226
+	Iteracao: 8
+		J (prototypes): 3260.78140749
+		J (weight): 3260.72521635
+		J (organize): 3257.85752464
+	Iteracao: 9
+		J (prototypes): 3254.93754565
+		J (weight): 3254.78193922
+		J (organize): 3250.64070178
+	Iteracao: 10
+		J (prototypes): 3248.77092018
+		J (weight): 3248.64335005
+		J (organize): 3230.04809665
+	Iteracao: 11
+		J (prototypes): 3216.32212345
+		J (weight): 3216.25574457
+		J (organize): 3211.8123902
+	Iteracao: 12
+		J (prototypes): 3211.64285131
+		J (weight): 3211.61875239
+		J (organize): 3211.58435629
+	Iteracao: 13
+		J (prototypes): 3211.58435629
+		J (weight): 3211.58419419
+		J (organize): 3211.58419419
+
+	CR: 0.502217295901
+
+
+Repeticao: 169
+	J (init): 5772.51087656
+	Iteracao: 1
+		J (prototypes): 4087.02000221
+		J (weight): 4085.56422796
+		J (organize): 4007.69257879
+	Iteracao: 2
+		J (prototypes): 3954.80164584
+		J (weight): 3939.01602781
+		J (organize): 3814.62137894
+	Iteracao: 3
+		J (prototypes): 3664.17290632
+		J (weight): 3654.18031589
+		J (organize): 3550.48788739
+	Iteracao: 4
+		J (prototypes): 3524.71844419
+		J (weight): 3522.55784665
+		J (organize): 3501.12795295
+	Iteracao: 5
+		J (prototypes): 3496.39417204
+		J (weight): 3496.36324981
+		J (organize): 3494.39631958
+	Iteracao: 6
+		J (prototypes): 3494.39631958
+		J (weight): 3494.39408912
+		J (organize): 3494.39349873
+	Iteracao: 7
+		J (prototypes): 3494.39349873
+		J (weight): 3494.39339985
+		J (organize): 3494.39339985
+
+	CR: 0.484469324928
+
+
+Repeticao: 170
+	J (init): 6204.04526014
+	Iteracao: 1
+		J (prototypes): 4498.77632669
+		J (weight): 4492.36260244
+		J (organize): 4351.79749141
+	Iteracao: 2
+		J (prototypes): 3829.08031009
+		J (weight): 3772.92638105
+		J (organize): 3608.27047772
+	Iteracao: 3
+		J (prototypes): 3576.57081175
+		J (weight): 3564.73534417
+		J (organize): 3438.83984029
+	Iteracao: 4
+		J (prototypes): 3372.47102829
+		J (weight): 3370.46455081
+		J (organize): 3328.27188724
+	Iteracao: 5
+		J (prototypes): 3325.76674077
+		J (weight): 3325.7299567
+		J (organize): 3323.97603038
+	Iteracao: 6
+		J (prototypes): 3322.76142758
+		J (weight): 3322.74447981
+		J (organize): 3321.24273513
+	Iteracao: 7
+		J (prototypes): 3321.24273513
+		J (weight): 3321.21844655
+		J (organize): 3321.21498158
+	Iteracao: 8
+		J (prototypes): 3321.21498158
+		J (weight): 3321.21472166
+		J (organize): 3321.21472166
+
+	CR: 0.502012684215
+
+
+Repeticao: 171
+	J (init): 6469.31191977
+	Iteracao: 1
+		J (prototypes): 3824.43504548
+		J (weight): 3779.73311089
+		J (organize): 3601.22154014
+	Iteracao: 2
+		J (prototypes): 3523.99425408
+		J (weight): 3516.06729426
+		J (organize): 3374.06444404
+	Iteracao: 3
+		J (prototypes): 3242.55098476
+		J (weight): 3240.74666547
+		J (organize): 3182.3162086
+	Iteracao: 4
+		J (prototypes): 3177.0386774
+		J (weight): 3176.74624125
+		J (organize): 3175.06349417
+	Iteracao: 5
+		J (prototypes): 3175.06349417
+		J (weight): 3175.05836182
+		J (organize): 3175.05824564
+	Iteracao: 6
+		J (prototypes): 3175.05824564
+		J (weight): 3175.05816285
+		J (organize): 3175.05816285
+
+	CR: 0.507027520537
+
+
+Repeticao: 172
+	J (init): 6538.87487448
+	Iteracao: 1
+		J (prototypes): 4473.1681615
+		J (weight): 4448.84588729
+		J (organize): 3761.97044809
+	Iteracao: 2
+		J (prototypes): 3590.73979513
+		J (weight): 3532.83330883
+		J (organize): 3473.12532047
+	Iteracao: 3
+		J (prototypes): 3437.19844547
+		J (weight): 3424.40670429
+		J (organize): 3393.08309807
+	Iteracao: 4
+		J (prototypes): 3391.03530912
+		J (weight): 3387.7189086
+		J (organize): 3385.61633551
+	Iteracao: 5
+		J (prototypes): 3384.68798618
+		J (weight): 3384.58369639
+		J (organize): 3383.24132722
+	Iteracao: 6
+		J (prototypes): 3382.39633977
+		J (weight): 3382.35329366
+		J (organize): 3379.04591128
+	Iteracao: 7
+		J (prototypes): 3379.04591128
+		J (weight): 3379.02743744
+		J (organize): 3379.02743744
+
+	CR: 0.423902080687
+
+
+Repeticao: 173
+	J (init): 6209.7362666
+	Iteracao: 1
+		J (prototypes): 4798.30749775
+		J (weight): 4794.16041815
+		J (organize): 4568.40672151
+	Iteracao: 2
+		J (prototypes): 4521.0260268
+		J (weight): 4520.19589809
+		J (organize): 4515.46809945
+	Iteracao: 3
+		J (prototypes): 4514.73103119
+		J (weight): 4514.6929286
+		J (organize): 4503.123082
+	Iteracao: 4
+		J (prototypes): 4491.7606252
+		J (weight): 4490.62960812
+		J (organize): 4484.64023651
+	Iteracao: 5
+		J (prototypes): 4477.44075513
+		J (weight): 4477.42018101
+		J (organize): 4472.85271886
+	Iteracao: 6
+		J (prototypes): 4472.01015295
+		J (weight): 4472.00781789
+		J (organize): 4471.32161733
+	Iteracao: 7
+		J (prototypes): 4471.2401896
+		J (weight): 4471.23884564
+		J (organize): 4469.68320897
+	Iteracao: 8
+		J (prototypes): 4469.35590576
+		J (weight): 4469.24861389
+		J (organize): 4468.27860034
+	Iteracao: 9
+		J (prototypes): 4468.27860034
+		J (weight): 4468.20384013
+		J (organize): 4468.19190927
+	Iteracao: 10
+		J (prototypes): 4468.19190927
+		J (weight): 4468.17903147
+		J (organize): 4468.17311628
+	Iteracao: 11
+		J (prototypes): 4468.17311628
+		J (weight): 4468.16785284
+		J (organize): 4468.16234959
+	Iteracao: 12
+		J (prototypes): 4468.16234959
+		J (weight): 4468.15490361
+		J (organize): 4468.15211489
+	Iteracao: 13
+		J (prototypes): 4468.15211489
+		J (weight): 4468.14680093
+		J (organize): 4468.14680093
+
+	CR: 0.350516027187
+
+
+Repeticao: 174
+	J (init): 5851.75388071
+	Iteracao: 1
+		J (prototypes): 3855.33746895
+		J (weight): 3792.4928365
+		J (organize): 3683.68983674
+	Iteracao: 2
+		J (prototypes): 3653.46975369
+		J (weight): 3652.69870671
+		J (organize): 3628.81362917
+	Iteracao: 3
+		J (prototypes): 3599.61594198
+		J (weight): 3599.46803255
+		J (organize): 3562.09767739
+	Iteracao: 4
+		J (prototypes): 3535.36088101
+		J (weight): 3535.0342441
+		J (organize): 3510.79653855
+	Iteracao: 5
+		J (prototypes): 3491.09946657
+		J (weight): 3491.07433465
+		J (organize): 3481.25805595
+	Iteracao: 6
+		J (prototypes): 3471.12295896
+		J (weight): 3470.99591209
+		J (organize): 3458.3341216
+	Iteracao: 7
+		J (prototypes): 3441.64429573
+		J (weight): 3440.93565027
+		J (organize): 3388.45146202
+	Iteracao: 8
+		J (prototypes): 3350.45889877
+		J (weight): 3349.93869898
+		J (organize): 3241.27586577
+	Iteracao: 9
+		J (prototypes): 3212.58851098
+		J (weight): 3212.46325971
+		J (organize): 3192.38050665
+	Iteracao: 10
+		J (prototypes): 3178.60221534
+		J (weight): 3178.60139754
+		J (organize): 3174.62326646
+	Iteracao: 11
+		J (prototypes): 3174.62326646
+		J (weight): 3174.61050833
+		J (organize): 3174.60756385
+	Iteracao: 12
+		J (prototypes): 3174.60756385
+		J (weight): 3174.60625979
+		J (organize): 3174.60625979
+
+	CR: 0.513166593415
+
+
+Repeticao: 175
+	J (init): 7068.55551007
+	Iteracao: 1
+		J (prototypes): 4674.01849575
+		J (weight): 4639.92003635
+		J (organize): 3874.15182246
+	Iteracao: 2
+		J (prototypes): 3646.2055466
+		J (weight): 3574.07982399
+		J (organize): 3486.43971794
+	Iteracao: 3
+		J (prototypes): 3394.61539126
+		J (weight): 3386.4769695
+		J (organize): 3318.5648637
+	Iteracao: 4
+		J (prototypes): 3276.30039519
+		J (weight): 3274.65695671
+		J (organize): 3255.89910837
+	Iteracao: 5
+		J (prototypes): 3252.8662101
+		J (weight): 3252.33912977
+		J (organize): 3251.58883187
+	Iteracao: 6
+		J (prototypes): 3251.58883187
+		J (weight): 3251.56258211
+		J (organize): 3251.56258211
+
+	CR: 0.450722031679
+
+
+Repeticao: 176
+	J (init): 5458.80156478
+	Iteracao: 1
+		J (prototypes): 3910.82583492
+		J (weight): 3854.81350079
+		J (organize): 3673.87572739
+	Iteracao: 2
+		J (prototypes): 3600.65992719
+		J (weight): 3597.36383204
+		J (organize): 3487.69933389
+	Iteracao: 3
+		J (prototypes): 3449.85301819
+		J (weight): 3446.83978348
+		J (organize): 3368.94243858
+	Iteracao: 4
+		J (prototypes): 3334.06025005
+		J (weight): 3333.12469117
+		J (organize): 3322.41778888
+	Iteracao: 5
+		J (prototypes): 3308.29525914
+		J (weight): 3308.24467871
+		J (organize): 3302.22215328
+	Iteracao: 6
+		J (prototypes): 3301.30036024
+		J (weight): 3301.28007603
+		J (organize): 3295.31639704
+	Iteracao: 7
+		J (prototypes): 3294.14070555
+		J (weight): 3294.13919826
+		J (organize): 3294.04683867
+	Iteracao: 8
+		J (prototypes): 3294.04683867
+		J (weight): 3294.04669373
+		J (organize): 3294.04669373
+
+	CR: 0.515783167544
+
+
+Repeticao: 177
+	J (init): 5841.24040713
+	Iteracao: 1
+		J (prototypes): 4072.57017495
+		J (weight): 4045.00853165
+		J (organize): 3990.71933442
+	Iteracao: 2
+		J (prototypes): 3947.30543644
+		J (weight): 3946.03747006
+		J (organize): 3869.74611788
+	Iteracao: 3
+		J (prototypes): 3771.02427661
+		J (weight): 3769.50181698
+		J (organize): 3633.71608712
+	Iteracao: 4
+		J (prototypes): 3570.06248664
+		J (weight): 3564.56847658
+		J (organize): 3534.33319885
+	Iteracao: 5
+		J (prototypes): 3527.95639944
+		J (weight): 3527.94990499
+		J (organize): 3524.88232546
+	Iteracao: 6
+		J (prototypes): 3523.40563464
+		J (weight): 3523.36073433
+		J (organize): 3522.41538896
+	Iteracao: 7
+		J (prototypes): 3522.41538896
+		J (weight): 3522.40781783
+		J (organize): 3522.40781783
+
+	CR: 0.476974842944
+
+
+Repeticao: 178
+	J (init): 5740.85277317
+	Iteracao: 1
+		J (prototypes): 3415.88889602
+		J (weight): 3289.12118912
+		J (organize): 3205.08882537
+	Iteracao: 2
+		J (prototypes): 3192.69424995
+		J (weight): 3189.97557627
+		J (organize): 3182.94602199
+	Iteracao: 3
+		J (prototypes): 3180.63237734
+		J (weight): 3180.61134439
+		J (organize): 3179.79717342
+	Iteracao: 4
+		J (prototypes): 3179.79717342
+		J (weight): 3179.79715035
+		J (organize): 3179.79715035
+
+	CR: 0.520109922057
+
+
+Repeticao: 179
+	J (init): 5805.31436317
+	Iteracao: 1
+		J (prototypes): 4202.40162135
+		J (weight): 4198.99371851
+		J (organize): 3499.9423024
+	Iteracao: 2
+		J (prototypes): 3344.93515014
+		J (weight): 3202.27320558
+		J (organize): 3143.97696232
+	Iteracao: 3
+		J (prototypes): 3131.03797641
+		J (weight): 3128.64699076
+		J (organize): 3113.67588266
+	Iteracao: 4
+		J (prototypes): 3109.03003994
+		J (weight): 3108.92859064
+		J (organize): 3106.33522206
+	Iteracao: 5
+		J (prototypes): 3106.33522206
+		J (weight): 3106.33508249
+		J (organize): 3106.33508249
+
+	CR: 0.529962654703
+
+
+Repeticao: 180
+	J (init): 6999.86084519
+	Iteracao: 1
+		J (prototypes): 4647.6751595
+		J (weight): 4642.68358868
+		J (organize): 4429.89365217
+	Iteracao: 2
+		J (prototypes): 4303.74391249
+		J (weight): 4296.46219902
+		J (organize): 4056.22450566
+	Iteracao: 3
+		J (prototypes): 4001.52389779
+		J (weight): 3985.77014661
+		J (organize): 3926.5496815
+	Iteracao: 4
+		J (prototypes): 3912.55235788
+		J (weight): 3908.98749559
+		J (organize): 3906.68896815
+	Iteracao: 5
+		J (prototypes): 3902.22561957
+		J (weight): 3902.01799794
+		J (organize): 3894.83389095
+	Iteracao: 6
+		J (prototypes): 3894.83389095
+		J (weight): 3894.81363922
+		J (organize): 3894.81363922
+
+	CR: 0.479683477278
+
+
+Repeticao: 181
+	J (init): 5890.27056554
+	Iteracao: 1
+		J (prototypes): 4323.73962528
+		J (weight): 4323.0209093
+		J (organize): 4133.82304994
+	Iteracao: 2
+		J (prototypes): 3920.06099889
+		J (weight): 3899.10415548
+		J (organize): 3612.89210101
+	Iteracao: 3
+		J (prototypes): 3565.85137254
+		J (weight): 3551.35234866
+		J (organize): 3527.07058757
+	Iteracao: 4
+		J (prototypes): 3526.149147
+		J (weight): 3525.93190113
+		J (organize): 3523.81128523
+	Iteracao: 5
+		J (prototypes): 3523.13750783
+		J (weight): 3523.1361558
+		J (organize): 3522.8423462
+	Iteracao: 6
+		J (prototypes): 3522.8423462
+		J (weight): 3522.8420598
+		J (organize): 3522.8420598
+
+	CR: 0.478808972346
+
+
+Repeticao: 182
+	J (init): 6327.30693969
+	Iteracao: 1
+		J (prototypes): 4231.96877114
+		J (weight): 4231.7657616
+		J (organize): 3741.99039782
+	Iteracao: 2
+		J (prototypes): 3670.85201457
+		J (weight): 3620.20650119
+		J (organize): 3598.44347561
+	Iteracao: 3
+		J (prototypes): 3592.09759053
+		J (weight): 3590.39233974
+		J (organize): 3584.16272141
+	Iteracao: 4
+		J (prototypes): 3583.46487014
+		J (weight): 3583.21164525
+		J (organize): 3579.813495
+	Iteracao: 5
+		J (prototypes): 3566.59109504
+		J (weight): 3566.54744393
+		J (organize): 3443.11371589
+	Iteracao: 6
+		J (prototypes): 3396.10856538
+		J (weight): 3393.22518414
+		J (organize): 3372.27692311
+	Iteracao: 7
+		J (prototypes): 3369.77650124
+		J (weight): 3369.70286638
+		J (organize): 3369.47953744
+	Iteracao: 8
+		J (prototypes): 3369.28220651
+		J (weight): 3369.28132417
+		J (organize): 3369.23041653
+	Iteracao: 9
+		J (prototypes): 3369.23041653
+		J (weight): 3369.23041534
+		J (organize): 3369.23041534
+
+	CR: 0.479598895811
+
+
+Repeticao: 183
+	J (init): 6609.17226846
+	Iteracao: 1
+		J (prototypes): 4107.38621038
+		J (weight): 4094.56907063
+		J (organize): 3826.77160297
+	Iteracao: 2
+		J (prototypes): 3710.30887098
+		J (weight): 3698.88490572
+		J (organize): 3544.95750425
+	Iteracao: 3
+		J (prototypes): 3439.92614337
+		J (weight): 3434.37174818
+		J (organize): 3370.14956828
+	Iteracao: 4
+		J (prototypes): 3355.85084479
+		J (weight): 3355.38504071
+		J (organize): 3338.37788541
+	Iteracao: 5
+		J (prototypes): 3324.11411364
+		J (weight): 3324.10438572
+		J (organize): 3321.21834873
+	Iteracao: 6
+		J (prototypes): 3321.21834873
+		J (weight): 3321.21472166
+		J (organize): 3321.21472166
+
+	CR: 0.502012684215
+
+
+Repeticao: 184
+	J (init): 6363.53534229
+	Iteracao: 1
+		J (prototypes): 4430.7378035
+		J (weight): 4428.95482342
+		J (organize): 3655.53389527
+	Iteracao: 2
+		J (prototypes): 3435.36835493
+		J (weight): 3385.03565051
+		J (organize): 3353.68751483
+	Iteracao: 3
+		J (prototypes): 3332.25349337
+		J (weight): 3330.43389842
+		J (organize): 3313.03863956
+	Iteracao: 4
+		J (prototypes): 3307.97955239
+		J (weight): 3306.19966747
+		J (organize): 3303.81654585
+	Iteracao: 5
+		J (prototypes): 3302.90476129
+		J (weight): 3302.82449726
+		J (organize): 3301.71419299
+	Iteracao: 6
+		J (prototypes): 3301.44383886
+		J (weight): 3301.4018283
+		J (organize): 3301.07631019
+	Iteracao: 7
+		J (prototypes): 3300.94937254
+		J (weight): 3300.94532389
+		J (organize): 3300.72632507
+	Iteracao: 8
+		J (prototypes): 3300.72632507
+		J (weight): 3300.72559171
+		J (organize): 3300.72559171
+
+	CR: 0.530665622841
+
+
+Repeticao: 185
+	J (init): 6335.86824375
+	Iteracao: 1
+		J (prototypes): 4240.74194114
+		J (weight): 4237.7623189
+		J (organize): 3703.38352646
+	Iteracao: 2
+		J (prototypes): 3545.01873346
+		J (weight): 3490.95537094
+		J (organize): 3418.60126594
+	Iteracao: 3
+		J (prototypes): 3386.02164053
+		J (weight): 3363.10692601
+		J (organize): 3323.40345018
+	Iteracao: 4
+		J (prototypes): 3300.84308782
+		J (weight): 3298.53114896
+		J (organize): 3274.10769858
+	Iteracao: 5
+		J (prototypes): 3254.55452694
+		J (weight): 3254.37618755
+		J (organize): 3217.62614214
+	Iteracao: 6
+		J (prototypes): 3204.26475047
+		J (weight): 3204.25880602
+		J (organize): 3191.70582807
+	Iteracao: 7
+		J (prototypes): 3188.56896658
+		J (weight): 3187.93792222
+		J (organize): 3184.97555956
+	Iteracao: 8
+		J (prototypes): 3184.97555956
+		J (weight): 3184.8718132
+		J (organize): 3184.85303813
+	Iteracao: 9
+		J (prototypes): 3184.77445837
+		J (weight): 3184.77233065
+		J (organize): 3184.2600917
+	Iteracao: 10
+		J (prototypes): 3184.2600917
+		J (weight): 3184.25341997
+		J (organize): 3184.25341997
+
+	CR: 0.546030852581
+
+
+Repeticao: 186
+	J (init): 5639.53691599
+	Iteracao: 1
+		J (prototypes): 3849.80721318
+		J (weight): 3828.13492714
+		J (organize): 3689.47716526
+	Iteracao: 2
+		J (prototypes): 3656.11355535
+		J (weight): 3656.02828468
+		J (organize): 3609.11149995
+	Iteracao: 3
+		J (prototypes): 3575.53581086
+		J (weight): 3575.32195292
+		J (organize): 3539.21645625
+	Iteracao: 4
+		J (prototypes): 3474.08178995
+		J (weight): 3471.9322
+		J (organize): 3383.2222879
+	Iteracao: 5
+		J (prototypes): 3294.13626729
+		J (weight): 3291.37754773
+		J (organize): 3265.744265
+	Iteracao: 6
+		J (prototypes): 3263.28183708
+		J (weight): 3262.72805885
+		J (organize): 3260.45406609
+	Iteracao: 7
+		J (prototypes): 3259.75359383
+		J (weight): 3259.74868488
+		J (organize): 3259.10696785
+	Iteracao: 8
+		J (prototypes): 3259.10696785
+		J (weight): 3259.10682247
+		J (organize): 3259.10682247
+
+	CR: 0.437053700067
+
+
+Repeticao: 187
+	J (init): 7235.8684217
+	Iteracao: 1
+		J (prototypes): 3990.21647445
+		J (weight): 3983.63489179
+		J (organize): 3565.37479273
+	Iteracao: 2
+		J (prototypes): 3487.57476122
+		J (weight): 3453.89296312
+		J (organize): 3418.51026541
+	Iteracao: 3
+		J (prototypes): 3416.47648328
+		J (weight): 3415.01297405
+		J (organize): 3407.07002705
+	Iteracao: 4
+		J (prototypes): 3403.31491105
+		J (weight): 3403.13911739
+		J (organize): 3398.96840458
+	Iteracao: 5
+		J (prototypes): 3397.31938842
+		J (weight): 3397.319382
+		J (organize): 3396.78841511
+	Iteracao: 6
+		J (prototypes): 3396.78841511
+		J (weight): 3396.78485315
+		J (organize): 3396.78485315
+
+	CR: 0.39852174108
+
+
+Repeticao: 188
+	J (init): 5994.38888159
+	Iteracao: 1
+		J (prototypes): 4451.10397618
+		J (weight): 4451.0981977
+		J (organize): 4154.92533342
+	Iteracao: 2
+		J (prototypes): 3987.76265757
+		J (weight): 3963.42110449
+		J (organize): 3550.93104315
+	Iteracao: 3
+		J (prototypes): 3448.91914811
+		J (weight): 3422.92897217
+		J (organize): 3382.37860246
+	Iteracao: 4
+		J (prototypes): 3378.37890266
+		J (weight): 3377.61174876
+		J (organize): 3376.84813411
+	Iteracao: 5
+		J (prototypes): 3376.83080124
+		J (weight): 3376.82337827
+		J (organize): 3376.80546898
+	Iteracao: 6
+		J (prototypes): 3376.80546898
+		J (weight): 3376.80518077
+		J (organize): 3376.80518077
+
+	CR: 0.491958915041
+
+
+Repeticao: 189
+	J (init): 6195.90609119
+	Iteracao: 1
+		J (prototypes): 4162.83729403
+		J (weight): 4148.75274762
+		J (organize): 3483.6242727
+	Iteracao: 2
+		J (prototypes): 3354.50198982
+		J (weight): 3324.99596914
+		J (organize): 3288.02292967
+	Iteracao: 3
+		J (prototypes): 3265.40946637
+		J (weight): 3265.39210832
+		J (organize): 3247.64744877
+	Iteracao: 4
+		J (prototypes): 3246.28054696
+		J (weight): 3246.15944543
+		J (organize): 3245.0926432
+	Iteracao: 5
+		J (prototypes): 3245.06863307
+		J (weight): 3245.06776351
+		J (organize): 3244.80141093
+	Iteracao: 6
+		J (prototypes): 3244.80141093
+		J (weight): 3244.80022291
+		J (organize): 3244.80022291
+
+	CR: 0.486674317177
+
+
+Repeticao: 190
+	J (init): 5803.88495217
+	Iteracao: 1
+		J (prototypes): 3955.16742323
+		J (weight): 3949.7115774
+		J (organize): 3830.92072872
+	Iteracao: 2
+		J (prototypes): 3790.35522763
+		J (weight): 3774.81655793
+		J (organize): 3592.90768314
+	Iteracao: 3
+		J (prototypes): 3464.27089593
+		J (weight): 3428.6133959
+		J (organize): 3362.1597842
+	Iteracao: 4
+		J (prototypes): 3342.27232765
+		J (weight): 3340.5366938
+		J (organize): 3326.21907643
+	Iteracao: 5
+		J (prototypes): 3321.13415873
+		J (weight): 3320.90004913
+		J (organize): 3318.14367735
+	Iteracao: 6
+		J (prototypes): 3318.14367735
+		J (weight): 3318.14185949
+		J (organize): 3318.14185949
+
+	CR: 0.50371737899
+
+
+Repeticao: 191
+	J (init): 6148.16201412
+	Iteracao: 1
+		J (prototypes): 4232.88996527
+		J (weight): 4232.87279689
+		J (organize): 3591.73216441
+	Iteracao: 2
+		J (prototypes): 3417.44974901
+		J (weight): 3372.00661379
+		J (organize): 3191.60107629
+	Iteracao: 3
+		J (prototypes): 3149.55989375
+		J (weight): 3137.46522247
+		J (organize): 3117.19885725
+	Iteracao: 4
+		J (prototypes): 3110.3956393
+		J (weight): 3109.4133063
+		J (organize): 3106.17935139
+	Iteracao: 5
+		J (prototypes): 3106.00325193
+		J (weight): 3105.95307959
+		J (organize): 3105.73012287
+	Iteracao: 6
+		J (prototypes): 3105.70948551
+		J (weight): 3105.70845771
+		J (organize): 3105.4971227
+	Iteracao: 7
+		J (prototypes): 3105.45437125
+		J (weight): 3105.45042795
+		J (organize): 3105.36727361
+	Iteracao: 8
+		J (prototypes): 3105.36727361
+		J (weight): 3105.36600689
+		J (organize): 3105.36564361
+	Iteracao: 9
+		J (prototypes): 3105.36564361
+		J (weight): 3105.36533544
+		J (organize): 3105.36533544
+
+	CR: 0.532306569238
+
+
+Repeticao: 192
+	J (init): 6827.84707927
+	Iteracao: 1
+		J (prototypes): 4607.82082928
+		J (weight): 4594.28282786
+		J (organize): 4247.54001726
+	Iteracao: 2
+		J (prototypes): 4174.68248514
+		J (weight): 4173.48327971
+		J (organize): 4140.85774333
+	Iteracao: 3
+		J (prototypes): 4117.96091309
+		J (weight): 4115.85842403
+		J (organize): 4071.89542758
+	Iteracao: 4
+		J (prototypes): 4038.77022682
+		J (weight): 4038.23550266
+		J (organize): 3984.21288932
+	Iteracao: 5
+		J (prototypes): 3949.12353013
+		J (weight): 3949.10969557
+		J (organize): 3904.51314525
+	Iteracao: 6
+		J (prototypes): 3896.73082846
+		J (weight): 3892.13893247
+		J (organize): 3887.62967607
+	Iteracao: 7
+		J (prototypes): 3884.74140472
+		J (weight): 3884.20047644
+		J (organize): 3879.48011239
+	Iteracao: 8
+		J (prototypes): 3873.35428741
+		J (weight): 3873.33651201
+		J (organize): 3870.61034262
+	Iteracao: 9
+		J (prototypes): 3869.48835698
+		J (weight): 3869.47858987
+		J (organize): 3868.86850908
+	Iteracao: 10
+		J (prototypes): 3868.39313663
+		J (weight): 3868.39311207
+		J (organize): 3868.25876907
+	Iteracao: 11
+		J (prototypes): 3868.25876907
+		J (weight): 3868.2560716
+		J (organize): 3868.2560716
+
+	CR: 0.343899834722
+
+
+Repeticao: 193
+	J (init): 6792.36600967
+	Iteracao: 1
+		J (prototypes): 4477.11854174
+		J (weight): 4474.15267858
+		J (organize): 4219.78053114
+	Iteracao: 2
+		J (prototypes): 4149.41050587
+		J (weight): 4146.25056646
+		J (organize): 4115.98528593
+	Iteracao: 3
+		J (prototypes): 4092.60808065
+		J (weight): 4091.16304986
+		J (organize): 4056.3483591
+	Iteracao: 4
+		J (prototypes): 4047.58908507
+		J (weight): 4042.60342387
+		J (organize): 4038.02851029
+	Iteracao: 5
+		J (prototypes): 4035.27162987
+		J (weight): 4034.52251998
+		J (organize): 4031.58219014
+	Iteracao: 6
+		J (prototypes): 4029.57365339
+		J (weight): 4029.24154136
+		J (organize): 4027.90437097
+	Iteracao: 7
+		J (prototypes): 4027.48312281
+		J (weight): 4027.45014898
+		J (organize): 4024.77952157
+	Iteracao: 8
+		J (prototypes): 4024.35073004
+		J (weight): 4024.34790225
+		J (organize): 4023.92269251
+	Iteracao: 9
+		J (prototypes): 4023.92269251
+		J (weight): 4023.92197468
+		J (organize): 4023.92197468
+
+	CR: 0.326116908001
+
+
+Repeticao: 194
+	J (init): 7193.45540963
+	Iteracao: 1
+		J (prototypes): 4455.02827655
+		J (weight): 4452.57494251
+		J (organize): 3951.12135626
+	Iteracao: 2
+		J (prototypes): 3852.65467441
+		J (weight): 3841.25073281
+		J (organize): 3791.6456288
+	Iteracao: 3
+		J (prototypes): 3736.0377757
+		J (weight): 3735.36548314
+		J (organize): 3672.0988734
+	Iteracao: 4
+		J (prototypes): 3615.73506355
+		J (weight): 3615.33414979
+		J (organize): 3550.04449497
+	Iteracao: 5
+		J (prototypes): 3514.91679449
+		J (weight): 3513.13600934
+		J (organize): 3490.14827614
+	Iteracao: 6
+		J (prototypes): 3477.98167756
+		J (weight): 3477.89635904
+		J (organize): 3464.88627808
+	Iteracao: 7
+		J (prototypes): 3462.30215891
+		J (weight): 3462.26375098
+		J (organize): 3460.94691326
+	Iteracao: 8
+		J (prototypes): 3460.94691326
+		J (weight): 3460.94509975
+		J (organize): 3460.94509975
+
+	CR: 0.465191958826
+
+
+Repeticao: 195
+	J (init): 6419.76988086
+	Iteracao: 1
+		J (prototypes): 3929.36328686
+		J (weight): 3896.49173222
+		J (organize): 3589.70307915
+	Iteracao: 2
+		J (prototypes): 3546.39240754
+		J (weight): 3528.76204246
+		J (organize): 3523.87332791
+	Iteracao: 3
+		J (prototypes): 3521.91738395
+		J (weight): 3521.84625737
+		J (organize): 3521.56636153
+	Iteracao: 4
+		J (prototypes): 3521.51380648
+		J (weight): 3521.51297172
+		J (organize): 3521.46528517
+	Iteracao: 5
+		J (prototypes): 3521.46528517
+		J (weight): 3521.46528407
+		J (organize): 3521.46528407
+
+	CR: 0.46224613765
+
+
+Repeticao: 196
+	J (init): 5948.72834566
+	Iteracao: 1
+		J (prototypes): 3979.37608607
+		J (weight): 3961.32593837
+		J (organize): 3684.59508196
+	Iteracao: 2
+		J (prototypes): 3628.82185245
+		J (weight): 3622.06762578
+		J (organize): 3585.44842487
+	Iteracao: 3
+		J (prototypes): 3571.8249047
+		J (weight): 3571.39238857
+		J (organize): 3528.06362474
+	Iteracao: 4
+		J (prototypes): 3493.29833674
+		J (weight): 3491.95086881
+		J (organize): 3472.40548975
+	Iteracao: 5
+		J (prototypes): 3460.37330045
+		J (weight): 3460.26720846
+		J (organize): 3448.39203341
+	Iteracao: 6
+		J (prototypes): 3442.73277062
+		J (weight): 3442.7324803
+		J (organize): 3438.94872289
+	Iteracao: 7
+		J (prototypes): 3435.02866692
+		J (weight): 3434.98653512
+		J (organize): 3432.29992333
+	Iteracao: 8
+		J (prototypes): 3429.67175243
+		J (weight): 3429.66886816
+		J (organize): 3427.99289559
+	Iteracao: 9
+		J (prototypes): 3427.16698283
+		J (weight): 3427.16034472
+		J (organize): 3426.85149703
+	Iteracao: 10
+		J (prototypes): 3426.85149703
+		J (weight): 3426.85070514
+		J (organize): 3426.85070514
+
+	CR: 0.420470103717
+
+
+Repeticao: 197
+	J (init): 6656.35435601
+	Iteracao: 1
+		J (prototypes): 4120.96045491
+		J (weight): 4120.95248373
+		J (organize): 3907.02630841
+	Iteracao: 2
+		J (prototypes): 3854.06633202
+		J (weight): 3832.62619671
+		J (organize): 3680.63927735
+	Iteracao: 3
+		J (prototypes): 3587.62000167
+		J (weight): 3586.38454714
+		J (organize): 3484.99719967
+	Iteracao: 4
+		J (prototypes): 3437.57340545
+		J (weight): 3431.71009471
+		J (organize): 3393.11494635
+	Iteracao: 5
+		J (prototypes): 3388.20196483
+		J (weight): 3386.80864146
+		J (organize): 3381.63140417
+	Iteracao: 6
+		J (prototypes): 3380.00148487
+		J (weight): 3379.92306356
+		J (organize): 3378.18634223
+	Iteracao: 7
+		J (prototypes): 3377.34932115
+		J (weight): 3377.24293069
+		J (organize): 3373.0972287
+	Iteracao: 8
+		J (prototypes): 3371.08953835
+		J (weight): 3370.90582599
+		J (organize): 3369.44625061
+	Iteracao: 9
+		J (prototypes): 3368.9648431
+		J (weight): 3368.92701695
+		J (organize): 3368.69596036
+	Iteracao: 10
+		J (prototypes): 3368.66862191
+		J (weight): 3368.65788205
+		J (organize): 3368.04112132
+	Iteracao: 11
+		J (prototypes): 3368.04112132
+		J (weight): 3368.03145391
+		J (organize): 3368.03145391
+
+	CR: 0.425918044861
+
+
+Repeticao: 198
+	J (init): 6315.57984587
+	Iteracao: 1
+		J (prototypes): 4287.90674332
+		J (weight): 4284.24993296
+		J (organize): 3771.04953464
+	Iteracao: 2
+		J (prototypes): 3575.76326399
+		J (weight): 3541.77670704
+		J (organize): 3465.09365911
+	Iteracao: 3
+		J (prototypes): 3407.78402279
+		J (weight): 3406.57403302
+		J (organize): 3371.72326182
+	Iteracao: 4
+		J (prototypes): 3344.35149741
+		J (weight): 3343.7035584
+		J (organize): 3273.34652762
+	Iteracao: 5
+		J (prototypes): 3211.13082332
+		J (weight): 3209.7998294
+		J (organize): 3162.04633513
+	Iteracao: 6
+		J (prototypes): 3158.18214751
+		J (weight): 3156.89355454
+		J (organize): 3151.52775864
+	Iteracao: 7
+		J (prototypes): 3150.53468492
+		J (weight): 3150.50366966
+		J (organize): 3145.49299072
+	Iteracao: 8
+		J (prototypes): 3136.96635002
+		J (weight): 3135.3027581
+		J (organize): 3119.86980792
+	Iteracao: 9
+		J (prototypes): 3109.67433216
+		J (weight): 3107.35890844
+		J (organize): 3105.22380655
+	Iteracao: 10
+		J (prototypes): 3104.46622954
+		J (weight): 3104.43248565
+		J (organize): 3104.08659614
+	Iteracao: 11
+		J (prototypes): 3103.57916884
+		J (weight): 3103.56975712
+		J (organize): 3103.23045769
+	Iteracao: 12
+		J (prototypes): 3103.14499841
+		J (weight): 3103.13943212
+		J (organize): 3103.01663938
+	Iteracao: 13
+		J (prototypes): 3103.01663938
+		J (weight): 3103.01530568
+		J (organize): 3103.01522407
+	Iteracao: 14
+		J (prototypes): 3103.01522407
+		J (weight): 3103.01500641
+		J (organize): 3103.01500641
+
+	CR: 0.544166920677
+
+
+Repeticao: 199
+	J (init): 6135.75651705
+	Iteracao: 1
+		J (prototypes): 4209.79660894
+		J (weight): 4195.23812655
+		J (organize): 3854.74493795
+	Iteracao: 2
+		J (prototypes): 3793.72688415
+		J (weight): 3778.91315922
+		J (organize): 3760.53048432
+	Iteracao: 3
+		J (prototypes): 3752.18160052
+		J (weight): 3752.10061207
+		J (organize): 3682.67012134
+	Iteracao: 4
+		J (prototypes): 3564.17574415
+		J (weight): 3562.03952579
+		J (organize): 3429.72200259
+	Iteracao: 5
+		J (prototypes): 3376.20998881
+		J (weight): 3372.46999635
+		J (organize): 3349.95758553
+	Iteracao: 6
+		J (prototypes): 3345.96005828
+		J (weight): 3345.87291262
+		J (organize): 3344.36915128
+	Iteracao: 7
+		J (prototypes): 3344.36915128
+		J (weight): 3344.36814414
+		J (organize): 3344.36763652
+	Iteracao: 8
+		J (prototypes): 3344.36763652
+		J (weight): 3344.36741994
+		J (organize): 3344.36741994
+
+	CR: 0.500777594226
+
+
+Best result:
+	CR: 0.550098723452
+	Shape weight: 0.746185845202
+	Color weight: 1.34014871286
+	Clusters prototypes:
+			0			1			2	
+		1	1233		1227		1175	
+		2	1840		1862		1814	
+		3	864		813		821	
+		4	1672		1662		560	
+		5	480		990		476	
+		6	242		270		237	
+		7	749		747		722	
