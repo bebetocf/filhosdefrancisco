@@ -3,6 +3,8 @@ import numpy as np
 import math
 from sklearn.metrics.cluster import adjusted_rand_score
 from sklearn import preprocessing
+from tqdm import tqdm
+from datetime import datetime
 
 def normalizeDataframe(df):
     min_max_scaler = preprocessing.MinMaxScaler()
@@ -19,6 +21,8 @@ data = normalizeDataframe(data)
 data['CLUSTER'] = -1 * np.ones((data.shape[0], 1))
 data['LABEL'] = data['LABEL'].astype('category')
 data['LABEL'] = data['LABEL'].astype('category').cat.codes
+
+file_name = "mrdca-rwg_" + str(datetime.now().strftime("%Y-%m-%d_%H:%M")) + ".out"
 
 # data_shape = data.iloc[:, 0:9]
 # data_color = data.iloc[:, 9:19]
@@ -133,36 +137,52 @@ D[:] = []
 D.append(calculate_dissimilarity(data, shape_ini, shape_end))
 D.append(calculate_dissimilarity(data, color_ini, color_end))
 
-for it in range(0, 1):
+best_J = float("inf")
+best_G = np.copy((K, q))
+best_cluster = (data.iloc[:,19:21]).copy()
+best_lambda = np.copy(np.ones(p))
+
+for it in tqdm(range(0, 100)):
+    file = open(file_name, "a")
+
     # Initializaiton
-    print "Repeticao: " + str(it)
+    file.write("Repeticao: " + str(it))
+    file.write("\n")
+    # print ("Repeticao: " + str(it))
     lambda_ = np.ones(p)
     G = random_prototypes(data.index.values, K, q)
     choose_cluster(data, G, D, lambda_)
     t = 0
 
-    best_G = np.copy(G)
-    best_cluster = (data.iloc[:,19:21]).copy()
-    best_lambda = np.copy(lambda_)
-    best_J = float("inf")
 
-    print ("J (init): " + str(calculate_J(D, lambda_, G)))
+    file.write(("\tJ (init): " + str(calculate_J(D, lambda_, G))))
+    file.write("\n")
+    # print(("\tJ (init): " + str(calculate_J(D, lambda_, G))))
 
     stop_calculate = False
     while not stop_calculate:
         t = t + 1
-        print "Iteracao: " + str(t)
+        file.write("\tIteracao: " + str(t))
+        file.write("\n")
+        # print("\tIteracao: " + str(t))
+
         # Calculate best prototypes
         best_prototypes(data, G, D, lambda_)
-        print ("J (prototypes): " + str(calculate_J(D, lambda_, G)))
+        file.write(("\t\tJ (prototypes): " + str(calculate_J(D, lambda_, G))))
+        file.write("\n")
+        # print (("\tJ (prototypes): " + str(calculate_J(D, lambda_, G))))
 
         # Recalculating weight vector
         best_weight(data, G, D, lambda_)
-        print ("J (weight): " + str(calculate_J(D, lambda_, G)))
+        file.write(("\t\tJ (weight): " + str(calculate_J(D, lambda_, G))))
+        file.write("\n")
+        # print (("\tJ (weight): " + str(calculate_J(D, lambda_, G))))
 
         # Choose new cluster for the objects
         stop_calculate = choose_cluster(data, G, D, lambda_)
-        print ("J (organize): " + str(calculate_J(D, lambda_, G)))
+        file.write(("\t\tJ (organize): " + str(calculate_J(D, lambda_, G))))
+        file.write("\n")
+        # print (("\tJ (organize): " + str(calculate_J(D, lambda_, G))))
 
 
     J = calculate_J(D, lambda_, G)
@@ -172,7 +192,25 @@ for it in range(0, 1):
         best_lambda = np.copy(lambda_)
         best_J = J
 
-    print "\n\n"
+    file.write("\n")
+    # print("\n")
+
+    CR = adjusted_rand_score(data['LABEL'], data['CLUSTER'])
+    file.write("\tCR: " + str(CR) + "\n")
+    file.write("\n\n")
+    # print(str(CR))
+    # print("\n\n")
+
+    file.close()
+
+
+
+file = open(file_name, "a")
 
 CR = adjusted_rand_score(best_cluster['LABEL'], best_cluster['CLUSTER'])
-print CR
+file.write("Best result:\n")
+file.write("\tCR: " + str(CR) + "\n")
+file.write("\tShape weight: " + str(best_lambda[0]) + "\n")
+file.write("\tColor weight: " + str(best_lambda[1]))
+# print("Best CR: " + str(CR))
+file.close()
